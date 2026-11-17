@@ -1,0 +1,126 @@
+# İhtilâfu’l-Hadis: Sistemler ve Cem’ ü Te’lif
+> İhtilâfı giderme gereği, Cumhur, Hanefî ve hadisçi sistemleri, ihtilâfı giderme yolları ve bunların ilki olan cem’ ve te’lif: tahsis, takyid, haml.
+
+## İhtilâfı Giderme Gereği
+¶ İslâm bilginleri tarafından bu sahada da takdire şayan bir çaba yerine getirilmiştir. Ne var ki, sahip oldukları değişik bakış açıları ve görüşler onları, tabiî olarak, farklı şekillerde oluşturulan çözüm sistemleri önermeye yöneltmiştir. Esasen bu farklılık, meselenin özündeki ihtilâf kadar tabiî ve normaldir. Binaenaleyh bize göre tenkid edilmesi gerekli olan davranış, bir probleme değişik çözümler önermek ve getirmek değil, çözüm için gayret sarfetmemektir.
+¶ Hadisler arasındaki ihtilâfların giderilmesi gereğine ve çözüm sistemlerinin farklılık arz edebileceğine ve bunların tabiîliğine böylece işaret ettikten sonra, muteârız hadislerin, çözüm açısından genel durumlarına temas etmek yerinde olacaktır.
+¶ Usul âlimlerinin hemen hepsi, “Muhtelifu’l-hadîs” tarifi içine giren ihtilâflı hadislerin cem’ ve telifi mümkün olanlar, cem’ ve te’lifi mümkün olmayanlar diye iki grup teşkil ettiğini kabul etmektedirler.
+¶ “İhtilâfı giderme yolları” diye genel bir isimlendirme ile takdim ettiğimiz cem’i mümkün olan ve olmayan hadîslerin teâruzunu gidermeyi sağlayacak olan usuller, aslında, “te’vilu muhtelifi’l hadîs” adıyla ifade edilen “te’vil” işleminin uygulama yönlerinden ibârettir.
+!! Tenkid edilmesi gerekli olan davranış, bir probleme değişik çözümler önermek değil, çözüm için gayret sarfetmemektir.
+* Muhtelifu’l-hadîs iki gruptur: cem’ ve te’lifi mümkün olanlar ve mümkün olmayanlar.
+* İhtilâfı giderme yolları, “te’vîlu muhtelifi’l-hadîs” denen te’vîl işleminin uygulama yönleridir.
+
+## İhtilâfı Giderme Sistemleri
+¶ İhtilâfın giderilebilmesi için uygulanacak usûllerin hangi sıra ile işleme konulması gerektiği hususunda üç ayrı grup vardır: Cumhuru ulema, Hanefîler ve Hadîsçiler. Bu üç sıra şöyledir.
+### Cumhûr ulemanın sistemi: (CTNT)
+- a. Cem’ ve te’lif
+- b. Tercih
+- c. Nesh
+- d. Tevakkuf (tesâkut)
+### Hanefîlerin sistemi: (NTCT)
+- a. Nesh
+- b. Tercih
+- c. Cem’ ve Te’lif
+- d. Tasâkut (Terk)
+### Hadisçilerin sistemi (CNTT)
+- a. Cem’ ve te’lif
+- b. Nesh
+- c. Tercih
+- d. Tevakkuf
+| Sıra | Cumhûru Ulemaya Göre | Hanefîlere Göre | Hadisçilere Göre
+| **1** | Cem’ ve Te’lif | Nesh | Cem’ ve Te’lif
+| **2** | Tercih | Tercih | Nesh
+| **3** | Nesh | Cem’ ve Te’lif | Tercih
+| **4** | Tevakkuf-Tesâkut | Tesâkut | Tevakkuf
+¶ Sistemlerde en büyük farklılık, Hanefiler ile Hadisçilerinki arasında görülmektedir. Hanefîlerin sistemi, hadisçilerce benimsenmiş olan, hadisin ziyânına mani olmak temel prensibine hayli ters düşmektedir. Cem’ imkânı varken, birinci sırada nesh’den söz etmenin doğru olmayacağı ve nazar-ı itibara alınmayacağı gerekçesiyle Hanefîlerin sistemi kendisi de bir Hanefi olan **Leknevî** (1304/1886) tarafından tenkit edilmiştir. Burada hadis âlimlerinin usulü esas alınmıştır.
+* Üç sistem: Cumhur CTNT (cem’, tercih, nesh, tevakkuf) · Hanefî NTCT (nesh, tercih, cem’, tesâkut) · Hadisçi CNTT (cem’, nesh, tercih, tevakkuf).
+* En büyük fark Hanefîlerle hadisçiler arasındadır; Hanefî sistemi “hadisin ziyânına mani olmak” prensibine ters düşer ve Hanefî olan Leknevî tarafından tenkit edilmiştir.
+
+## İhtilâfı Giderme Yolları
+¶ Hadisçilerin sistemine göre ihtilâfı giderme yolları ve bunların alt kısımları:
+| Yol | Kısımları
+| **Cem’ ve Te’lif** | Tahsis (hadisin hadisle tahsisi · hadisin Kur’an’la tahsisi · hadisin Kur’an’ı tahsisi · kıyas ve örf ile tahsis) · Takyid · Haml
+| **Nesh** | Sünnetin sünnetle neshi · Hadisin Kur’an’la neshi · Hadisin akıl ile neshi
+| **Tercih** | İsnadla ilgili tercih sebepleri (râvinin halleri; râvinin hadisi tahammül vakti ve şekli) · Metin ile ilgili tercih sebepleri (rivâyet keyfiyeti; vürûd vakti ve şekli; lafızlar ve üslûp) · Hüküm (medlûl) yönünden tercih · Hâricî sebeplerle tercih
+| **Tevakkuf** | Teoride tevakkuf · Pratikte tevakkuf
+>> Cem’ ve Te’lif
+>> Nesh
+>> Tercih
+>> Tevakkuf
+¶ Bu bölümde, hadislerin birbirleriyle muâraza edebilecek denkliğe sahip oldukları tespit edildikten sonraki çözüm işlemlerini, hadisçilerin sistemindeki sıra ile tetkîk edeceğiz.
+* Hadisçilerin sırası: cem’ ve te’lif → nesh → tercih → tevakkuf. Bu işlemler, hadislerin muâraza edebilecek denkliğe sahip olduğu tespit edildikten sonra yapılır.
+
+## A. Cem’ ve Te’lif
+: Cem’ = Lügatte, dağınık olanları bir araya getirmektir. Cem’, aynı zamanda, “te’vîl yoluyla iki delîl arasındaki ihtilâfı gidermek, mutlak olarak lafzın delâlet ettiği mânâyi açıklamaktır.”
+¶ Istılahta ise, “**şer’i deliller arasında i’tilâf ve tevâfuk’u aklî veya naklî olarak beyân etmek; edille-i şer’iyye arasında tenâkuza veya noksanlığa götürücü bir ihtilâfın bulunmadığını ya iki tarafın ya da sadece bir tarafın te’vîl edilmesi suretiyle veyâ muteârızlardan birinin ötekine üstünlüğünü tesbit suretiyle veya herhangi bir sebeple muteârızlardan birinin ötekine takdîmi ya da birinin müteahhir ve nâsih olduğunu isbât suretiyle açıklamaktır.**”
+* Cem’: lügatte dağınık olanları bir araya getirmek; te’vîl yoluyla iki delil arasındaki ihtilâfı gidermek.
+
+## Cem’ ve Te’lifin Gerçekleşme Yolları
+¶ Hadisler arasındaki ihtilâfın giderilmesinde cem ve te’lif (bağdaştırma) prensibinin uygulaması tek şekilde olmamaktadır. Kullanılacak metotlar, tamamen fıkıh usûlü metotları olacaktır:
+- a. Tahsîs (“tahsîsu’l-amm”)
+- b. Takyîd (“takyîdu’l-mutlak”)
+- c. Haml (“hamlu’l-hadîs alâ teaddüdi’l-hâdise”)
+| Cem’ ve Te’lif yolu | Kısımları
+| **Tahsis** | Hadisin hadisle tahsisi · Hadisin Kur’an’la tahsisi · Hadisin Kur’an’ı tahsisi · Kıyas ve örf ile tahsis
+| **Takyid** | —
+| **Haml** | —
+* Cem’ ve te’lifin üç yolu fıkıh usûlü metotlarıdır: tahsîs (tahsîsu’l-âmm), takyîd (takyîdu’l-mutlak), haml (hamlu’l-hadîs alâ teaddüdi’l-hâdise).
+
+## a) Tahsîs
+: Tahsîs = Bir lafzın kapsamı içinde bulunan manaları, o lafzın kapsamından çıkarmaktır.
+¶ Usülcüler arasında Tahsis konusunda ittifak vardır. Tahsis, müstakil muhassıs ve ğayrı müstakil muhassıs diye isimlendirilen bazı delillerle gerçekleşmektedir.
+~ Mesela; “Üzerine ALLAH’ın adının anılmadığı şeylerden yemeyin” ayetini, “Müslüman, bismillah desin-demesin kestiğini ALLAH adıyla keser” hadisinin tahsis ettiğini Hanefiler kabul etmez ve kasden besmeleyi terkeden kimsenin kestiği yenmez derler. Şafiler ise bu hadisle, ayeti tahsis ederler ve kesilen eti helal sayarlar.
+! Bu ihtilaf Hanefilerin, Âmmın delaletini kati, Şafilerin ise Âmmın delaletini zanni kabul ettiklerinden kaynaklanır.
+¶ Tahsis 4 Kısımdır. Hadisin hadisle, Hadisin Kur’anla Tahsisi, Hadisin Kur’an’ı Tahsisi ve Kıyas-Örf ile Tahsis.
+### a.a. Hadîsin hadîsle tahsîsi
+¶ Umûmiyetle hadîsin hadîsle tahsîs’i konusunda hadîsin kavlî, fiilî, takrîrî, mütevâtir ve âhâd olmasının neticeye tesiri yoktur. Bunlar yekdiğerini tahsîs eder.
+~ Örneğin, İbn Huzeyme (311/925), “en üstün amel”i, “ilk vaktinde kılınan namaz” olarak belirleyen hadisi, şiddetli sıcaklarda öğle namazını serinliğe bırakmakla ve zor gelmemesi halinde yatsıyı gece yarısına tehir etmekle ilgili hadislerin âmm olmaktan çıkardığını yani tahsis ettiğini belirtmektedir.
+### a.b. Hadîs’in Kur’anla tahsîsi
+~ Hz Peygamber “Ben insanlarla Lâ ilâhe illallah dedikleri âna kadar savaşmakla emrolundum” buyurmaktadır. Allah Teâlâ da “Kendilerine kitap verilenlerden Allah’a ve âhiret gününe inanmayan, Allah’ın ve resulünün haram kıldığını haram saymayan ve hak dinini din edinmeyen kimselerle, küçülüp boyun eğerek elleriyle cizye verecekleri zamana kadar savaşın” buyurmaktadır. Buna göre gayr-i müslimlerle cizye verdikleri takdirde savaşmamak ayetten dolayı; kelime-i tevhid’i söylediklerinde savaşmamak da hadisten ötürüdür. Bu iki halin dışında ise, onlarla savaş edilecektir.
+### a.c. Kur’an’ın hadîsle tahsîsi
+@ وأحل لكم ما وراء ذلكم | Bu ayet, kadının halası veya teyzesi üzerine nikah edilemeyeceğini bildiren hadisle tahsis edilmiştir.
+### a.d. Kıyas ve Örf ile tahsis
+~ Hz. Ebubekir’in zekatı namaza kıyas ederek, zekat vermek istemeyenlerle harb kararı buna örnektir.
+! Örf-i kavlînin mutlakı takyîd, ammı tahsis ettiğinde usûlcüler müttefiktirler. Hanefî usûlcüler ve Mâlikîlerin çoğunluğu, örf-i amelînin, yerleşik olmak kaydiyle âmmı tahsis edeceğini de benimserler. Diğer usûlcüler ise, aksi görüştedirler.
+| Tahsis kısmı | Örnek
+| **Hadisin hadisle tahsisi** | “İlk vaktinde kılınan namaz” hadisini, öğleyi serinliğe ve yatsıyı gece yarısına tehir hadisleri tahsis eder (İbn Huzeyme)
+| **Hadisin Kur’an’la tahsisi** | “Lâ ilâhe illallah dedikleri âna kadar savaşmakla emrolundum” hadisi, cizye ayetiyle tahsis edilir
+| **Kur’an’ın hadisle tahsisi** | «وأحل لكم ما وراء ذلكم» ayeti, kadının halası veya teyzesi üzerine nikâhı yasaklayan hadisle tahsis edilir
+| **Kıyas ve örf ile tahsis** | Hz. Ebubekir’in zekatı namaza kıyas ederek zekat vermeyenlerle harb kararı
+* Tahsîs: lafzın kapsamındaki manaları kapsamdan çıkarmak; usûlcüler arasında ittifak vardır.
+* Besmelesiz kesim: Hanefîler hadisle ayetin tahsisini kabul etmez (âmmın delaleti kat’î); Şâfiîler tahsis eder (âmmın delaleti zannî).
+* Hadisin hadisle tahsisinde hadisin kavlî, fiilî, takrîrî, mütevâtir ya da âhâd olmasının etkisi yoktur.
+* Örf-i kavlî ile tahsis ve takyîde ittifak vardır; örf-i amelî ile tahsisi Hanefîler ve Mâlikîlerin çoğu (yerleşik olmak kaydıyla) kabul eder.
+
+## b) Takyîd
+: Takyîd = Mutlak mana ifade eden lafızların bazı manalarını çıkartarak mukayyed lafızlarla açıklanmasıdır.
+### Biri mutlak, diğeri mukayyed lafız olursa
+?? “Su temizdir, hiçbirşey onu kirletmez” mutlak hadisi “Su, 2 kulleye ulaşınca pislik tutmaz” ve “Rengi veya tadı değişmedikçe su pis sayılmaz” mutlak hadisleriyle tearuz halindedir. | 2 kulle veya daha fazla su vasfı değişmedikçe kirlenmez, 2 kulleden az suyun içine pislik düşerse, vasfı değişsin değişmesin pislenir, 2 kulleden fazla da olsa, vasıfları pislik sebebiyle değişen su pislenir, şeklinde hadislerin arası cem edilmektedir.
+?? “Deri tabaklandı mı temizdir” hadisi ile “Sahibi ölü hayvanın derisinden faydalansaydı ya” hadisi | “Tabaklasalar da ondan faydalansalar ya” diye cem etmek gerekir.
+### İki mutlak lafız tearuz ederse
+?? “Kureyşe dikkat edin, sözlerini dinleyin yaptıklarını yapmayın” | Sahabenin sözlerini dinleyin, kötü fiil sahiplerinin yaptıklarını yapmayın şeklindedir.
+?? “ALLAH, şirk dışında dilediği kimsenin bütün günahlarını bağışlar” ayetinde bir müslümanın ebeden cehennemde kalmayacağına dair icma vardır. Fakat bu ayet ile “Koğuculuk yapan cennete giremez” hadisi tearuz halindedir. | Bu teâruz hadisi “öncekilerden” veya “günahının cezasını çekmeden giremez, sonra çıkar” gibi uygun bir kayıtla takyid edilerek, icmâın hükmüne muhalefeti giderilir.
+~ “Her hür ve köle için sadaka-i fıtr veriniz” hadisi, başka bir hadisteki “Müslümanlardan” sıfatıyla takyid edilir ve Şafilere göre müslüman köle için fıtr verilir. (Hanefiler, buradaki kayıt hükmün sebebinde vaki olduğu için takyid etmez ve tüm köleler için fıtr gerekir derler)
+* Takyîd: mutlak lafzın bazı manalarını çıkararak mukayyed lafızlarla açıklamak.
+* İki kulle meselesi: 2 kulle ve fazlası vasfı değişmedikçe kirlenmez; 2 kulleden az su pislik düşünce pislenir; vasfı değişen su her durumda pislenir.
+* Sadaka-i fıtr: Şâfiîlere göre “Müslümanlardan” kaydıyla takyid edilir; Hanefîler kayıt hükmün sebebinde olduğu için takyid etmez.
+
+## c) Haml
+: Haml = Müteârız hadislerin farklı vürud şartlarını ortaya koyarak bağdaştırmaktır. Yani hadisleri ait oldukları yere koymaktır.
+?? “Hastalık korkusuyla vücudunu dağlattıran Allah’a tevekkül etmemiştir” hadisi ile “Tedavi usullerinden en faydalı olanlar, hacamat, bal şerbeti ve ateşle dağlamaktır.” hadisi arasındaki teâruz | Birincisini hastalıktan önce tedbir olsun diye sağlıklıyken dağlatmaya; ikinci hadisi de hastalıktan sonra tedavi için dağlamaya hamleder.
+?? Önünden yiyip aksini nehyettiği ve Rasulullah’ın bunun aksine davrandığıyla ilgili rivayet | İlkini toplum içinde; ötekini tek başına yeme hâline hamleder.
+?? “……….yerine bir gün kaza orucu tut” hadisiyle “Hastalık veya bir başka özür olmadan Ramazan orucunu bozan, bütün zamanını oruçla geçirse, yine de ödeyemez” hadisi | Birincisi kazaya; ikincisi ise kaza orucunun zamanında eda edilen oruç gibi olmayacağına hamledilir.
+* Haml: müteârız hadislerin farklı vürud şartlarını ortaya koyarak bağdaştırmak, hadisleri ait oldukları yere koymak.
+* Dağlama hadisleri: biri sağlıklıyken tedbir amaçlı dağlatmaya, öteki hastalıktan sonra tedaviye hamledilir.
+
+## Cem’ ve Te’lifin İşletilişi
+¶ Üç durum vardır:
+- a. Müteârız hadislerden önceden belli biri üzerinde yapılan tevil ve tasarrufla cem’ yapılmaktadır. Yani teâruz, âmm ve hass arasında ise işlem âmm üzerinde yapılır.
+- b. Müteârız taraflarından önceden belli olmayan biri üzerinde icra edilen işlemle cem’ yapılır. Yani, İki taraf da tevil tasarrufu için müsaittir, fakat başka bir delile istinaden bir tarafa yapılacak cem’ tasarrufu yeterli olur.
+- c. Müteârız hadislerin ikisine birden yapılacak tasarrufla cem’ mümkün olur. Yani yapılan işlem için her biri bir tarafın zahiri hilâfına hamledilmesinin sıhhatine şahitlik edecek 2 delile gerek vardır.
+* Cem’in işletilişinde üç durum: önceden belli bir taraf üzerinde (âmm-hâs teâruzunda âmm üzerinde), önceden belli olmayan bir taraf üzerinde, iki tarafa birden tasarruf (iki delil gerekir).
+
+## Cem’ ve Te’lifin Amelî Neticesi ve Değerlendirilmesi
+¶ Muteârız hadîsleri muhtelif usullerle cem’ ve te’lif etmenin amelî (pratik) neticesi, bu hadîslerden her birini kendine ait yere yerleştirmek ve onların hepsinden birden istifade etmektir. Bu, hadisçilerin “Amel etmek etmemekten evladır” kaidesinin uygulamasıdır.
+¶ Kısaca, cem’ ve te’lif tahdîdi hemen hemen imkânsız olan bir derya enginliğinde uygulama sahası bulunan bir usûldür.
+* Cem’ ve te’lifin amelî neticesi: her hadisi kendine ait yere yerleştirip hepsinden istifade etmek; “Amel etmek etmemekten evladır” kaidesi.

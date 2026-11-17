@@ -1,0 +1,198 @@
+# Metin Tenkidi Ölçütleri
+> Tearuz sebebiyle metin tenkidi: Kur’ân’a, başka hadislere, icmâa, dinin genel esaslarına, kıyasa, akla, müşâhede ve ilme, tarihî gerçeklere aykırı hadisler; umûm-u belvâ, râvinin kendi rivâyetine tutumu, üslûp incelemesi ve metin tenkidi muhalifleri.
+
+## 5. Tearuz (Çatışma, Aykırılık) Sebebiyle Metin Tenkidi
+: Tearuz = İki şer’î delilin muktezasının birbiriyle çelişmesidir.
+¶ Cumhur; cem’, tercih, nesh gibi herhangi bir usûlle çözümlenmesi mümkün olan çelişkilere de teâruz ismi verirken, bazı âlimler sadece giderilmesi imkânsız çelişkileri teâruz sayarlar.
+¶ Şer’î deliller arasında hakîkî (çözümlenmesi imkânsız) teâruz bulunup bulunmadığı konusunda üç görüş vardır:
+1. Naklî olsun, aklî olsun dinî deliller arasında gerçek çatışma yoktur. Görülen çatışmalar zahiridir;
+2. Adı geçen deliller arasında teâruz bulunabilir;
+3. Kat’î deliller arasında teâruz olmaz, zannî deliller arasında olabilir.
+¶ Âlimlerin çoğunluğu birinci görüşü benimserler.
+### Hanefîlerde iç inkıtâ ve dış inkıtâ
+¶ Hanefî usûlcüler, adı geçen kriterlerle çatışan hadislerdeki kusuru seneddeki ınkıtâ’a benzeterek, iç inkıta’: inkıta’u’l-bâtın ismini vermişlerdir. Seneddeki kesikliğe ise dış ınkıta’ derler.
+: İç inkıtâ (inkıtâu’l-bâtın) = Hanefî usûlcülerin, tenkid kriterleriyle çatışan hadislerdeki kusuru seneddeki ınkıtâ’a benzeterek verdikleri isim.
+: Dış inkıtâ = Hanefîlerde seneddeki kesiklik.
+¶ Bu terimlerin, iç ve dış tenkid terimlerine son derece benzemesi dikkat çekicidir. Hanefîler iç inkıtâ’ı ikiye ayırırlar:
+1. Râvîdeki kusurlar;
+2. Hadisin dinî asıllara muarız olması. Bu da dört türlü olur:
+- a) Hadisin Kur’ân’a muarız olması;
+- b) Hadisin ma’rûf sünnete muarız olması;
+- c) Umûm-u belvâ’daki bir hadisin şazz olarak nakledilmesi (yani çok geniş kitleleri ilgilendiren bir konuda sadece tek rivâyetin bulunması.)
+- d) Hadisin ihtiva ettiği hüküm konusunda sahabe arasında da ihtilâf çıkmış olmasına rağmen, hadisi delili olarak kullanmamış olmaları.
+| Hanefîlerde | İçeriği
+| **Dış inkıtâ** | Seneddeki kesiklik
+| **İç inkıtâ: 1** | Râvîdeki kusurlar
+| **İç inkıtâ: 2** | Hadisin dinî asıllara muarız olması: Kur’ân’a; ma’rûf sünnete; umûm-u belvâda şazz nakil; sahabenin ihtilâf ettiği konuda hadisi delil olarak kullanmamış olması
+* Tearuz: iki şer’î delilin muktezasının çelişmesi. Âlimlerin çoğunluğuna göre dinî deliller arasında gerçek çatışma yoktur, görülen çatışmalar zahiridir.
+* Hanefîler metindeki bu kusura iç inkıtâ (inkıtâu’l-bâtın), seneddeki kesikliğe dış inkıtâ derler.
+* İç inkıtâ: râvîdeki kusurlar ve hadisin dinî asıllara muarız olması (Kur’ân, ma’rûf sünnet, umûm-u belvâ, sahabenin delil olarak kullanmaması).
+
+## a) Kur’ân’ın Sarih Hükümlerine Muhalif Hadisler ve Hadisin Kur’ân’a Arzı
+¶ Hadisin Kur’ân’la münâsebetinin şu üç şekilde olduğu âlimler arasında genellikle kabul görür.
+1. Kur’ân’da nass bulunan konularda hadis o nassı destekler.
+2. Kur’ân’da mücmel olarak belirtilen hususları açıklar (tebyîn).
+3. Kur’ân’da bulunmayan konularda müstakil hüküm koyar.
+¶ Sünnetin ilk iki görevi konusunda âlimler arasında ihtilâf yoktur. Üçüncü görevine ve dolayısıyla teşrî gücünün nereden kaynaklandığına dair ise değişik görüşler mevcuttur.
+¶ Sünnetin müstakil teşrî kaynağı olması şu delillerden birine dayandırılır:
+- a) Kur’ân’da Rasûlullah’a itaatin farz kılınmış olması;
+- b) Sünnetin koyduğu hükümlerin aslının Kur’ân’da mevcut olması;
+- c) Hz. Peygamber’in Allah’ın Elçisi oluşu;
+- d) Bütün sünnetlerin Hz. Peygamber’in (s) kalbine Allah tarafından ilkâ edilmesi.
+¶ Bunlardan hangisi kabul edilirse edilsin, genel olarak Rasûlullah’ın (s) sünnetine uymanın farz olması gerçeği değişmeyecektir.
+¶ Hadisler Kur’ân’a gerçek manada muarız olmayacağına göre dışardan teâruz var görünüyorsa yapılacak iki şey vardır:
+1. Tearuzu gidermek;
+2. Bu mümkün olmuyorsa hadisi reddetmek.
+¶ Tearuz giderilebiliyorsa zaten ortada gerçek çatışma yok demektir. Bu mümkün olmuyorsa, Kur’ân nassı daha kuvvetli ve kat’î olduğundan hadis reddedilecektir. Sünnetin Kur’ân’ın tefsiri olması hasebiyle sünnetin takdim edileceğini savunanlar da mevcuttur. **Cüveynî** (478/1085) bunlardandır.
+¶ Bu noktada sünnetin Kur’ân’ı nesh edip edemeyeceği konusu önem kazanır. Çünkü neshten söz edebilmek için teâruzun gerçek anlamda bulunması lâzımdır. Hanefîler “Haber-i vâhid Kur’ân’ı nesh edemez” derken, aksi görüşte olanlar da mevcuttur.
+¶ Aslında teâruzu giderme usûlleri de tarih ilminin ölçülerine göre metin tenkidi sayılmaktadır.
+!! Sünneti Kur’ân’a arz, çok hassas ve kritik bir konudur. Hataya müsaittir. Bu yüzden arz metoduna başvururken aşağıdaki hususlara dikkat etmek gerekecektir.
+¶ Arzda Kur’ân’ın tek bir ayeti değil, bütünü nazarı itibara alınmalıdır. Aynı husus hadis için de geçerlidir. Bu, ihâtalı bir Kur’ân ve hadis bilgisini gerektirir. Aksi halde hata ihtimali çok fazladır. Her iki tarafın bütünlük mantığı içerisinde, çatışmanın mevcut olup olmadığına bakılmalıdır. Ayrıca hem Kur’ân hem de hadislerdeki tedricî teşrî prensibine çok dikkat edilmelidir.
+* Hadisin Kur’ân’la münâsebeti: nassı destekler, mücmeli açıklar (tebyîn), Kur’ân’da olmayan konuda müstakil hüküm koyar. İhtilâf yalnızca üçüncüsündedir.
+* Kur’ân’a muarız görünen hadiste önce tearuz giderilmeye çalışılır, mümkün değilse Kur’ân daha kuvvetli ve kat’î olduğu için hadis reddedilir. Cüveynî sünnetin takdim edileceği görüşündedir.
+* Arzda Kur’ân’ın ve hadisin bütünü dikkate alınır; tedricî teşrî prensibine dikkat edilir.
+
+## b) Hadisler Arası Tearuz Sebebiyle Metin Tenkidi
+¶ Mütevâtir hadislerin sayısı çok az olmakla birlikte, bunlara muhâlif haber-i vâhidin reddedileceği genelde kabul edilir.
+¶ Müteârız hadisler arasındaki tercih sebepleri dört grup altında toplanabilir:
+1. **Râvî ile alâkalı tercih sebepleri:** Hadislerden birinin râvîsinin şahsî özellikleri yani yaş, ilim, hafıza, fazilet, adalet gibi yönlerden daha üstün olması halinde o hadis tercih edilir.
+2. **Hadis metni ile ilgili tercih sebepleri:** Lâfızların delâletleri açısından tercih. Mesela muhkem müfessere, işaret nassa, nass zahire, hakikat mecâza, hâss âmma tercih edilir.
+3. **Hüküm yönünden tercih:** Haramlık ifade edenin, diğer şer’î hükümleri ifade edenlere; daha ihtiyatlı olanın, böyle olmayana; kolayın zora, müsbetin menfîye tercihi gibi.
+4. **Hâricî sebeplerle tercih:** Sahâbe fetvâları, âlimlerin görüşleri, Kur’ân, sünnet, kıyâs vs. ile desteklenen hadislerin, böyle olmayanlara tercihi gibi.
+¶ **Cüzekânî** (543/1148), sıhhati kat’î olan hadislere aykırı olan hadislerin bâtıl olduğunu söyler.
+¶ Özellikle Hanefîler, meşhur sünnete muhalif olan hadislerin reddedileceği görüşündedirler. Mütevâtir, müstefîz ve üzerinde icma edilmiş olan sünnetin sübûtunun kat’î olmasından dolayı, Kur’ân’ı neshetmesi ve Kur’ân’a ziyade hüküm getirmesi caizdir. Ayrıca böyle bir sünnete aykırı olan haber-i vahidin reddedileceği gayet tabiîdir. Hanefîler bu yüzden bir şahid ve bir yeminle hüküm vermenin cevazını ifade eden hadisi “Delil davacıya, yemin dâvâlıyadır” meşhur hadisine aykırı bulduklarından dolayı kabul etmezler.
+¶ Mütevâtir hadisin, meşhûr ve âhâda tercihinde bütün âlimler müttefiktirler. Hanefîler meşhûru âhâda tercih ederken, cumhur bu ikisi arasında fark gözetmezler.
+¶ **İbnu’l-Kayyim**, bütün bu gerekçelerle sünnetin reddedilmesine karşı çıkar ve “Hadis mensuh değilse, sahîh olduğu sürece muhâlefet edenler veya amel etmeyenlere itibar edilmeden hadisle amel etmek gerekir” der. Daha sonra Ahmed b. Hanbel’in de aynı görüşte olduğunu, uygulamalarından örnekler vererek gösterir.
+| Tercih grubu | Örnek
+| **Râvî ile alâkalı** | Yaş, ilim, hafıza, fazilet, adalet yönünden üstün râvînin hadisi
+| **Hadis metni ile ilgili** | Muhkem müfessere, işaret nassa, nass zahire, hakikat mecâza, hâss âmma
+| **Hüküm yönünden** | Haramlık ifade eden, daha ihtiyatlı olan, kolay olan, müsbet olan
+| **Hâricî sebeplerle** | Sahâbe fetvâları, âlimlerin görüşleri, Kur’ân, sünnet, kıyâs ile desteklenen
+* Mütevâtire muhâlif haber-i vâhid genelde reddedilir. Cüzekânî: sıhhati kat’î olan hadislere aykırı hadisler bâtıldır.
+* Hanefîler meşhur sünnete muhalif hadisi reddeder; bu yüzden “bir şahid ve bir yeminle hüküm” hadisini “Delil davacıya, yemin dâvâlıyadır” hadisine aykırı bulup kabul etmezler.
+* Mütevâtirin meşhûr ve âhâda tercihinde ittifak vardır; Hanefîler meşhûru âhâda tercih eder, cumhur fark gözetmez.
+* İbnu’l-Kayyim: hadis mensuh değilse ve sahîhse, muhâlefet edenlere itibar edilmeden amel edilir; Ahmed b. Hanbel de bu görüştedir.
+
+## c) İcmâ’a Aykırı Hadisler
+¶ Bir hadisin hükmü ile icmâ’ın çatışması iki ihtimali düşündürür:
+1. Hadisin sahîh olmaması;
+2. İcmâ’ın o hadisi nesheden başka bir hadise dayanması.
+¶ İcmâ’ın sünneti nesh edemeyeceğine göre ancak bu iki ihtimal düşünülebilir. Şu hâlde her iki durumda da hadisin reddedilmesi gerekecektir.
+¶ **Şâfiî**, Risâle’sinin müteaddit yerlerinde, “Ümmetin sünnete zıt bir icma’da birleşmelerinin mümkün olmadığını; böyle bir sünnete kesinlikle rastlamadığını, bir sünnetin bütün ümmet tarafından bilinmemesinin mümkün olmadığını” belirtir.
+¶ **Hatîb Bağdâdî** de kabul edilmeyecek haberleri sayarken, “Haberin Kur’ân nasslarına, mütevâtir sünnete aykırı olması veya ümmetin reddinde ittifak etmiş olmalarıdır” demektedir.
+¶ **İbn Kuteybe**, icmâ’ ile çatışma halinde hadisin reddedileceğini, icmâ’ın hadisten daha kuvvetli olduğu gerekçesine bağlar ve bunu şöyle açıklar: “Muhakkak ki bizim nazarımızda hak ve hakikat icmâ’ yoluyla, rivâyetten daha kuvvetli olarak sabit olur. Çünkü hadislere bazan unutma, gaflet, şüphe, te’vîl, nesh gibi hususlar ârız olur. Veya râvî sika olur, hadisi aldığı kişi sika olmaz. Bazan Rasûlullah (s) bir şeyi emrederken hazır bulunan biri, aynı şeyin aksini emrettiğini duymamış olabilir. İcmâ’ bütün bu ârızalardan uzaktır. Bu sebeple imam Mâlik, Rasûlullah’tan (s) bir hadis rivâyet eder, sonra da Medine’deki bu hadise aykırı tatbikatı vurgulamak için ‘Beldemizde ise şu şekilde amel edilmektedir’ derdi. Çünkü onun beldesi Rasûlullah’ın beldesidir...”
+### İbn Kuteybe’nin örnekleri
+¶ İbn Kuteybe bu kabil hadisler için şu örnekleri vermektedir:
+1. Rasûlullah (s) Medine’de öğle ikindi, akşam, yatsı namazlarını korku hali olmadığı halde cem’ etmişlerdir.
+2. Rasûlullah (s) zamanında adamın birisi, âzâdlı kölesinden başka varis bırakmadan ölmüş; Hz. Peygamber, adamın mirasını köleye vermiştir.
+3. Berâ naklediyor: “Hz. Peygamber, sabah ve akşam namazlarında kunut okurdu.” Bu hadise rağmen fukahâ akşam namazında kunut okunmayacağında ittifak etmişlerdir.
+4. “Rasûlullah (s) abdest aldı, sarığına meshetti ve sabah namazını kıldı.” Bu hadis üç farklı senedle nakledilmiştir. Halbuki âlimler sarık üzerine meshi kabul etmezler.
+5. “Kim kölesini öldürürse biz de onu öldürürüz” hadisine rağmen, âlimler kölesini öldürene kısas tatbik edilmeyeceğinde ittifak etmişlerdir.
+¶ **Hâkim** (405/1014) de Müstedrek’inde, kabrin üzerine türbe yapılması, kireçle sıvanması ve taş dikilmesini yasaklayan hadislerle ümmetin amel etmediğini belirtir.
+¶ Başta Hanefîler olmak üzere bazı usûlcüler, sahabenin veya hadis imamlarının reddetmiş olmasının, hadisi mevsûkiyetten düşüren bir kusur olduğunu belirtirler. Hanefîlere göre, sahabe bir konuda ihtilâf etmiş, o konuda bir hadis mevcut olduğu halde hiçbirisi hadisle amel etmemişse artık o hadisle amel edilemez. Şayet hadis sahîh olsaydı ya hepsi amel eder ihtilâf çıkmazdı veya bir taraf amel ederdi, derler. İmam Şâfiî de “Bütün insanların muhalefet ettikleri bir sünnet yoktur” demek suretiyle, sahîh bir sünnetin terkinde icmâ’ edilmeyeceğini vurgular.
+* Hadisle icmâın çatışması iki ihtimal düşündürür: hadis sahîh değildir ya da icmâ hadisi nesheden başka bir hadise dayanır. Her iki durumda hadis reddedilir.
+* İcmâ sünneti nesh edemez. Şâfiî: ümmetin sünnete zıt bir icmâda birleşmesi mümkün değildir.
+* İbn Kuteybe: icmâ hadisten daha kuvvetlidir; hadislere unutma, gaflet, şüphe, te’vîl, nesh gibi hususlar ârız olur, icmâ bunlardan uzaktır.
+* Hanefîler: sahabe ihtilâf ettiği konuda mevcut hadisle amel etmemişse o hadisle amel edilemez.
+
+## d) Dinin Genel ve Kesin Esaslarına Aykırı Hadisler
+¶ Dinin genel esasları denince akla ilk olarak iman esasları gelir. İman esaslarına aykırı hadislerin kabul edilmeyeceği aşikârdır. Mesela: “Allah atı yarattı. Onu koşturup terletti, sonra da onun terinden kendisini yarattı” şeklindeki rivâyeti **İbnu’l-Cevzî** (597/1200) şöyle tenkid ediyor: “Biz, muhaddislerin âdetine uyarak bu hadisi kimin uydurduğunu göstermek için râvîlerini tesbit ettik. Yoksa böyle bir hadisin râvîlerini araştırmaya ne gerek var. Çünkü muhaldir. Sika râvîler, devenin iğne deliğinden geçtiğini haber verseler, sikalarının ne ehemmiyeti kalır. Sen bir hadisi akla ve din prensiplerine aykırı bulursan anla ki o hadis uydurmadır.”
+### Nass ile maslahatın teâruzu
+¶ Nass, maslahatla teâruz edince ne yapılacağı konusunda **Süleyman b. Abdu’l-Kavî et-Tûfî** (716/1336)’nin görüşü, maslahatın tercih edileceği şeklindedir. Böyle bir mutlak tercih onun dışında başka bir âlimden nakledilmiyor.
+¶ Cumhûrun görüşü ise şöyledir: Nass ve icmâ kat’î ise, kesinlikle nass ve icmâ tercih edilir. Nass ve icmâ’ zannî ise, Hâricî bir tercih unsuruna göre tercih yapılır. Nass ve icmâ’ zannî ise, maslahatın cinsine göre durum değişir. Maslahat mülğâ ise nass ve icmâ’ tercih edilir. Maslahat muteber ise bakılır: Maslahatın gözetileceğini ifade eden nass zannî ise Hâricî bir tercih unsuruna göre tercih yapılır. Nass veya muteber maslahattan biri kuvvetli ise, kuvvetli olan tercih edilir. Maslahat mürsele ise, yani mülğa veya muteber olduğuna delil yoksa bu konuda âlimler ihtilâf etmişlerdir: Şâfiî’ye göre böyle maslahat delil olmaz. Mâlik ve İmam Ahmed’e göre bu maslahatla amel edilir. Şu hâlde Şâfiî’ye göre el-mesâlihu’l-mürsele zannî nassa teâruz edemez. Çünkü delil değildir. El-Mesâlihu’l-mürseleyi delil sayanlara göre ise, zannî nassla teâruzu halinde daha kuvvetli olan tercih edilir.
+| Durum | Cumhura göre
+| Nass ve icmâ kat’î | Kesinlikle nass ve icmâ tercih edilir
+| Maslahat mülğâ | Nass ve icmâ tercih edilir
+| Maslahat muteber | Maslahatı gözeten nass zannî ise hâricî bir unsura göre; biri kuvvetli ise kuvvetli olan tercih edilir
+| Maslahat mürsele | Şâfiî: delil olmaz, zannî nassa teâruz edemez · Mâlik ve Ahmed: amel edilir, kuvvetli olan tercih edilir
+!! Dinî asıllara aykırı görülen bir hadisi redde girişmeden önce, aykırılığın hakikaten mevcut olup olmadığını iyi tesbit etmek gerekir. Diğer bir ifade ile, aykırı görülen bu durumun uzlaştırılmasının mümkün olup olmadığına dikkat edilmelidir.
+¶ Nitekim bazılarınca dinî asıllara aykırı görülen birtakım hadisler, başkaları tarafından te’vîl edilmiştir. Bunların bir kısmına yukarıdaki hadislerden bahsederken temas ettik. Bu meyanda İbnu’l-Kayyim, asıllara aykırı diye reddedilen pek çok hadiste böyle bir aykırılığın söz konusu olmadığını ortaya koymaya çalışmış ve İ’lâmu’l-Muvakkı’în isimli eserinde bu konuya tam seksen sayfa yer ayırmıştır.
+* İman esaslarına aykırı hadisler kabul edilmez. İbnu’l-Cevzî: bir hadisi akla ve din prensiplerine aykırı bulursan anla ki o hadis uydurmadır.
+* Tûfî: nass maslahatla teâruz edince maslahat tercih edilir (bu mutlak tercih başka âlimden nakledilmez).
+* Maslahat-ı mürsele: Şâfiî’ye göre delil değildir; Mâlik ve Ahmed’e göre onunla amel edilir.
+* Reddetmeden önce aykırılığın gerçekten var olup olmadığı ve uzlaştırma imkânı araştırılır. İbnu’l-Kayyim İ’lâmu’l-Muvakkı’în’de buna seksen sayfa ayırmıştır.
+
+## e) Kıyâsa Aykırı Hadisler
+¶ Fıkıhtaki genel kanaate göre kıyâs, hakkında nass olmayan konularda yapılır ve deliller hiyerarşisinde hadis ve icmâ’dan sonra gelir.
+: Kıyâs = Fıkıh usûlünde, hakkında nass bulunmayan bir meselenin hükmünü, aralarındaki ortak illet dolayısıyla, hakkında nass bulunan meselenin hükmüne bağlamaktır.
+¶ Hadisin kıyâsla çatışması demek, o konuda hadis var demektir ve bu takdirde zaten kıyâs yapılmaması gerekir. Hadis sahîh olduğunda durum böyledir. Hadis sahîh değilse, zaten kıyâsa teâruz edemez. Şu hâlde kıyâsla sahîh hadis çatıştığında hadisin tercih edilmesinden başka bir şey düşünülemez. Bütün mezheb imamları da hadis bulunduğunda rey ile verdikleri hükümlere itibar edilmemesini istemişlerdir. O halde hadise teâruz edebilecek kıyâstan maksad başka bir şey olmalıdır.
+¶ **Ebû Zehra** bu probleme şöyle açıklık getiriyor: “Cumhurun mezhebine göre, bazan kıyâs nassla çatışabilir. Şöyle ki: İllet geçişli (müteaddî) olup ait bulunduğu konuya inhisar etmez. Diğer konular için de geçerli olur. İlletin bulunduğu her yerde, aslın hükmü fer’a geçer. Böylece illet genel olup kapsadığı bütün fertlere şâmil olur. Dolayısıyla bir kısım nasslar bu kıyâsla çatışabilir.”
+¶ Başka bir yerde de şöyle der: “Haber-i âhâd bazan birkaç asl ile desteklenen ve illeti de kolaylığı sağlama, güçlüğü giderme gibi, nassların toplamından elde edilen bir kıyâs ile çatışabilir. Bu durumda Mâlikî ve bazı Hanbelîlere göre, kıyâs öne alınarak haber-i âhâd reddedilir ve bu, hadisin Hz. Peygamber’e nisbet bakımından sahîh olmadığını gösterir. Çünkü burada birkaç asl ile desteklenen ve illeti birkaç nasstan çıkarılan kıyâs kat’îlik kazanmış olup, haber-i âhâd ise zannîdir. Eğer kıyâs zannî ise ve onu başka kat’î nasslar desteklemiyorsa, haber-i âhâd öne alınır. Hanefîler de ‘Haber-i âhâd kıyâsa aykırı düşer, fakat onu başka bir kıyâs desteklerse kıyâsa tercih edilir. Eğer haber-i âhâd bütün kıyâs şekillerine aykırı düşerse reddedilir’ derler. İmam Mâlik de haberi âhâd diğer bir kâide ile desteklenirse kabul eder, tek kalırsa terk eder.”
+¶ Ebû Zehra’nın bu ifadelerinden anlaşıldığına göre, burada kıyâs dendiğinde Kur’ân ve sünnetten çıkarılan genel kaideler anlaşılacaktır.
+| Mezhep | Haber-i âhâd kıyâsla çatışınca
+| **Mâlikî ve bazı Hanbelîler** | Birkaç asl ile desteklenen (kat’îlik kazanmış) kıyâs öne alınır, haber-i âhâd reddedilir; kıyâs zannî ise haber-i âhâd öne alınır
+| **Hanefîler** | Haber-i âhâdı başka bir kıyâs desteklerse kıyâsa tercih edilir; bütün kıyâs şekillerine aykırı düşerse reddedilir
+| **İmam Mâlik** | Haber-i âhâd diğer bir kâide ile desteklenirse kabul edilir, tek kalırsa terk edilir
+* Kıyâs deliller hiyerarşisinde hadis ve icmâdan sonra gelir; sahîh hadisle kıyâs çatışınca hadis tercih edilir.
+* Ebû Zehra: hadise teâruz edebilecek kıyâs, Kur’ân ve sünnetten çıkarılan genel kaidelerdir.
+
+## f) Akla Aykırı Hadisler
+¶ **Berzencî**, usûlcü ve kelâmcıların çoğunluğunun; hadisçilerin, Mu’tezile’nin ve Hanefîlerin akıl ile naklin çatışabileceğini kabul ettiklerini belirtir. Buna delil olarak çatışmayı çözme konusuyla uğraşmış olmalarını gösterir.
+¶ **İbn Teymiyye** (728/1327) ve **Şâtıbî** gibi âlimler aksi görüştedirler. İbn Teymiyye; aklî olsun, sem’î olsun katî iki delilin çatışmasının mümkün olmayacağı görüşünü benimser.
+### Şâtıbî’nin delilleri
+¶ Şâtıbî dinî delillerin aklî hükümlere münafî olmayacağını şöyle delillendirir:
+1. Şer’î delilleri akıl sahibi olan herkes kabul etmiştir.
+2. Şer’î deliller akla aykırı olsaydı bu, teklîf-i mâ lâ yutak olurdu. Çünkü akıl sahibi insanı, akla aykırı şeyi kabulle yükümlü tutmak, teklîf-i mâ lâ yutâktır. Allah, insanları böyle bir şeyle mükellef tutmaz.
+3. Akıllı kişi mükelleftir, akılsız ise mükellef değildir. Halbuki akla aykırı şer’î delille akılsızı mükellef tutmakta zorluk yoktur. Ama böyle bir delille akıllıyı mükellef tutmakta meşakkat vardır.
+4. Şer’î deliller akla aykırı olsaydı, bunu ilk defa Hz. Peygamber (s) zamanındaki kâfirler inkâr ederdi. Kâfirler Rasûlullah’ın (s) sihirbaz, mecnûn vs. olduğunu söylemişler; fakat getirdiği hükümlerin akla aykırı olduğunu iddia etmemişlerdir.
+### Akla aykırı hadisler karşısında ne yapılır
+- Hadislerin bir kısmı âhiret hayatı gibi aklın idrâk edemiyeceği gaybî konulara dairdir. Bu çeşit konularda akıl ve hadisin çatışması mevzubahis olamaz. Hadislerin diğer bir kısmı ise bütün alternatiflerde akla aykırılığı söz konusu olmayacak şekildedir. Hz. Peygamber’in hayat tarzına ve ibadet esaslarına dair hadisler böyledir.
+- Akla aykırı gelen hadis mütevâtir ise te’vîl edilmesi gerekir. Hadis âhâd ise yine te’vîl imkânları araştırılır. Te’vîl mümkün değilse haber terk edilir.
+¶ Akla aykırılıkları sebebiyle reddedilen hadislere şu örnekler verilebilir:
+1. “Allah önce atı yaratmış, sonra onun terinden kendini yaratmıştır.”
+2. “Nuh’un gemisi Kâ’be’yi yedi defa tavaf edip, Makâm-ı İbrâhîm’in arkasında iki rekât namaz kılmıştır.”
+! Sem’î delillerle teâruzu söz konusu olan akıl, akl-ı selimdir. Değişik sebeplerle insan, aklını yanlış kullanabilir.
+¶ Akla aykırı görülen hadisler ilk planda reddedilme yerine, bir tefsîr veya te’vîli olabileceği ihtimali düşünülmelidir. Nitekim akla (nazar) aykırı olduğu iddia edilen hadislerden pek çoğunu İbn Kuteybe te’vîl etmiş ve akla aykırı olmadıklarını göstermeye çalışmıştır.
+¶ Ayrıca aklın idrâk alanı dışındaki hadisleri akıl kriterine vurmaktan kaçınmak gerekir. Gaybî konulardaki hadisler böyledir. Öte yandan hadisler mecâz, kinâye, işaret, remiz gibi zâhirî manası dışında bir mana ifade edebilirler. Yahut müteşâbih olabilirler.
+* Berzencî: usûlcü ve kelâmcıların çoğunluğu akıl ile naklin çatışabileceğini kabul eder. İbn Teymiyye ve Şâtıbî: kat’î iki delil çatışmaz.
+* Akla aykırı hadis mütevâtir ise te’vîl edilir; âhâd ise te’vîl imkânı araştırılır, mümkün değilse terk edilir.
+* Teâruz söz konusu olan akıl akl-ı selimdir; gaybî konular akıl kriterine vurulmaz; mecâz, kinâye, işaret, remiz ihtimali düşünülür.
+
+## g) Müşâhedeye, Tecrübeye ve İlme Aykırı Hadisler
+¶ Müşâhededen maksad, insanların duyu organlarıyla edindikleri bilgilerdir. İslâm düşüncesine göre, sağlam duyu organları bilgi (ilim) vasıtalarındandır. Bir hadis duyularımızla elde ettiğimiz bilgilere aykırı düşüyorsa ne yapılacaktır? Böyle hadislerin de reddedilmesi gerektiği genellikle kabul edilmiştir. Fakat bu noktada duyuların yanılmasının mümkün olduğunu da gözden uzak tutmamak gerekecektir.
+~ Buna birkaç örnek vermek gerekirse: “İnsanların en yalancıları boyacılar ve kuyumculardır.” Halbuki biz bu iki zümre içerisinde çok dürüst kimseler olduğuna şâhid olmaktayız. Diğer bir hadiste “Patlıcan her derde devadır” denilir. Patlıcanın böyle bir özelliğine şâhid olmuyoruz. “Kişi konuşurken aksırsa, bu onun doğru söylediğini gösterir” şeklindeki hadis de böyledir.
+¶ İlim ve tecrübeyi birlikte mütâlâa edebiliriz. Çünkü tecrübeler en önemli ilim aracıdır. Özellikle son yıllarda, ilmî gerçek olarak kabul edilen hususlara aykırı hadislerin reddedilmesi gereği de savunula gelmektedir. İslâmiyet ilmî araştırmaları, tefekkürü ısrarla emreder. Bunu göz önüne alınca hadislerin ilim kriterine vurulması genelde çok isabetli görülür.
+* Müşâhede: duyu organlarıyla edinilen bilgi. Müşâhedeye aykırı hadisin reddi genellikle kabul edilir; ama duyuların yanılabileceği unutulmamalıdır.
+* Tecrübe en önemli ilim aracıdır; hadislerin ilim kriterine vurulması genelde isabetli görülür.
+
+## h) Tarihî Gerçeklere Aykırı Hadisler
+¶ Eğer hadis, kesin olarak bilinen tarihî gerçeklere aykırı ise uydurma olduğuna hükmedilir.
+~ Hz. Peygamber’den (s) şöyle bir hadis nakledilir: “Gözümdeki hastalıktan (ramed) Cibril’e şikâyetlendim. Mushafa bakmamı tavsiye etti.” İbnu’l-Cevzî bu hadisi “Hz. Peygamber devrinde mushaf mı vardı ki baksın?” diye tenkid etmektedir.
+~ Başka bir rivâyete göre Hz. Âişe, Peygamberimize, niçin sık sık Hz. Fâtıma’nın boynunu öptüğünü sormuş; “Mi’râcda Cibril bana çok hoş kokulu bir cennet meyvesi ikram etti. Onu yedim. Hatice, Fâtıma’ya o esnada hâmile kaldı. İşte o meyvenin kokusunu özledikçe Fâtıma’nın boynunu öpüyorum” demiştir. Bu hadis tarihî gerçeklere şu yönlerden aykırıdır: Hz. Fâtıma peygamberliğin gelmesinden beş yıl önce doğmuş, mi’râc ise hicretten bir yıl önce vuku bulmuştur. Öte yandan mi’râc esnasında Hz. Hatice vefat etmişti. Bu habere göre, Hz. Fâtıma’nın Peygamberimizin vefatında on veya on bir yaşında olması gerekir. Halbuki Peygamberimizin irtihalinde onun daha yaşlı olduğu bilinmektedir.
+* Kesin olarak bilinen tarihî gerçeklere aykırı hadis uydurmadır: “Mushafa bak” rivâyeti (Hz. Peygamber devrinde mushaf yoktu), mi’râcda cennet meyvesi ve Hz. Fâtıma rivâyeti.
+
+## 6. Çok Sayıda Kişinin Bilmesi Gereken Konularda (Umûm-u Belvâ) Tek Kişinin Rivâyette Bulunması
+¶ Herkesi ilgilendiren konulardaki haberlerin bir iki kişiye münhasır kalmayıp geniş kitleler tarafından bilinmesi esastır. Bunun aksi, haberin uydurma olduğunu gösterir. Tarih ilminde de diğer kaynakların habersiz olmamaları icab eden büyük hadiseler hakkında tek kaynağın verdiği habere şüphe ile bakılır.
+: Umûm-u belvâ = Çok sayıda kişinin bilmesi gereken, herkesi ilgilendiren konular. Böyle bir konuda tek kişinin rivâyette bulunması haberin uydurma olduğunu gösterir.
+¶ Bazı hadisçiler ve Hanefîler bu ölçüye uymayan hadislerin makbul olmadığı görüşündedirler.
+¶ **Hatîb Bağdâdî**, bir haberin doğru olmadığını gösteren ölçüleri sıralarken şöyle der: “Bir ülke ahalisinin devlet reisine toptan isyanı, hacıların muhasara edilip Kâ’be’ye sokulmamaları gibi büyük ve önemli bir olayı (bir kişiden başka) nakleden yoksa bu habere güvenilmez. Çünkü böyle haberlerin yaygınlaşması âdettir.”
+¶ Bütün bu konular büyük kitleleri ilgilendirmektedir. Hanefîler bu tür rivâyetleri kabul etmemelerinin sebebini şöyle açıklıyorlar: “Herkesi ilgilendiren dinî bir hükmün Hz. Peygamber (s) tarafından, diğer müslümanların muttali olamayacakları şekilde sadece bir kişiye bildirilmesi mümkün değildir. Aynı şekilde böyle bir hükmü müslümanların diğer müslümanlardan gizlemiş olmaları da düşünülemez. Özellikle sahâbenin, hadisleri yaymak hususundaki gayretleri herkesçe malûmdur. Böyle bir konunun ilk nesillerde yaygın olarak bilinip sonradan unutulmuş olması da mümkün değildir. Şu hâlde rivâyet ya nesh edilmiştir, râvînin bundan haberi yoktur veya uydurmadır.”
+* Umûm-u belvâda tek kişinin rivâyeti: bazı hadisçiler ve Hanefîler makbul saymaz. Hanefîlere göre böyle bir rivâyet ya mensuhtur (râvînin haberi yoktur) ya da uydurmadır.
+* Hatîb Bağdâdî: büyük ve önemli bir olayı bir kişiden başka nakleden yoksa habere güvenilmez.
+
+## 7. Râvînin, Kendi Rivâyetine Karşı Tutumu Sebebiyle Tenkid Edilen Hadisler
+¶ Hanefîler, râvînin hadise karşı şu dört şekilde tavır almasını, hadisi delil olabilme derecesinden düşüren bir kusur kabul ederler.
+1. Râvînin rivâyetini inkâr etmesi
+2. Râvînin kendi rivâyetinin aksine amel etmesi veya fetvâ vermesi
+3. Râvînin hadisi yorumlaması veya muhtemel manalarından birisini tercih etmesi
+4. Râvînin hadisle amel etmemesi (Terku’l-amel bi’l-hadîs).
+¶ Râvînin hadisle amel etmemesi ile hadisin aksine amel etmesi aynı sonuca götürür.
+* Hanefîlere göre hadisi delil olmaktan düşüren dört tutum: râvînin rivâyetini inkârı, aksine amel/fetvâsı, hadisi yorumlaması ya da bir manayı tercihi, hadisle amel etmemesi (terku’l-amel bi’l-hadîs).
+
+## 8. Hadisin Üslûbunu İnceleyerek Metin Tenkidi
+¶ Muhaddisler, hadislerle çok meşgul olmanın hadisin sahîh olup olmadığını ayırabilme kabiliyeti kazandırdığını ifade ederler. **İbnu’l-Kayyim**, “Sahîh hadisleri, eti kemiği olacak derecede hazmetmiş olanlar, senedine bakmadan hadisin mevzu olduğunu tanıyabilirler” der.
+¶ **İbn Salâh** da hadislerdeki lâfız ve mana bozukluklarından dolayı mevzu olduğunun anlaşılabileceğini belirtir ve “Rasûlullah (s), Arab’ın en fasih ve beliğlerindendi” der.
+!! Yalnız bazı lâfız ve mana bozukluklarının, râvînin mana ile rivâyeti sonucu doğmuş olabileceği ihtimalini gözden uzak tutmamak gerekir.
+¶ Herhangi bir mevzuat kitabını incelediğimizde, sahîh hadisler ile mevzu hadisler arasındaki üslûb farklılıklarını çok bariz bir şekilde görebiliriz.
+* Hadislerle çok meşgul olmak sahîhi ayırma kabiliyeti kazandırır. İbnu’l-Kayyim: sahîh hadisleri hazmetmiş olan, senede bakmadan mevzuyu tanır.
+* Lâfız ve mana bozukluğu mana ile rivâyetten de doğmuş olabilir.
+
+## Metin Tenkidi Muhalifleri
+¶ Metin tenkidine şiddetle karşı çıkanlardan biri, **İbnu’l-Kayyim**’dır. O, metin tenkidine hadisin sıhhatini tesbit için değil, mezheb görüşüne aykırı hadisleri reddedebilmek için başvurulduğu şeklinde çok dikkat çekici bir iddiada bulunur. Şöyle diyor: “Bazı kişiler görürsün ki hadisin râvîsi hadise muhâlefet etmiş olmasına rağmen taklid ettikleri imamın görüşüne uyduğu için hadisi delil kabul ederler. Eğer hadis mezheb görüşüne aykırıysa ‘Râvî hadisine muhâlefet ediyor, bu da hadisin sahîh olmadığı veya mensuh olduğuna dair bir bilgisi olduğunu gösteriyor, onun için hadisle amel etmeyiz’ derler. Böylece bir konuda iki zıt tutuma girerek tenâkuza düşerler. Bizim inancımıza göre hadis sahîh olduğu sürece, başka bir hadis tarafından nesh edilmemişse, muhalefet edenlere itibar etmeksizin amel etmemiz farzdır. Muhâlefet edenler kim olursa olsun böyledir.”
+¶ **Şevkânî** de, hadis akla, kesin nasslara ve icmâ’a aykırı olduğunda te’vîl edilmiyorsa reddedileceğini benimser görünmektedir. Fakat diğer metin tenkidi kriterlerine o da karşı çıkmaktadır.
+* Metin tenkidine şiddetle karşı çıkan İbnu’l-Kayyim’e göre metin tenkidine mezheb görüşüne aykırı hadisleri reddetmek için başvurulmaktadır.
+* Şevkânî: akla, kesin nasslara ve icmâa aykırı hadis te’vîl edilemiyorsa reddedilir; diğer metin tenkidi kriterlerine karşı çıkar.
+
+## Sonuç
+¶ Hadis ve fıkıh literatürünü tarihî seyri içerisinde incelediğimizde, müslüman âlimler arasında metin tenkidi zihniyetinin çok sistemli bir şekilde mevcut olduğunu görüyoruz. Rivâyetlerin, sağlam ve kat’î dinî kaynakların ışığında değerlendirmeye tâbi tutulması, akl-ı selîmin ölçülerine vurulması şeklindeki bu tatbikat ve gelenek, İslâmî ilimlerin klasik dönemlerinde daha fazla hâkimdir. Sonraki dönemlerde bu tenkid zihniyetinin zamanın şartlarına göre ilk devirlerdeki seviyeyi gösteremediğini söylemek hatalı olmasa gerektir. Nakilcilik, derlemecilik ve şerh dönemlerinde de bu tenkidci zihniyet sürdürülebilseydi İslâmî ilimlerin bugün ulaştığı nokta herhalde daha farklı olurdu.
+* Metin tenkidi zihniyeti müslüman âlimler arasında çok sistemli şekilde mevcuttur ve klasik dönemlerde daha hâkimdir.

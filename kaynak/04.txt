@@ -1,0 +1,142 @@
+# Nesh, Tercih ve Tevakkuf
+> Cem’ ve te’lif mümkün olmadığında başvurulan yollar: neshin gerçekleşme şartları, tanıma yolları ve çeşitleri; tercih esasları ve hiyerarşisi; teoride ve pratikte tevakkuf.
+
+## B. Nesh
+: Nesh = Şari’in (Kanun koyucunun), eski bir hükmü yenisiyle değiştirmesidir.
+¶ Cem’ ve Te’lifin mümkün olmadığı durumda çözüm işlemlerinden Nesh gelmektedir. Hadis usulünde Nesh, hem müstakil olarak hem de hadisler arası tearuzu giderme yöntemi olarak iki ayrı yerde anlatılmaktadır. Tearuz olmadan Nesh’den söz etmek mümkün değildir.
+### Neshin mânâsı
+- **Ukûbet mânâ ve maksadı taşıyan nesh:** “Yahudilerin yaptıkları zulüm ve ALLAH yolunda alıkoymalarından dolayı helal kılınmış şeyleri haram kıldık” ayetinde olduğu gibi Tahfif’ten Tağlize doğru yapılan nesh.
+- **Ukûbet mânâ ve maksadı taşımayan nesh:** “Bundan böyle sizden sabreden yüz kişi olsa, iki yüz kafiri yenerler….” Ayetinde olduğu gibi Tağliz’den Tahfif’e doğru yapılan nesh.
+| Neshin mânâsı | Yönü | Örnek
+| **Ukûbet mânâ ve maksadı taşıyan** | Tahfiften tağlize | “Yahudilerin yaptıkları zulüm… dolayı helal kılınmış şeyleri haram kıldık”
+| **Ukûbet mânâ ve maksadı taşımayan** | Tağlizden tahfife | “Sizden sabreden yüz kişi olsa, iki yüz kafiri yenerler…”
+* Nesh: Şâri’in eski bir hükmü yenisiyle değiştirmesi. Cem’ ve te’lif mümkün değilse gelir; tearuz olmadan nesh olmaz.
+* Ukûbet mânâsı taşıyan nesh tahfiften tağlize, taşımayan nesh tağlizden tahfife doğrudur.
+
+## Neshin Gerçekleşme Şartları
+1. Nesh, hitap (Emir, nehy) ile olmalıdır.
+2. Neshedilen hüküm, şeri hüküm olmalı.
+3. Neshedilen hüküm, zaman ile kayıtlı olmamalı.
+4. Nesheden hükmün zamanı, neshedilenden sonra olmalı. (Muttasıl veya Munfasıl olabilir.)
+5. Nesheden hüküm, neshedilenden munfasıl olursa, iki hadis ile amel etmek (Cem’-Te’lif) mümkün olmamalı. Cem’-Te’lif mümkünse Nesh’ten söz edilemez.
+!! Cem’ ve te’lif mümkünse nesh’ten söz edilemez.
+* Neshin beş şartı: hitapla olması, neshedilen hükmün şer’î olması ve zamanla kayıtlı olmaması, nâsihin sonra gelmesi, cem’ ve te’lifin mümkün olmaması.
+
+## Neshi Tanıma Yolları
+1. **Tasrîhu’n-Nebî** (Bizzat Rasulullah’ın açıklaması)
+~ Örnek: Ben sizi kabir ziyaretinden men etmiştim, artık ziyaret edin.
+2. **Kavlu’s-Sahâbî** (Sahabî açıklamaları ile)
+~ Örnek: Rasulullah, cenaze geçerken ayağa kalkmamızı emrederdi, sonra kendisi oturdu bize de oturmamızı emretti. (Sahabi açıkça belirtti)
+~ Örnek: Ateşte kızartılmış yiyeceklerden sonra abdest almayı terketmek Rasulullah’ın iki hareketinin sonuncusu olmuştur. (Sahabi neshi ima etti)
+3. **Vürud Tarihlerinin bilinmesi ile Nesh** (Sonraki, öncekini nesheder)
+~ Örnek: Mekke fethi esnasında söylenen “Hacamat yapan ve yaptıranın orucu bozuldu” hadisi, veda haccında Rasulullah’ın oruçlu iken kan aldırdığı hadisi ile nesh olunmuştur.
+4. **Delâletu’l-İcma** (İcma ile neshi tanıma) Ümmetin icma etmesi de neshi tanıma yollarındandır.
+~ Örnek: Dördüncü defa içki içenin öldürüleceği hadisi, öldürmeme konusunda oluşan icma ile neshedilmiştir.
+| Tanıma yolu | Örnek
+| **Tasrîhu’n-Nebî** | “Ben sizi kabir ziyaretinden men etmiştim, artık ziyaret edin.”
+| **Kavlu’s-Sahâbî** | Cenaze geçerken ayağa kalkma (açıkça); ateşte kızartılmış yiyecekten sonra abdesti terk (ima)
+| **Vürud tarihi** | Mekke fethindeki “Hacamat yapan ve yaptıranın orucu bozuldu” hadisi, veda haccındaki kan aldırma hadisiyle neshedildi
+| **Delâletu’l-İcma** | Dördüncü defa içki içenin öldürüleceği hadisi, öldürmeme icmâıyla neshedildi
+* Neshi tanıma yolları: Tasrîhu’n-Nebî, Kavlu’s-Sahâbî, vürûd tarihi, delâletu’l-icmâ.
+
+## Neshin Çeşitleri
+1. Hadisin hadisle neshi (Bu da 4 kısımdır.)
+2. Hadisin Kur’an ile neshi
+3. Hadisin akıl ile neshi.
+### a. Sünnetin sünnetle neshi
+¶ Ulemâ sünnetteki neshi 4 şekilde grublandırmaktadır:
+- Mütevatir hadisin, mütevatir hadisle neshi
+- Haber-i Vahid’in, Haber-i Vahid ile neshi
+- Haber-i Vahid’in, mütevatir hadisle neshi
+- Mütevatir hadisin, Haber-i Vahid ile neshi
+! İlk üçü ittifakla caizdir. Sonuncusu ise ihtilaflıdır. İbn Hazm ve bazı zahiriler, sonuncuyu da caiz görürler.
+| Sünnetin sünnetle neshi | Hükmü
+| Mütevâtirin mütevâtirle neshi | İttifakla caiz
+| Haber-i vâhidin haber-i vâhidle neshi | İttifakla caiz
+| Haber-i vâhidin mütevâtirle neshi | İttifakla caiz
+| Mütevâtirin haber-i vâhidle neshi | İhtilaflı (İbn Hazm ve bazı Zâhirîler caiz görür)
+### b. Hadîsin Kur’an ile neshi
+~ “Rasulullah’ın hayatında, biz namazda iken konuşurduk...” hadisi “Namazları koruyun ve orta namazı da…” ayeti nazil olunca biz sükût ile emrolunduk.
+! Nesh’de asıl kaide, Nass’ı neshedecek Nass’ın daha kuvvetli olmasıdır. (Nasih, mensuhtan kuvvetli olmalıdır) Bu yüzden, Kur’an ayetleri mütevatir sünnetle neshedilir görüşü genelde kabul edilmiştir.
+### c. Hadîsin akıl ile neshi
+¶ Mutezileden Nazzama nisbet edilen bu görüş, günümüzde büyük tehlike arzetmektedir. Burada, nesh teriminin, istilâhî mânâsı içinde kullanıldığını kabul etmek oldukça zordur. Belki redd manasında kullanılmış olması daha uygundur.
+* Neshin çeşitleri: hadisin hadisle (4 kısım), Kur’an ile ve akıl ile neshi.
+* Sünnetin sünnetle neshinde ilk üçü ittifakla caiz; mütevâtirin haber-i vâhidle neshi ihtilaflı (İbn Hazm ve bazı Zâhirîler caiz görür).
+* Nesihte asıl kaide: nâsih mensuhtan kuvvetli olmalı; Kur’an ayetlerinin mütevâtir sünnetle neshi genelde kabul edilmiştir.
+* Hadisin akıl ile neshi Mu’tezileden Nazzâm’a nisbet edilir; burada nesh daha çok redd manasındadır.
+
+## Neshin Amelî Neticesi ve Değerlendirilmesi
+¶ Neshin amelî neticesi: Nâsih ile amel edip mensûhu terketmektir.
+¶ Bir ilgâ prensib ve metodu olan nesh, teâruza taraf olup bağdaştırılma imkânı bulunamayan hadislerin hangisinin “en son” olduğunu göstererek hangisiyle artık amel edilemeyeceğini, belli yollarla ve müdellel bir tarzda ortaya koymak demektir. Bu işlem, ukûbet mânâsı taşıyıp taşımamasına göre ya tahfiften tağlize ya da tağlizden tahfife giden bir seyir takib eder.
+| Nesh | Kısımları
+| **Neshin mânâsı** | Ukûbet mânâsı ve maksadı taşır · Ukûbet mânâsı ve maksadı taşımaz
+| **Gerçekleşme şartları** | Nesh hitab (emir-nehiy) ile olmalı · Neshin hükmü şer’î bir hüküm olmalı · Mensuh hüküm belli bir zaman kaydı taşımamalı · Nasih zaman bakımından mensuhtan sonra olmalı · Cem ve telif mümkün olmamalı
+| **Tanıma yolları** | Tasrîhu’n-Nebî · Kavlu’s-sahâbî · Vürûd tarihi · İcmâ
+| **Çeşitleri** | Sünneti sünnetle nesh · Hadisin Kur’an’la neshi · Akıl ile nesh
+| **Sonucu** | Nâsih ile amel edilir, mensuh terk edilir.
+* Neshin amelî neticesi: nâsih ile amel edip mensûhu terketmek. Nesh bir ilgâ prensibidir; hangi hadisin “en son” olduğunu gösterir.
+
+## C. Tercih
+: Tercih = Lügatte; meylettirmek, galib getirmek ya da muâdil taraflardan birinin vasfen üstünlüğünü isbat etmek demektir. Istılahta, “teâruz halindeki hadîslerden birinde bulunan ve onu ötekine üstün tutmayı gerektiren bir meziyeti ortaya koymak ve kabullenmek, ötekini de terketmek demektir.”
+¶ Teâruzun tabiî bir uzantısı ve çözüm yollarından biri olan tercih, takviye imkânı bulunan deliller arasında uygulanabilmektedir. Yani haberler ve kıyâsta geçerli olan tercih, kitab ve icmâ’da söz konusu değildir. Çünkü iki âyetten birinin ötekine tercihi diye bir şey olmaz; âyetler -şâyet muârız iseler- biri ötekini ya tahsis veya nesh etmiştir. İcmâ’da ise, teâruz mümkün değildir.
+!! Hadîslerden birini ihmâle sebep olan tercih, cem’ ve te’lif imkânı bulunan yerde düşünülmez.
+* Tercih haberler ve kıyâsta geçerlidir; kitap ve icmâda söz konusu değildir (âyetler birbirini tahsis veya nesh eder, icmâda teâruz olmaz).
+* Cem’ ve te’lif imkânı varsa tercih düşünülmez.
+
+## Tercih Esasları ve Hiyerarşi
+### 1) İsnâd ile İlgili Tercih Sebepleri
+¶ Râvînin hâli ve tahammül vakti ve şekli gibi iki ana bölümde sunmak, sebepler arasında belli bir irtibat kurma imkânı sağlayacaktır.
+#### a) Râvînin halleri ile ilgili tercih sebepleri
+- a.a) Râvînin adedinin çokluğu (“kesretu’r-ruvât”).
+- a.b) Râvînin zâtî vasıfları. Râvînin erkek, hür, ismi tek ve açık, nesebî meşhûr olması gibi.
+- a.c) Râvînin yaş durumu. Rivâyetu’l-kebîr, rivâyetu’s-sağir’e; ekâbir-i sahâbeden olanın rivâyeti diğerlerinin rivâyetine tercih edilir.
+- a.d) Râvînin ilmî durumu. Ravînin fakîh olması, Nahv ve Lugat bilmesi, ezberi yerinde olması
+- a.e) Râvînin hafıza durumu.
+- a.f) Râvînin fazileti ve şöhreti. Vera’ sahibi, itikadi sağlam, şöhret sahibi ve bid’atcı olmayan râvînin rivâyeti de bu vasıfları taşımayanın hadîsine tercih edilir. Güçlü özelliklerdir.
+- a.g) Râvînin adâleti ve güvenilirliği.
+- a.h) Râvînin olayla ilgisi. Râvînin, olayın başından geçtiği kişi olması, rivâyet ettiği konuya mübaşir olması tercih sebepleri arasında yer almaktadır.
+- a.ı) Ravinin Hz. Peygamber (sav)’e yakınlığı.
+- a.i) Râvînin hadîsçilerle irtibatı. Râvînin ehl-i hadîs veya âlimlerden ayrılmaması veya onlarla çokca beraber bulunması da tercih sebeplerindendir.
+#### b) Râvînin hadîsi tahammül vakti ve şekli ile ilgili sebepler
+¶ Rivayette büluğdan sonra, büluğdan önceye tercih edilir. Sema yolu, arz yoluna; bu ikisi yoluyla alanın kitabe, vicade ve münavele yoluyla alana tercihi söz konusudur.
+>> Semâ
+>> Arz
+>> Kitâbe, vicâde, münâvele
+### 2) Metin ile İlgili Tercih Sebepleri
+¶ Tercihte genel olarak önce senede ait özellikler gözönüne alınır. Sonra metin özellikleri incelenir.
+- Lafzen rivayet edilen manen rivayet edilene tercih edilir.
+- Vürud sebebi bulunuyorsa tercih sebebidir.
+- Medeni hadisler, Mekki hadislere tercih edilir.
+- Hâs olan lafız, Âmm olana, Tahsis edilmemiş Âmm tahsis edilmiş Âmma tercih edilir.
+- Hakikat Mecaza, Nehy Emre, Nehy İbahaya, Mecaz müştereke, mukayyed mutlaka tercih edilir.
+### 3) Hüküm (medlûl) Yönünden Tercih
+¶ Aslın hükmünü ve Beraeti asliyyeyi takrir eden rivayet, başka hükme işaret edene tercih edilir.
+### 4) Harici Sebeplerle Tercih
+¶ İsnad, metin ve delalette denk olan hadisler için bu tercihlere başvurulur.
+- Sırasıyla Kur’an, Sünnet, Kıyas, Ümmetin ameli, Hulefai Raşidinin ameli ve medinelilerin ameline muvafık olan tercih edilir.
+- Mürsel veya hatta munkatı tarafından desteklenen hadis tercih edilir.
+- Sahabeyi tenkid manası olmayan hadis tercih edilir.
+- Buhari ve Müslim’de bulunan hadisler tercih sebebidir.
+| Tercih sebepleri | Kısımları
+| **İsnad ile ilgili** | Râviye ait haller (râvinin adedinin çokluğu · zâtî sıfatları · yaş durumu · ilmî durumu · hâfıza durumu · fazileti ve şöhreti · adâleti ve güvenilirliği · olayla ilgisi · Hz. Peygamber’e yakınlığı · hadisçilerle irtibatı) · Tahammül vakti ve şekli ile ilgili
+| **Metin ile ilgili** | Rivâyet keyfiyeti itibâriyle · Vurûd vakti ve şekli ile ilgili · Lafız ve üslupla ilgili tercih sebepleri
+| **Hüküm (medlûl) yönünden** | Aslın hükmünü ve berâet-i asliyyeyi takrir eden rivayet
+| **Hâricî sebepler** | Kur’an, sünnet, kıyas, ümmetin, hulefâ-i râşidînin ve Medinelilerin ameline muvafakat · mürsel/munkatı ile desteklenme · sahabeyi tenkid manası taşımama · Buhârî ve Müslim’de bulunma
+* Tercihte önce senede, sonra metne ait özellikler gözönüne alınır.
+* Tahammülde: büluğdan sonraki rivâyet önceye; semâ arza; bu ikisi kitâbe, vicâde ve münâveleye tercih edilir.
+* Metinde: lafzen rivâyet manen rivâyete, Medenî Mekkî’ye, hâs âmma, hakikat mecaza, nehy emre, mukayyed mutlaka tercih edilir.
+* Hâricî tercih isnad, metin ve delalette denk hadisler içindir; Buhârî ve Müslim’de bulunmak tercih sebebidir.
+
+## Tercihin Amelî Neticesi ve Değerlendirilmesi
+¶ Tercih’in amelî neticesi: Racih hadis ile amel etmek ve mercuhu terk etmektir.
+¶ Tercih sebepleri, hadislerdeki tearuzu çözüme kavuşturacak kadar geniştir. Bunca sebepten hiçbiri ile tercih edilmeyip tevakkuf gereken tek bir misal dahi verilememiştir.
+* Tercihin amelî neticesi: râcih ile amel, mercûhu terk. Tevakkuf gereken tek bir misal dahi verilememiştir.
+
+## D. Tevakkuf
+: Tevakkuf (Tahyir, Tesakkut) = Mutearız hadislerin hiçbirisiyle amel etmemek ve bir tercih delili ortaya çıkana kadar beklemektir.
+¶ 2 kısımda incelenir: Teoride Tevakkuf ve Pratikte Tevakkuf.
+### 1- Teoride Tevakkuf
+¶ Tevakkuf sadece teoriden ibarettir. Çünkü bu aşamaya gelmeden nesh ve tercih ile iş bitirilir. Bu metod ise farazi bir durumdur. Bu sebeple sadece bilgi olarak vardır.
+### 2- Pratikte Tevakkuf
+¶ Pratikde tevakkuf hiç yoktur. Söylendiği gibi Tevakkuf sadece teoriden ibarettir. Çünkü bu aşamaya gelmeden nesh ve tercih ile iş bitirilir. Bu metod ise farazi bir durumdur. Bu sebeple sadece bilgi olarak vardır.
+* Tevakkuf (tahyir, tesâkut): müteârız hadislerin hiçbiriyle amel etmeyip tercih delili çıkana kadar beklemek. Sadece teoride vardır; pratikte hiç yoktur, çünkü iş nesh ve tercihle biter.

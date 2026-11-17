@@ -1,0 +1,72 @@
+# Esbâb-ı Vürûd: Amaç ve Aracın Ayırt Edilmesi
+> Hadislerin bina edildiği sebep ve illetler, sahabe ve tabiunun nassların illet ve bağlamlarına bakması, değişen örf üzerine kurulan nasslar, lafız ile ruh, değişken araç ile sabit amaç.
+
+## Esbâb-ı Vürûdun Dikkate Alınması
+¶ Hadislerin doğru anlaşılmasının hususlarından birisi de, bina edildikleri sebepler veya belli bir illete bağlı olup olmadıklarıdır. Bu durum hadiste açıkca ifade edilebilir, hadisten çıkartılabilir ya da hadisteki olayın bağlamından anlaşılabilir.
+?? Hadis: Sizler dünya işlerinizi daha iyi bilirsiniz. | Cevap: Bu hadis hurma aşılama kıssası ile ilgilidir. Rasulullah, zanna dayanan bir görüşüne işaret etmiş ve aşılama yaptırmamıştı. Halbuki ziraat ehli değildi. Aşılama yapmayan sahabe, hurmalarda kötü sonuç elde edince Rasulullah bu hadisi söylemiştir.
+?? Hadis: Ben müşrikler arasında oturan her müslümandan uzağım. Çünkü onlar birbirlerinin ateşlerini görmemektedirler. | Cevap: Mekke’den, Rasulullah’ın yanına hicret etmeleri vacip olan müslümanların, Hassan bölgesine gönderilen birlik tarafından, müşrikler arasında bulundukları için (müslüman olduklarını ifade ederek secde etmelerine rağmen) öldürülmesi sonucu bu hadis söylenmiş ve müşrikler içinde bulunan müslümanların farkedilemeyeceği belirtilmiştir. Dolayısıyla bu hadis, “öldürüldüğü zaman kanlarından beriyim” manasındadır. Çünkü müşriklerin içinde bulunan müslüman, kendini buna arz etmiş olur.
+?? Hadis: Bir kadın ancak kocası veya mahremi ile yolculuk yapabilir. | Cevap: Bu yasağın gerekçesi, yolculuğun deve, katır gibi vasıtalarla yapıldığı zamanda ve genelde yerleşim yerinden uzak, ıssız çöllerde olduğundan, kadının kendisine bir zarar gelmesi ya da kötü dedikoduların yayılmaması endişesinden söylenmiştir. Fakat günümüzde uçak gibi araçlar ile yüzlerce kişi güvenli bir şekilde yolculuk yapabilmektedir. Ayrıca “Bir kadının Hîre denilen yerden çıkıp kocası olmadan Beyt’e gelmesi yakındır” hadisi de bu düşüncemizi desteklemektedir. Bazı imamlar güvenilir bir kadın yeter demekte ve bazı imamlar ile Şafilerden Mühezzeb sahibi, kadının tek başına yolculuk yapabileceğini söylemektedir.
+?? Hadis: İmamlar Kureyş’tendir. | Cevap: Kureyş’li olma şartı, onlarda bulunan asabiyet ve üstünlük sebebiyledir. Aynı zamanda Kureyş ehli ticaret ile uğraştığı için yönetici vasfı bulunmakta idi. Diğer bölgelerde ise genelde ziraatle uğraşıldığından yöneticilik vasfı daha zayıftı.
+| Hadis | Sebep / illet
+| “Sizler dünya işlerinizi daha iyi bilirsiniz.” | Hurma aşılama kıssası
+| “Müşrikler arasında oturan her müslümandan uzağım.” | Müşrikler arasındaki müslümanların farkedilemeyip öldürülmesi
+| “Kadın ancak kocası veya mahremi ile yolculuk yapabilir.” | Issız çöllerde deve ve katırla yolculukta zarar ve dedikodu endişesi
+| “İmamlar Kureyş’tendir.” | Kureyş’teki asabiyet, üstünlük ve ticaretten gelen yönetici vasfı
+* Hadisin sebep ya da illete bağlı olduğu hadiste açıkça ifade edilebilir, hadisten çıkarılabilir ya da olayın bağlamından anlaşılabilir.
+* Kadının mahremsiz yolculuk yasağının gerekçesi ıssız çöllerde zarar ve dedikodu endişesidir; bazı imamlar güvenilir bir kadını yeterli görür, Mühezzeb sahibi tek başına yolculuğa cevaz verir.
+* “İmamlar Kureyş’tendir” şartı, Kureyş’teki asabiyet ve üstünlük sebebiyledir.
+
+## Sahabe ve Tabiunun Nassların İllet ve Bağlamlarına Bakma Yöntemleri
+¶ Bu yöntemi ilk uygulayan sahabe ve tabiundur. Onlar, bazı hadislerin Rasulullah döneminde belirli bir durumu ele aldığını gördükleri için sonradan bu durum değişince hadisin zahiri ile ameli terketmişlerdir.
+~ 1. Örnek: Nebi Hayber’i fetheden sahabiler arasında paylaştırmış, fakat Hz. Ömer Irak arazisini fetheden müslümanlar arasında paylaştırmamıştır. Çünkü müslümanların maddi durumu artık iyiydi.
+~ 2. Örnek: Rasulullah, kayıp develerin toplanmasını yasakladı ve soran kişiye “Ondan sana ne? Onu kendi haline bırak. Çünkü güçlü ayakları ve bünyesinde suyu vardır. Sahibi bulana kadar suyunu içer, ağaçlardan yer.” dedi. Sonra Hz. Osman döneminde kayıp develer çoğalınca, Hz. Osman, develerin toplatılıp ilan edilmesini, sahibi çıkmazsa satılmasını emretti ve sahibi çıkarsa parasının ona iade edilmesini söyledi. Hz. Ali döneminde ise kayıp develere Beytül Mal’dan bakılması ve sahibi çıkınca teslim edilmesi emredildi.
+! Sonuç: Halifeler, Rasulullah’ın emrine muhalefet etmedi, asıl maksadına uydu ve develerin zayi olmasını önledi.
+| Dönem | Kayıp develer
+| **Rasulullah** | Toplanması yasak; kendi haline bırakılır
+| **Hz. Osman** | Toplatılıp ilan edilir; sahibi çıkmazsa satılır, çıkarsa parası iade edilir
+| **Hz. Ali** | Beytülmal’dan bakılır; sahibi çıkınca teslim edilir
+* Nassların illet ve bağlamına bakma yöntemini ilk uygulayanlar sahabe ve tabiundur.
+* Hz. Ömer Irak arazisini fethedenler arasında paylaştırmadı; Hz. Osman ve Hz. Ali kayıp develer konusunda Rasulullah’ın asıl maksadına uydu.
+
+## Nassların Değişen Bir Örf Üzerine Kurulması
+?? Hadis: Buğday ile buğday, aynı şekilde arpa, hurma, tuz ölçeği ölçeğine, misli misline, altın ile gümüş ise tartısı tartısına fazlalık alınmaksızın değiştirilir. (Ribevi mallar ile ilgili görüş) | Cevap: Ebu Yusuf: Burada sözü geçen ölçek veya tartı ile ilgili örfe bağlı bir husus olduğunu söyler. Ebu Hanife: Ölçü ve tartı ile fazlalığı haram kılınan mallarda ebediyyen ölçü ve tartı geçerlidir.
+?? Örnek: Nakit paraların zekatında gümüşün 200 dirhem (595 gr) altının 20 miskal (85 gr) olarak iki nisab belirlemesi. | Cevap: Rasulullah iki nisab belirlemeyi kastetmiş değildir. Aksine tek bir nisab kastetmiştir. O zaman bir dinar on dirhemdi. Günümüzde gümüşün aşırı derece düşmüş olması arada büyük bir uçurum meydana getirmiştir.
+?? Örnek: Rasulullah, hata ile ve kasta benzer (şibh-i amd) öldürmelerde katilin akrabaları olan akilenin diyeti ödemesine hükmettiği hadis. (Akile = Kişiye yardım eden bakımını üstlenen kişi; Rasulullah döneminde erkek akrabalar idi) | Cevap: İbn Hacer: Akile, kişiye yardım eden ve ona destek olan kimselerdir. Rasulullah döneminde kişiye bakan en yakın erkek akrabaları olduğu için bu ödemeyi onlara yüklemişti. Hz. Ömer döneminde bu diyet ödemesi divana yüklenmiştir.
+¶ Birinci görüşü ele alanlar diyetin akrabalara ödetilmesi gerektiğini söylemişlerdir. İkinci görüş ise yer ve zamana göre kişiye kim bakıyorsa, onun ödemesi gerektiğidir. Şeriatte belirlenen yardımcılar mı, yoksa zahiren bakan kimseler mi olduğu konusunda fukaha ihtilaf etmiştir.
+: Âkile = Kişiye yardım eden ve ona destek olan kimseler. Rasulullah döneminde kişiye bakan en yakın erkek akrabalardı; Hz. Ömer döneminde diyet ödemesi divana yüklenmiştir.
+?? Hadis: Fıtr sadakasının bayram sabah namazından sonra, bayram namazından önce verilmesinin emredilmesi. | Cevap: Sahabe döneminde toplum genişleyip insanlar çoğalınca, fıtr vermek için bayram sabahı yetmiyordu ve bir iki gün önceden veriyorlardı. İşte sahabenin bu davranışı, ince kavrayışlarındandır. Yine Fıtr sadakasının belirli mallardan verilmesi yerine Hanefilerin de dediği gibi günün ihtiyacına göre verilmesi daha uygun olmaktadır.
+| Nass | Değişen örf
+| Ribevî mallarda ölçek ve tartı | Ebû Yûsuf: örfe bağlıdır · Ebû Hanîfe: ebediyyen ölçü ve tartı geçerlidir
+| Zekâtta iki nisab (200 dirhem gümüş, 20 miskal altın) | O zaman bir dinar on dirhemdi; tek nisab kastedilmiştir
+| Diyeti âkilenin ödemesi | Rasulullah döneminde erkek akrabalar, Hz. Ömer döneminde divan
+| Fıtr sadakasının bayram sabahı verilmesi | Sahabe döneminde bir iki gün önceden verildi
+* Ribevî mallarda ölçek ve tartı: Ebû Yûsuf’a göre örfe bağlıdır, Ebû Hanîfe’ye göre ebediyyen geçerlidir.
+* Zekâtta iki nisab: o dönemde bir dinar on dirhem olduğundan tek nisab kastedilmiştir.
+* Âkile: Rasulullah döneminde erkek akrabalardı; Hz. Ömer diyet ödemesini divana yükledi.
+* Fıtr sadakasını sahabe bir iki gün önceden verirdi; Hanefîlere göre günün ihtiyacına göre verilmesi uygundur.
+
+## Lafız ile Ruh veya Zahir ile Maksatlar Arasında Sünnet
+¶ Sünnete harfiyyen sarılmak, dış görünüşüyle ona sarılmak gibi olsa da bazen sünnetin ruhunu ve ondan kastolunanı yerine getirmek olmayacağı gibi hatta onun tam zıddı bile olabilir.
+~ Mesela; Ebu Hanife’nin fıtr sadakası hakkındaki nakit olarak bedelinin verilmesi görüşüne şiddetle karşı çıkanlar gibi. Karşı çıkanların delilleri ise Rasulullah’ın, hurma, kuru üzüm, buğday, arpa gibi belirlediği bazı gıdaların bulunmasıdır. Bize düşen görüşümüzle sünnete ters düşmemektir.
+* Sünnete harfiyyen sarılmak bazen sünnetin ruhunu yerine getirmemek, hatta onun zıddı olabilir (fıtr sadakasının nakit verilmesi örneği).
+
+## Hadisteki Değişken Araç ile Sabit Amacın Birbirinden Ayırt Edilmesi
+¶ Sünneti anlamada hataya düşme sebeplerinden birisi de amaçlarla, bu amaçlara ulaşmada ona yardım eden araçları birbirine karıştırmaktır. Sünneti anlamada derinleşen kişi bilir ki, önemli olan hedeftir. Hedefe ulaşırken araçlar, çevre ve örf gibi etkenlerle değişebilir.
+?? Örnek: Hacamat yaptırmayı, buhur kökünü, hind ağacını ve çörek otunu öven hadisler. | Açıklama: Kanaatimce bu hadislerde anlatılanlar, nebevi tıbbın ruhu değildir. Burada asıl amaç, insan sağlığı ve hayatını korumak, vücut sağlamlığını muhafaza etmek vb. şeylerdir. Vesileler ise asırdan asıra, nesilden nesile değişebilir. (Mesela kan aldırmanın sağlığa faydalı olduğu söylenebilir.)
+?? Ayet: Onlara karşı gücünüzün yettiği kadar kuvvet ve cihat için bağlanıp beslenen atlar hazırlayın. | Açıklama: Hiç kimse buradaki kuvvet hazırlamayı sadece “atlar” olarak anlamamıştır. Herkes kendi asrındaki atları (tanklar, zırhlar, silahlar vb.) hazırlama olarak anlamıştır.
+?? Hadis: “Atların alınlarına kıyamete kadar sevap, dünyada da ganimet bağlanmıştır” (At yetiştirmenin faziletini anlatıyor bu hadis) | Açıklama: Bu hadisi herkes kendi asrında keşfedilen attan daha üstün araçlar için yorumlamıştır. Tank, top, tüfek, silah gibi aletler bulundurmak gibi.
+?? Hadis: “ALLAH yolunda kim bir ok atarsa O’na şu kadar sevap vardır.” | Açıklama: Buradaki ok atma, sonradan icat edilen top, tüfek, füze gibi bütün araçlar için anlaşılmalıdır.
+?? Hadis: “Misvak dişleri temizleyici ve Rabbi de hoşnut edicidir.” | Açıklama: Burda kastedilenin, misvakın kendisi olmadığı kanaatindeyim. Misvak, arap yarımadasında diş temizleme için en kolay ulaşılabilen bir araç olduğundan Nebi tarafından zikredilmiştir. Asrımızda diş fırçası ve macunun (özellikle evde ve yemekten sonra) misvağın yerine geçmesi uygundur.
+?? Hadis: Tartı Mekke’lilerin tartısıdır. Ölçü de Medine’lilerin ölçüsüdür. | Açıklama: Burada da belirteceğimiz şey, zaman-mekan ve halin değişmesiyle bunların da değişeceğidir. Yani değişmeyen taabbudi bir emir değildir. Basiret sahibi kimse hadisin asıl hedefini anlar ve insanların, en ince birimlere kadar ölçülerini birleştirmesi gerektiği sonucuna ulaşır.
+?? Hadis: Ramazan hilalini gördüğünüzde orucunuzu tutun, Şevval hilalini görünce iftar edin… (Ru’yetü Hilal) | Açıklama: Burada amaç, Ramazan ayının tamamını oruçlu geçirmek, ondan bir gün bile kaçırmamaktır. Araç ise Hilalin gözetlenmesidir. Bir başka hadiste “Biz ümmi bir topluluğuz, yazma ve hesap bilmeyiz. Ay bazen şöyle, bazen şöyledir…” Hilalin o dönemde gözle görülmesi, insanlar için en kolay vesile idi. Asrımızda astronomi ilminin gelişmesiyle hilal en ince ayrıntısına kadar gözetlenmektedir. Asrımızda vesile/araç, astronomi ilmi olmalıdır.
+| Nass | Sabit amaç | Değişken araç
+| Hacamat, buhur kökü, hind ağacı, çörek otu | İnsan sağlığı ve hayatını korumak | Tedavi vesileleri
+| Kuvvet ve bağlanıp beslenen atlar (ayet) | Kuvvet hazırlamak | Atlar → tanklar, zırhlar, silahlar
+| Atların alınlarına sevap ve ganimet | At yetiştirmenin fazileti | Attan üstün araçlar: tank, top, tüfek
+| Allah yolunda ok atmak | Allah yolunda güç kullanmak | Ok → top, tüfek, füze
+| Misvak | Dişleri temizlemek | Misvak → diş fırçası ve macun
+| Mekkelilerin tartısı, Medinelilerin ölçüsü | Ölçülerin birleştirilmesi | Dönemin tartı ve ölçüsü
+| Ru’yet-i hilâl | Ramazanın tamamını oruçlu geçirmek | Gözle gözetleme → astronomi ilmi
+* Sünneti anlamada hataya düşme sebeplerinden biri amaçla aracı karıştırmaktır; önemli olan hedeftir, araçlar çevre ve örfle değişebilir.
+* Misvak yerine diş fırçası ve macun; ok yerine top, tüfek, füze; at yerine tank ve zırh.
+* Ru’yet-i hilâlde amaç Ramazanın tamamını oruçlu geçirmektir; asrımızda vesile astronomi ilmi olmalıdır.

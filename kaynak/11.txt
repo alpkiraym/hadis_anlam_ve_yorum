@@ -1,0 +1,82 @@
+# Temel Hadis Kaynaklarının Çevirileri Üzerine Bir Kritik
+> Hangi eserlerin çevrileceği, bütün bir kitabı çevirmenin riskleri, ideal bir çeviride ihmal edilmemesi gereken on dört husus ve eşdeğerci ile işlevselci çeviri yaklaşımları.
+
+## Sonuç ve Öneriler
+¶ Bilgi akışının sağlanması açısından bazı kaynakların farklı dillere çevrilmesi bir ihtiyaçtır. Ancak, burada özellikle halkın ihtiyaçlarının gözetilmesi kadar, hangi eserlerin çevrilmesi gerektiğini de iyi tespit etmek gerekir.
+¶ Son yıllarda ülkemizde görülen tercüme furyası ve ortaya çıkan çalışmalar, bu hususta bizleri endişeye sevk etmektedir. Daha henüz temel kaynakların sağlıklı çevirilerine sahip değilken, görüyoruz ki, bazı şerhler dahi çevrilmeye başlandı. Bunun ardında, gerçekten ilme duyulan bir ihtiyaç mı, yoksa başka sebepler mi vardır bilemiyoruz.
+¶ Başka bir husus da, merhum Tayyib Okiç hocamızın işaret ettiği üzere, bütün bir kitabı baştan sona çevirmenin de ciddi riskleri vardır. Özellikle, yeterli şerh veya izah yapılmadan, sadece çeviriyle yetinmenin bazı mahzurları bulunmaktadır. Özellikle, Hanefi bir topluma kazandırılan bir hadis kitabındaki mezhebin görüşüyle uyuşmayan hadisler, okuyucu için sorun olacaktır. Yahut Peygamberimizin şartlarında gayet normal olan bazı konuların yeterli açıklama yapılmadan verilmesi halinde okuyucunun kafası karışacağı muhakkaktır. Dolayısıyla çevirilerde bu tür karmaşayı önleyecek bazı parantezlerin açılması, ya da dipnotların atılması veya kısa da olsa bazı açıklamaların yapılması gerekmektedir.
+!! Bütün bir kitabı baştan sona, yeterli şerh veya izah yapmadan çevirmenin ciddi riskleri vardır; parantez, dipnot veya kısa açıklamalar gerekir.
+* Hangi eserlerin çevrileceği iyi tespit edilmelidir; temel kaynakların sağlıklı çevirileri yokken şerhler dahi çevrilmeye başlanmıştır.
+* Tayyib Okiç’in işaret ettiği üzere bütün bir kitabı izahsız çevirmenin ciddi riskleri vardır (mezhebe uymayan hadisler, dönemin şartlarında normal olan konular).
+
+## İdeal Bir Çeviride Dikkat Edilecek Hususlar (1–7)
+¶ İdeal bir çeviri yapılırken şu hususlar ihmal edilmemelidir:
+1. Türkçe sözlüklere başvurulmalı, çevrilen kelimeyi en iyi karşılayan sözcük, ifade veya deyim özenle seçilip kullanılmalıdır. Bu husus, çoğu çevirilerde göz ardı edilmektedir.
+2. Öncelikle hadis, mütercim tarafından doğru bir şekilde anlaşılmalıdır. Bunun için de, o hadisin bağlamı, zamanı ve zemini, illeti, hikmeti, vürûd sebebi iyi bilinmelidir. Bu ise, hadis, sünnet konularında ihtisas düzeyinde ciddi bir birikimi gerektirir.
+3. Çevrilen hadisin farklı kaynaklarda geçen, değişik versiyonları da dikkate alınmalı, rivayetlerimizde sıkça rastlanan hazf, takti’ ve ihtisar gibi hususlar, bu rivayet farklılıklarıyla telafi edilmelidir. Çevrilen metinde gözükmeyen kısımlar, diğer rivayetlerden ödünç alınıp parantez kullanılarak metindeki eksiklikler tamamlanmalıdır.
+4. Hadislerde geçen garip kelimeler için normal Arapça sözlüklere değil, mutlaka Garibü’l-hadis türündeki hadis sözlüklerine başvurulmalıdır. Hatta bunun için el-Halîl b. Ahmed’in Kitabü’l-Ayn’ı gibi en eski Arapça eserlere başvurmak da oldukça yararlı olacaktır. Eldeki CD’ler bu konuda işimizi hayli kolaylaştırmaktadır.
+5. Çevrilen bir kelimenin veya ifadenin birden fazla anlamı varsa, bu anlamlar içinde en doğru olanı tercih edilmelidir. Ancak yerine göre bazen “veya” diyerek, bazen (/) ile bazen de dipnot düşerek diğer anlam ve yorumlara da işaret edilmelidir.
+6. Hadislerin anlaşılmasında, klasik şerhlerimizin verilerinden yararlanılmalıdır. Özellikle CD’ler kullanılmak suretiyle bir anda birkaç şerhte ne tür izahlar yapıldığını görme imkanının olduğu günümüzde, şerhlerimizdeki yorum zenginliği ihmal edilmemelidir.
+7. Hadislerde geçen bazı kavramlar, dilimize de aynen geçmiş olmasına ve günlük dilde ve hayatta da kullanılmasına rağmen, zaman içerisinde bazı kavramlarda birtakım anlam kaymaları, daralmalar veya genişlemeler olabilmektedir. Çeviride, bu kavramların Hz. Peygamber’in dilinde ne anlama geldiği dikkate alınmalı, “kavramın anlamı nasıl olsa bilinmekte” düşüncesiyle Latinize ederek aynen nakletme yanılgısına düşülmemelidir. Bunun en bariz iki örneğini “nasihat” ve “ırz” kavramları oluşturmaktadır ve her ikisi üzerinde de müstakil iki makale yazılmıştır.
+@ الدين النصيحة | Bu hadisteki “en-nasiha” kavramının “nasihat” diye çevrilmesi yanılgısı hayli yaygındır. Oysa Arapça’da ve Hz. Peygamber’in dilinde “en-nasiha” “içten-özden bağlılık ve samimiyet” diye çevrilmelidir.
+¶ Aynı yanlışlık “ırz” kavramının aynen yansıtılmasında da yapılmaktadır. Nitekim Buhari’deki bir bab başlığında yer alan şu rivayetin çevirisi bunun açık bir örneğini oluşturmaktadır:
+@ لي الواجد يحل عقوبته وعرضه | “Ödeyecek şeyi bulan kimsenin borç ödemeyi geciktirip uzatması, ona ceza vermeyi ve ırzını helal kılar” Buhari, İstikraz, 13 (bab başlığı).
+¶ Bu çeviride “ırzını helal kılar” ifadesinin, Türk okuyucusunun zihninde ne tür yanlış çağrışımlar yapacağı dikkate alınmamıştır. Böyle bir ifadenin hem mantık hem de hukuk ve ahlak açısından yanlış sonuçlar doğuracağı da maalesef düşünülmemiştir. Oysa bu hadisin diğer bir versiyonunda Abdullah b. el-Mübarek’in yapmış olduğu açıklama, böyle bir tutumun, alacaklının borçluya ağır ifadeler kullanarak sataşmasına yol vermesi şeklindedir. Buna göre buradaki ırz ifadesiyle borçlunun onur ve haysiyeti kastedilmektedir. Yani, imkanı olduğu halde borcunu ödemeyen kişi, bu tür tariz ve sataşmalara muhatap olacak ve boyun eğecek demektir.
+| Kavram | Yanlış çeviri | Doğru anlam
+| en-nasiha («الدين النصيحة») | nasihat | İçten-özden bağlılık ve samimiyet
+| ırz («لي الواجد يحل عقوبته وعرضه») | “ırzını helal kılar” | Borçlunun onur ve haysiyeti (Abdullah b. el-Mübarek’in açıklaması)
+* Garip kelimeler için normal Arapça sözlüklere değil Garibü’l-hadis sözlüklerine, hatta el-Halîl b. Ahmed’in Kitâbü’l-Ayn’ı gibi en eski eserlere başvurulmalıdır.
+* Metinde görünmeyen kısımlar diğer rivâyetlerden alınıp parantezle tamamlanmalıdır (hazf, takti’, ihtisar).
+* “en-nasiha” nasihat değil, içten-özden bağlılık ve samimiyettir; “ırz” borçlunun onur ve haysiyetidir.
+
+## İdeal Bir Çeviride Dikkat Edilecek Hususlar (8–13)
+8. Arapça tekid, istisna vb. ifade kalıplarını, Osmanlı medrese geleneğimizde tercüme edildiği gibi, “... yoktur ki, şöyle olmasın”, “... yapamaz, meğer ki şöyle olsun” şeklinde çevrilmesi, günümüzde hem anlamayı zorlaştırmakta hem de okuyucuyu yormaktadır. Bu tür ifadelerin, ayrı kalıplarla çevirmek yerine, daha düz, akıcı ve sade bir şekilde çevrilmesi daha uygun olacaktır.
+@ ما من داء إلا في الحبة السوداء شفاء إلا السام | “Hiçbir dert yoktur ki, çörek otunda ona şifa bulunmasın, yalnız ölüm müstesna!” M5768 Müslim, Selam, 89 / A. Davudoğlu, IX. 646. — “Çörek otunda ölüm dışında her derde şifa vardır.” ifadesi, hem daha kısa, hem de daha açık ve anlaşılırdır.
+9. Şart-cevap cümlelerini çevirirken, “Her kim şöyle yaparsa, şöyle olur” yerine, daha düz ve açık çeviri yapmak, anlamayı kolaylaştıracaktır. Örneğin:
+@ من جاء بالحسنة فله عشر أمثالها | “Her kim bir hayırla gelirse, ona bu hayrın on misli vardır.” M6833 Müslim, Zikir, 221 / A. Davudoğlu, XI. 19. — “İyilik getirene, onun on katı verilir.”
+10. Hadislerde çokça geçen “sizden biriniz, sizden herhangi biriniz” şeklinde çevrilen cümle kalıpları, dilimizde neredeyse hiç kullanılmamaktadır: Bunun yerine Peygamberimizin bununla bütün muhataplarına seslendiğini dikkate alarak doğrudan “Şöyle yapın! Böyle yapmayın!” şeklinde çevirmek de anlaşılmayı kolaylaştıracaktır. Örneğin:
+@ لا يبولن أحدكم في الماء الدائم ثم يغتسل منه | “Sizden biriniz sakın durgun suya abdest bozmasın, (ola ki) biraz sonra ondan gusleder.” D69 Ebû Dâvûd, Taharet, 36 / Komisyon, I. 134. — “Durgun suya işemeyin ki, orada yıkanabilesiniz!” “Kimse durgun suya işemesin! Ola ki, orada yıkanırsınız.”
+11. Ancak, şayet hadiste, meclis içinde herhangi birini işaret ederek, edeben “sizden biri” şeklinde bir ifade kullanılmışsa, elbette bu o üslupla çevrilmelidir.
+12. Hadislerde geçen teşbih, istiare vb. edebi sanatlar çevrilirken, imkan nispetinde hem doğru çevrilmeli, hem de hadisteki edebi zevk ve ahenk de yansıtılmaya çalışılmalıdır. Özellikle deyimler, harfi olarak çevrilmemeli, o deyimin dilimizdeki karşılığı verilmelidir. Hz. Peygamber’in Hendek Savaşı anlatılırken geçen şu ifadede olduğu gibi:
+@ ثم قام وبطنه معصوب بحجر ولبثنا ثلاثة أيام لا نذوق ذواقا | “Sonra Peygamber karnına (açlıktan) bir taş parçası sarılmış olarak kalktı. Çünkü biz (hendek kazarken) üç gün yiyecek içecek bir şey tatmadan orada kalmıştık.” B4101 Buhari, Megazi, 30 / Sofuoğlu, VIII. 3840.
+¶ Oysa bu metinde geçen «وبطنه معصوب بحجر» ifadesi, Hüzeyl Kabilesi’nin lügatinde bir deyimdir ve aşırı açlıktan kinayedir. Her ne kadar bazı şarihlerimiz de bunu gerçeğe hamlederek çeşitli şekillerde tevil etmişler ise de, burada diğer izahların da dikkate alınması gerekecektir. Diğer rivayetteki ifade de bunu desteklemektedir:
+@ فإني رأيت برسول الله صلى الله عليه وسلم خمصا شديدا | “Çünkü ben Rasulullah’ta şiddetli bir karın boşluğu ve çekikliği gördüm.” B4102 Buhari, Megazi, 30 / Sofuoğlu, VIII. 3844.
+¶ Bu nedenle, yukarıdaki ifadeleri belki şu şekilde çevirmek daha isabetli olacaktır: “Sonra Hz. Peygamber, açlıktan karnı sırtına yapışmış vaziyette kalktı. Tam üç gün hiçbir şey tatmamıştık.” “Çünkü ben Rasulullahın (s) çok aç olduğunu anladım.”
+¶ Çevirilerde, asıl olan hadisin içerdiği anlamın okuyucuya doğru ve açık bir şekilde aktarılmasıdır. Dolayısıyla metinde olmayan bir manayı veya herhangi bir yorumu çeviriye katmamak gerekir. Ancak, muhtemel bazı yanlış anlaşılmaları yahut metnin içeriğinin daha iyi anlaşılmasını sağlayacak bazı açıklamalar verilecekse, bu ya parantez ya da dipnot düşülmek suretiyle olmalıdır. Zira Arapça bilmeyen bir okuyucudan, asıl metin ile mütercimin yorumunu fark etmesi beklenmemelidir.
+13. Metne sadakat adına da olsa, okuyucunun anlayamayacağı şekilde lafzî/harfi çeviriden sakınılmalıdır. Mana ile rivayet, içeriği yansıtmak kaydıyla nasıl caiz görülmüşse, çeviride de anlamın yansıtılmasını hedefleyen bir yöntem tercih edilmelidir. Metne sadık kalıp anlaşılmamaktansa; lafzen tutmasa da, manayı tutturmak, anlamı okuyucuya ulaştırmak adına daha serbest yapılan bir çeviri yeğdir.
+| Kalıp | Ağır çeviri | Sade çeviri
+| Tekid / istisna (8) | “Hiçbir dert yoktur ki, çörek otunda ona şifa bulunmasın, yalnız ölüm müstesna!” | “Çörek otunda ölüm dışında her derde şifa vardır.”
+| Şart-cevap (9) | “Her kim bir hayırla gelirse, ona bu hayrın on misli vardır.” | “İyilik getirene, onun on katı verilir.”
+| “Sizden biriniz” (10) | “Sizden biriniz sakın durgun suya abdest bozmasın…” | “Durgun suya işemeyin ki, orada yıkanabilesiniz!”
+| Deyim (12) | “Karnına bir taş parçası sarılmış olarak kalktı” | “Açlıktan karnı sırtına yapışmış vaziyette kalktı”
+* Tekid ve istisna kalıpları (“… yoktur ki, şöyle olmasın”) ve şart-cevap cümleleri (“Her kim şöyle yaparsa…”) daha düz ve sade çevrilmelidir.
+* “Sizden biriniz” kalıbı yerine doğrudan “Şöyle yapın! Böyle yapmayın!” denebilir; meclisteki birine işaret varsa o üslupla çevrilir.
+* «وبطنه معصوب بحجر» Hüzeyl lügatinde aşırı açlıktan kinaye bir deyimdir; deyimler harfî çevrilmez.
+* Açıklamalar parantez ya da dipnotla verilir; metne sadık kalıp anlaşılmamaktansa manayı tutturan serbest çeviri yeğdir.
+
+## Metin Merkezli Yaklaşım ve Pergel Örneği (14)
+14. Şimdiye kadar yapılan çevirilerde genellikle metin merkezli bir yaklaşım görülmüştür. Mütercim metne bağlı kalmak, metinden uzaklaşmamak için daha çok lafzı yansıtmayı, ibareyi aynen karşılamayı tercih etmişlerdir. Pergelin bir ayağını metnin üzerine sabitleyen mütercim, metinden uzaklaşmamak için diğer ayağını fazla açmamış ve metnin etrafında dönüp durmuştur. Bunu yaparken de okuyucuyu ihmal etmiştir. Bir mütercimin vazifesi, çevirdiği metni nasıl anladıysa, onu kendi dili ile ikinci dile dökmekle bitmemektedir. Bu husus, çevirinin sadece bir aşamasından ibarettir.
+¶ Oysa günümüzde yapılması gereken bundan farklıdır. Pergelin bir ayağı yine metnin üzerindedir, ancak öbür ayak, mütercimin metinden anladığı anlamı, okuyucunun ta zihnine ulaştırıncaya kadar açılacaktır. Böylece, bir ayak metinde, öbür ayak ise okurda olacaktır. Mütercim, pergel örneğinde olduğu üzere, metin ile okuyucu arasında anlamı kolay ve doğru bir şekilde ileten bir iletken olmalıdır. İşte günümüz müterciminin asıl görevi burada kendini göstermektedir. Kendi anladığı ve kendi diliyle ifade ettiği bu anlamı okuyucuya nasıl mal edecektir? Okuyucunun ilgisini, bilgisini, seviyesini vb. dikkate alarak metindeki anlamı asıl hedef olan okuyucunun anlayışına güvenle teslim etmelidir.
+* Pergel örneği: bir ayak metinde, öbür ayak okurda olmalı; mütercim metin ile okuyucu arasında anlamı ileten bir iletkendir.
+
+## Woodhouslee’nin Üç Prensibi
+¶ XVIII. asrın sonunda Edinburgh Üniversitesi’nde tarih profesörü olan Lord Woodhouslee Tercüme Prensipleri Üzerine Deneme adlı nadir eserinde bir tercümenin yapılması ve hakkında hüküm verilmesi için üç temel prensip koyuyordu:
+1. Bir tercüme, aslındaki fikirleri, tam ve eksiksiz, olduğu gibi vermelidir.
+2. Yazının üslûp ve tarzı, aslınınki ile aynı vasıfta olmalıdır.
+3. Bir tercüme, telif kadar kolay okunabilmelidir.
+* Lord Woodhouslee’nin üç prensibi: fikirleri tam ve eksiksiz vermek, üslûbun aslıyla aynı vasıfta olması, telif kadar kolay okunmak.
+
+## Eşdeğerci ve İşlevselci Yaklaşım
+¶ Batı’da 60 ila 70’li yıllara kadar yapılan çevirilerde egemen olan unsur, kısaca “kaynak metne sadakat” diye niteleyebileceğimiz geleneksel “eşdeğerlilik” kavramıydı. Daha sonra ise, “fonksiyonalizm / işlevselcilik” olarak bilinecek yeni bir yaklaşım ortaya konuldu. İşlevselci yaklaşım, çeviri sürecinde, kaynak metinden çok çevirmene ve çeviri metnine ağırlık vermektedir. Bu yüzden, işlevselci yaklaşım, kaynak metni tahrif edebileceği gerekçesiyle ağır eleştirilere maruz kalmıştır. Aslında bu gerekçe doğru değildir; çünkü işlevselci yaklaşımı savunan yazarlardan hiçbiri, yanlış çeviriyi onaylamamaktadır, aksine, doğru çeviriyi bulabilmesi için çevirmene ağır sorumluluklar yüklemektedir.
+¶ Eşdeğerci yaklaşım; yazara sadıktır, kendisi görünmez, kaynak metne yöneliktir, linguistik eşdeğerlilik egemendir, kuralları uygulamakla yetinir. İşlevselci yaklaşımda ise, çevirmen daha görünürdür (aktiftir), okura sadıktır (onu öncelemektedir), erek metne yöneliktir, kabul edilebilir bir iletişim içindedir. Birincisi, okuru ırmaklar içinden geçirmeyi; ikincisi ise, ırmaklardan geçmeyi sağlamak üzere köprüler kurmayı hedefler.
+¶ Netice itibariyle, amaç, kaynak metni erek dile işlevsel olarak, yani okurun anlamasını sağlayacak şekilde çevirmektir. Öncelikle kaynak metni anlamak, sonra da bu metni, okurun anlayabileceği şekilde erek dile aktarmak. İşte bu bağlamda, çevirmene çeviri sürecinde özgürlük tanıdığı ölçüde sorumluluk da yükleyen işlevselci yaklaşımın önemi daha da anlaşılmaktadır. Özellikle çeviri konusundaki işlevselci yaklaşım, günümüzün gereksinimlerine daha iyi yanıt vermesi bakımından büyük bir önem taşımaktadır.
+| | Eşdeğerci yaklaşım | İşlevselci yaklaşım
+| **Sadakat** | Yazara sadıktır | Okura sadıktır (onu önceler)
+| **Çevirmen** | Görünmez | Daha görünür (aktif)
+| **Yönelim** | Kaynak metne | Erek metne
+| **Esas** | Linguistik eşdeğerlilik; kuralları uygulamakla yetinir | Kabul edilebilir bir iletişim
+| **Benzetme** | Okuru ırmaklar içinden geçirir | Irmaklardan geçmek için köprüler kurar
+¶ “Bütün bu tavsiyeler bizi şu umumi kanaate götürür: Bir tercüme, kolay ve zevkle okunabilmelidir, kolay ve zevkle okunamıyorsa hiçbir zaman okunmayacaktır. Okunmayacak tercümenin ise, hiç yapılmaması daha iyi olur.”
+* Batı’da 60–70’li yıllara kadar “eşdeğerlilik” (kaynak metne sadakat) egemendi; sonra “işlevselcilik” (fonksiyonalizm) ortaya çıktı.
+* Eşdeğerci yaklaşım yazara ve kaynak metne, işlevselci yaklaşım okura ve erek metne yöneliktir; birincisi okuru ırmaktan geçirir, ikincisi köprü kurar.
+* Kolay ve zevkle okunamayan tercüme hiçbir zaman okunmaz; okunmayacak tercümenin hiç yapılmaması daha iyidir.

@@ -1,0 +1,43 @@
+# Hadis Tercüme ve Yorumunda Esaslar ve Hatalar
+> Hadislerin tercüme ve yorumunda dikkat edilmesi gereken esaslar ve sık rastlanan hatalar: tercümenin önemi, hata oranı, doğru tercüme için dört metod ve mütercimin sorumluluğu.
+
+## Tercümenin Önemi
+¶ Hadis tercümeleri, hadisleri öğrenmemizin ilk adımı olduğu için bu ilk adımda karşılaşılan hatalı aktarımlar nebevî beyanlardan istifade imkânımızı baştan kesecek, bu hatalı aktarımlar üzerine bina edilen her türlü anlayış ve davranış hatalı olmaktan kurtulamayacaktır. Mânen hadis rivayeti mesabesinde olan tercümenin yanlış olması, Resûl-i Ekrem’e ait olmayan bir sözün O’na nispetine yol açmaktadır. Bu bağlamda, günümüzde çok yoğun bir şekilde sürdürülen tercüme faaliyetlerinin ne derece sağlıklı bilgiler ürettiğinin tetkiki çok büyük önemi hâizdir.
+!! Tercüme mânen hadis rivayeti mesabesindedir; yanlış tercüme Resûl-i Ekrem’e ait olmayan bir sözün O’na nispetine yol açar.
+* Hadis tercümeleri hadisleri öğrenmenin ilk adımıdır; tercüme mânen hadis rivayeti mesabesindedir.
+
+## Hata Oranı ve Değerlendirme
+¶ Çalışmamızda, son senelerde yapılmış hadis tercümelerinde sık rastlanan hata çeşitleri kapsamlı ve sistematik bir şekilde ele alınmaya çalışılmış, bu hataların mahiyetleri araştırılarak bunlardan kaçınmak için dikkat edilmesi gerekli esaslar tespit edilmiştir. Makalemizde, son senelerde yapılmış pek çok eserde yer alan ciddi tercüme hataları tespit edilmekle beraber tercüme edilmiş tüm hadis kitaplarının, tercümelerin sıhhati açısından, aynı seviyede olduğunu söylemek mümkün değildir. Bu eserlerin baştan sona tetkiki sonucu, hadis akademisyenlerinin yaptığı çevirilerin daha başarılı olduğu görülmektedir.
+¶ Ayrıca, başta belirttiğimiz üzere, yaklaşık yetmiş bin hadis tercümesi içinden yaklaşık iki bin tercüme hatası tespit edilmesi, hata oranının 35 hadiste bir olduğunu göstermektedir. Bu düşük oran da tercüme edilmiş bulunan hadis kitaplarına duyulacak güveni sarsacak bir seviyede değildir. Ancak, söz konusu olan, Müslümanların hayat rehberi konumundaki hadisler olduğu için elbette büyük bir hassasiyet gerektiği kanaatindeyiz. Nitekim bu makale de böyle bir hassasiyetin neticesidir.
+| Tespit | Değer
+| İncelenen hadis tercümesi | Yaklaşık yetmiş bin
+| Tespit edilen tercüme hatası | Yaklaşık iki bin
+| Hata oranı | 35 hadiste bir
+| Daha başarılı çeviriler | Hadis akademisyenlerinin yaptığı çeviriler
+* Yaklaşık yetmiş bin hadis tercümesinde yaklaşık iki bin hata: 35 hadiste bir. Bu oran güveni sarsacak seviyede değildir; hadis akademisyenlerinin çevirileri daha başarılıdır.
+
+## Daha Sağlıklı Tercüme İçin Teklifler
+¶ Çalışmamız sonucunda hadis tercümeleri hakkında bazı değerlendirmelerde bulunmak ve daha sağlıklı tercümeler yapmak için bazı teklifler sunmak mümkündür. Makalemizde incelenen hadislerin büyük çoğunluğu, çok az zahmetle doğru tercüme edilebilecek durumda iken maalesef gerekli zaman ve ihtimam gösterilmediği için mâna zâyi edilmekte, fahiş hatalar ortaya çıkmaktadır.
+¶ Kelime ve ifadelerin mânaları için **İbnü’l-Esîr**’in en-Nihâye fî ğarîbi’l-hadîs isimli eserine, yine hem bu maksatla hem de cümle yapılarını daha iyi çözmek için basit ta’lik çalışmalarına müracaat edilse, hadislerin büyük çoğunluğunda yanlış tercümelerin önüne geçilebilecektir. Bazı hadislerde daha kapsamlı şerhlere müracaat veya hadisin diğer tariklerini mukayese ihtiyacı olabilmekle beraber yukarıda bahsettiğimiz şekilde asgarî zahmetle muhtemel fahiş hatalar önlenebilecektir.
+¶ Ayrıca, her zaman doğru sonuç vermemekle beraber, hadisin daha önceki muteber tercümeleriyle de mukayese durumunda bir hatanın önüne geçilebilir. Örneğin, www.sunnah.com sitesinde Kütüb-i Sitte kaynaklarının muteber İngilizce tercümeleri mevcut olup hatalı tercüme yok denecek kadar azdır. Türkçede de hatalı bazı çeviriler içermesine rağmen, Mehmet Sofuoğlu’nun Buhârî tercümesi gibi bazı kaynaklarla mukayese yapılarak doğru tercüme için ilk planda bir fikir sahibi olunabilir.
+* Kelime ve ifadelerin mânaları için İbnü’l-Esîr’in en-Nihâye fî ğarîbi’l-hadîs’ine ve basit ta’lik çalışmalarına müracaat edilmelidir.
+* Önceki muteber tercümelerle mukayese: İngilizcede sunnah.com, Türkçede Mehmet Sofuoğlu’nun Buhârî tercümesi gibi kaynaklar.
+
+## Doğru Tercüme İçin Dört Metod
+¶ Doğru tercüme yapılması için şu dört metodun, ilgili hadise göre, denenmesi doğru sonuca götürecektir:
+- i) Hadiste geçen bilinmeyen kelime için garîbu’l-hadîs kaynaklarına müracaat etme,
+- ii) hadisin sebeb-i vürûdu ve hadisle ilgili detayları açıklayıcı diğer bilgileri tespit için hadisin farklı tariklerini mukayese etme,
+- iii) hadisin, içinde geçtiği bâbın başlığı ile uyumuna dikkat etme,
+- iv) ihtiyaç halinde hadis şerhlerine müracaat etme.
+>> Bilinmeyen kelime için garîbu’l-hadîs kaynakları
+>> Farklı tariklerin mukayesesi (sebeb-i vürûd ve detaylar)
+>> Bâb başlığıyla uyum
+>> Gerekirse hadis şerhleri
+* Doğru tercüme için dört metod: garîbu’l-hadîs kaynakları, farklı tariklerin mukayesesi, bâb başlığıyla uyum, gerekirse şerhler.
+
+## Mütercimin Sorumluluğu
+¶ İncelememizde göze çarpan bir diğer husus da, bazı tercümelerde temel hadis kaynaklarına tam vâkıf olunmaması nedeniyle, meşhur bazı hadislerin bile yanlış tercümelerinin yapılabilmesidir. Bu açıdan, mütercimlerin gerek hadis usulü gerekse hadis metinlerine son derece vâkıf olmadan böyle ağır mesuliyet gerektiren bir işe girişmemeleri ve yapılan çalışmalara azâmi ihtimam ve hassasiyet göstermeleri gerekmektedir.
+¶ Teknolojinin çok geliştiği, önceleri çok büyük zaman ve zahmet gerektiren araştırmaların bir klavye tuşuyla gerçekleştirilebildiği zamanımızda, doğru tercümeyi tespit için gerekli tahriçlerin yapılmaması, ilgili şerhlere müracaat edilmemesi, bu hayâtî çalışmaların aceleye getirilmesi İslam dininin ikinci temel kaynağının Müslümanlara doğru / yanlış aktarılması noktasında herhalde çok büyük mesuliyeti mûcibtir. Bu noktada hadis uydurmakla ilgili nebevî uyarı, sahâbenin yanlış aktarırım düşüncesiyle hadis rivayeti hususundaki inanılmaz hassasiyeti (örneğin, Abdullah b. Mesud’un), tercümelerin de hadislerin bir yönüyle mânen rivayeti olduğu akıllarda tutulmalıdır.
+¶ Bu sahada bir boşluğu doldurmasını ümit ettiğimiz bu mütevazi çalışmanın aynı zamanda bundan sonraki, gitgide artan, hadis tercüme ve yorum çalışmalarında konunun hassasiyetine yönelik bir farkındalık oluşturmasını ve daha sağlıklı tercümeler için faydalı olmasını ümit etmekteyiz.
+* Mütercim hadis usulüne ve hadis metinlerine son derece vâkıf olmalıdır; tahriç yapılmaması, şerhlere bakılmaması ve aceleye getirmek büyük mesuliyet doğurur.
+* Sahâbenin (ör. Abdullah b. Mes’ûd) yanlış aktarma endişesiyle rivâyetteki hassasiyeti akılda tutulmalıdır.

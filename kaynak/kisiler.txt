@@ -1,0 +1,48 @@
+# Kişi eşleştirme listesi (eşleştirme oyunu, "kimdir?" soruları ve sözlüğün Kişiler sekmesi).
+# Biçim: <ünite no> | <bölüm başlığı (ünite dosyasındaki ## başlıkla aynı)> | <ifade: "… kimdir?" diye sorulacak> | <kişi>
+# İfadelerde virgül kullanılmaz. Bütün bilgiler ünite metinlerinden alınmıştır.
+1 | Hadislerde Metin Tenkidi Yapılmadığı İddiaları | Hadisçilerin metin hakkında her türlü tenkidden müctenib (uzak) davrandıklarını söyleyen | Caetani
+1 | Hadislerde Metin Tenkidi Yapılmadığı İddiaları | Müslümanların tenkidci zihniyetten uzaklaştıkları için hataya düştüklerinden yedi asır önce şikâyet eden | İbn Haldun
+1 | Hadislerde Metin Tenkidi Yapılmadığı İddiaları | Metin tenkidi yapılmadığı iddiasını ileri süren son devir müslüman müelliflerden | Zakir Kâdirî Ugan
+1 | Muâraza Sistemi | Nakledilen hadisi diğer hadislerle ve Hz. Peygamber’in tatbikatıyla mukayese eden münekkid sahâbîlerden | Hz. Âişe
+1 | Hadislerin Mevzuluk Alâmetleri | “Hadisin mevzu olduğu râvî ve mervîdeki birtakım karinelerle bilinebilir” diyen | İbn Salâh
+1 | Hadislerin Mevzuluk Alâmetleri | Mevzu hadislerin on alâmetini sayan ve “Patlıcan ne için yenirse ona fayda verir” rivâyetini örnek veren | İbnu’l-Kayyim
+2 | a) Kur’ân’ın Sarih Hükümlerine Muhalif Hadisler ve Hadisin Kur’ân’a Arzı | Sünnetin Kur’ân’ın tefsiri olması hasebiyle sünnetin takdim edileceğini savunan | Cüveynî
+2 | b) Hadisler Arası Tearuz Sebebiyle Metin Tenkidi | Sıhhati kat’î olan hadislere aykırı olan hadislerin bâtıl olduğunu söyleyen | Cüzekânî
+2 | b) Hadisler Arası Tearuz Sebebiyle Metin Tenkidi | Uygulamalarıyla İbnu’l-Kayyim’in “sahîh hadisle muhalefet edenlere bakılmadan amel edilir” görüşünde olduğu gösterilen imam | Ahmed b. Hanbel
+2 | c) İcmâ’a Aykırı Hadisler | Risâle’sinde ümmetin sünnete zıt bir icmâda birleşmesinin mümkün olmadığını belirten | Şâfiî
+2 | c) İcmâ’a Aykırı Hadisler | Kabul edilmeyecek haberleri sayarken Kur’ân nasslarına ve mütevâtir sünnete aykırılığı ve ümmetin reddini zikreden | Hatîb Bağdâdî
+2 | c) İcmâ’a Aykırı Hadisler | İcmâın hadisten daha kuvvetli olduğu gerekçesiyle icmâya aykırı hadisin reddedileceğini söyleyen | İbn Kuteybe
+2 | c) İcmâ’a Aykırı Hadisler | Hadis rivâyet ettikten sonra “Beldemizde ise şu şekilde amel edilmektedir” diyen imam | İmam Mâlik
+2 | c) İcmâ’a Aykırı Hadisler | Müstedrek’inde kabir üzerine türbe yapmayı yasaklayan hadislerle ümmetin amel etmediğini belirten | Hâkim
+2 | d) Dinin Genel ve Kesin Esaslarına Aykırı Hadisler | “Sen bir hadisi akla ve din prensiplerine aykırı bulursan anla ki o hadis uydurmadır” diyen | İbnu’l-Cevzî
+2 | d) Dinin Genel ve Kesin Esaslarına Aykırı Hadisler | Nass maslahatla teâruz edince maslahatın tercih edileceğini söyleyen | Süleyman b. Abdu’l-Kavî et-Tûfî
+2 | e) Kıyâsa Aykırı Hadisler | Hadise teâruz edebilecek kıyâsın Kur’ân ve sünnetten çıkarılan genel kaideler olduğunu açıklayan | Ebû Zehra
+2 | f) Akla Aykırı Hadisler | Usûlcü ve kelâmcıların çoğunluğunun akıl ile naklin çatışabileceğini kabul ettiğini belirten | Berzencî
+2 | f) Akla Aykırı Hadisler | Aklî olsun sem’î olsun kat’î iki delilin çatışmasının mümkün olmayacağını savunan ve bütün mecazı reddeden | İbn Teymiyye
+2 | f) Akla Aykırı Hadisler | Dinî delillerin aklî hükümlere münafî olmayacağını dört delille ispat eden | Şâtıbî
+2 | Metin Tenkidi Muhalifleri | Hadis akla ve kesin nasslara aykırıysa te’vîl edilemiyorsa reddedileceğini benimseyip diğer metin tenkidi kriterlerine karşı çıkan | Şevkânî
+3 | İhtilâfı Giderme Sistemleri | Kendisi de bir Hanefî olduğu hâlde Hanefîlerin ihtilâfı giderme sistemini tenkit eden | Leknevî
+3 | a) Tahsîs | “İlk vaktinde kılınan namaz” hadisinin tehir hadisleriyle tahsis edildiğini belirten | İbn Huzeyme
+4 | Neshin Çeşitleri | Mütevâtir hadisin haber-i vâhidle neshini de caiz gören | İbn Hazm
+4 | Neshin Çeşitleri | Hadisin akıl ile neshi görüşü kendisine nisbet edilen Mu’tezilî | Nazzâm
+5 | En Doğru Görüş Kur’an Işığında Olandır | Ebû Hanîfe ile birlikte yenilen şeylerin hepsinde zekâtı farz kabul eden Mâlikî âlim | İbn Arabî
+5 | En Doğru Görüş Kur’an Işığında Olandır | “Benim babam da senin baban da cehennemde” rivâyetini Rasulullah’ın adamı teselli edip musibetini paylaşması diye açıklayan | İmam Nevevî
+6 | Aynı Konudaki Hadisleri Birlikte Değerlendirme | Nevevî ile birlikte elbiseyi uzatmanın kibirlilikle takyid edilmesi görüşünde olan | İbn Hacer
+7 | Nassların Değişen Bir Örf Üzerine Kurulması | Ribevî mallardaki ölçek ve tartının örfe bağlı bir husus olduğunu söyleyen | Ebû Yûsuf
+7 | Nassların Değişen Bir Örf Üzerine Kurulması | Ölçü ve tartı ile fazlalığı haram kılınan mallarda ebediyyen ölçü ve tartının geçerli olduğunu söyleyen | Ebû Hanîfe
+7 | Esbâb-ı Vürûdun Dikkate Alınması | Kadının tek başına yolculuk yapabileceğini söyleyen Şâfiî âlim | Mühezzeb sahibi
+7 | Sahabe ve Tabiunun Nassların İllet ve Bağlamlarına Bakma Yöntemleri | Irak arazisini fetheden müslümanlar arasında paylaştırmayan halife | Hz. Ömer
+7 | Sahabe ve Tabiunun Nassların İllet ve Bağlamlarına Bakma Yöntemleri | Kayıp develerin toplatılıp ilan edilmesini ve sahibi çıkmazsa satılmasını emreden halife | Hz. Osman
+7 | Sahabe ve Tabiunun Nassların İllet ve Bağlamlarına Bakma Yöntemleri | Kayıp develere Beytülmal’dan bakılmasını ve sahibi çıkınca teslim edilmesini emreden halife | Hz. Ali
+8 | Hadisi Anlamada Hakikat ile Mecazın Ayırt Edilmesi | Siyah ve beyaz iplik ayetini hakiki manasında anlayıp yastığının altına iki ip koyan sahâbî | Adiy b. Hâtim
+8 | Hadisi Anlamada Hakikat ile Mecazın Ayırt Edilmesi | Hayırda kolu en uzun olup Hz. Peygamber’in hanımlarından ilk vefat eden | Zeynep bint Cahş
+8 | Ahkâm Hadislerinde Mecaz | Lems kelimesinin cinsî birleşmeden kinaye olduğunu söyleyen sahâbî | Abdullah İbn Abbas
+8 | Mecazi Yorumlarda Aşırıya Kaçmaktan Sakınılması | Sidre ağacı hadisini gölgelik ağaçların boş yere ve zulmen kesilmesi diye açıklayan | Ebû Dâvûd
+10 | Daha Sağlıklı Tercüme İçin Teklifler | Kelime ve ifadelerin manaları için başvurulması tavsiye edilen en-Nihâye fî ğarîbi’l-hadîs’in müellifi | İbnü’l-Esîr
+10 | Daha Sağlıklı Tercüme İçin Teklifler | Türkçede mukayese için örnek gösterilen Buhârî tercümesinin sahibi | Mehmet Sofuoğlu
+10 | Mütercimin Sorumluluğu | Yanlış aktarma endişesiyle rivâyetteki hassasiyetine örnek verilen sahâbî | Abdullah b. Mes’ûd
+11 | Sonuç ve Öneriler | Bütün bir kitabı baştan sona çevirmenin ciddi risklerine işaret eden merhum hoca | Tayyib Okiç
+11 | İdeal Bir Çeviride Dikkat Edilecek Hususlar (1–7) | Garip kelimeler için başvurulması tavsiye edilen Kitâbü’l-Ayn’ın müellifi | el-Halîl b. Ahmed
+11 | İdeal Bir Çeviride Dikkat Edilecek Hususlar (1–7) | Borcunu geciktirenin “ırz”ının helal olmasını alacaklının sataşmasına yol vermek diye açıklayan | Abdullah b. el-Mübarek
+11 | Woodhouslee’nin Üç Prensibi | Tercüme Prensipleri Üzerine Deneme’de tercüme için üç temel prensip koyan Edinburgh tarih profesörü | Lord Woodhouslee

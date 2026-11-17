@@ -1,0 +1,836 @@
+# El ile hazırlanmış sorular. Biçim:
+# ? <ünite no> | soru
+# + doğru cevap
+# - çeldirici (3 adet)
+# = açıklama
+# Bütün bilgiler ünite metinlerinden (01–11.txt) alınmıştır.
+
+# ---------- 1. ünite ----------
+? 1 | Metin tenkidi kavramının hadis ilminde bir ıstılah olarak kullanılması ne zaman ortaya çıkmıştır?
++ Son dönemlerde
+- Sahâbe döneminde
+- Tâbiûn döneminde
+- Hadis tasnif döneminde
+= Metin tenkidi kavramının hadis ilminde bir ıstılah olarak kullanılması son dönemlerde ortaya çıkmıştır; klasik dönemde muâraza, ihtilâf, teâruz, işkâl gibi terimler kullanılmıştır.
+
+? 1 | Aşağıdakilerden hangisi metin tenkidi ameliyesine referans teşkil eden klasik kavramlardan biri değildir?
++ Cerh ve ta’dîl
+- Muâraza
+- Teâruz
+- İşkâl
+= Muâraza, ihtilâf, teâruz, işkâl gibi klasik kavramlar metin tenkidi ameliyesine tam tamına tetabuk etmese de referans teşkil eder. Cerh ve ta’dîl sened tenkidiyle ilgilidir.
+
+? 1 | Modern tarihçilikte kaynak malzemenin orijinal mi yoksa sahte mi olduğunu tesbit için yapılan işleme ne ad verilir?
++ Dış tenkid (en-nakdu’l-hâricî)
+- Olumlu iç tenkid
+- Olumsuz iç tenkid
+- Muâraza
+= Dış tenkid (en-nakdu’l-hâricî, critique externe) kaynak kritiğidir; kaynak malzemenin orijinal mi sahte mi olduğunu tesbit eder.
+
+? 1 | Hadisteki isnâd ve rical tenkidi, tarihçilerin hangi tenkidine tekabül eder?
++ Negatif (olumsuz) iç tenkide
+- Dış tenkide
+- Pozitif (olumlu) iç tenkide
+- Hiçbirine tekabül etmez
+= Hadisteki isnâd ve rical tenkidi negatif iç tenkide tekabül eder. Bu yüzden tarihteki dış tenkidi isnâd tenkidiyle, iç tenkidi metin tenkidiyle özdeşleştirmek doğru değildir.
+
+? 1 | Hadisçilerin metin hakkında her türlü tenkidden müctenib (uzak) davrandıklarını söyleyen kimdir?
++ Caetani
+- İbn Salâh
+- İbnu’l-Kayyim
+- Hatîb Bağdâdî
+= Caetani, hadisçilerin metin hakkında her türlü tenkidden müctenib davrandıklarını söyler.
+
+? 1 | Tarih ve hadis tenkid merhalelerinin karşılaştırılmasına göre, bir kaynağın bütün varyantlarını toplama geleneği hangisinde çok yaygındır?
++ Hadisçilerde
+- Tarihçilerde
+- Her ikisinde eşit ölçüde
+- Hiçbirinde
+= Tarihçilerde bir kaynağın bütün varyantlarını toplama tatbikatına yaygın olarak rastlanmaz; hadisçilerde ise bir hadisin bütün varyantlarını toplama geleneği çok yaygındır.
+
+? 1 | Tarihçinin metin tenkidine önem vermesinin sebebi nedir?
++ Belgenin mevsûkiyetini tesbit için yeterli malûmat bulamaması
+- İsnâd tenkidini gereksiz görmesi
+- Şerh geleneğine sahip olması
+- Kaynaklarının çok sayıda varyantı bulunması
+= Tarihçinin metin tenkidine önem vermesi, belgenin mevsûkiyetini tesbit için yeterli malûmat bulamadığındandır.
+
+? 1 | Hadisçilerin metin tenkidine önem vermedikleri iddiaları hangi iki sebepten kaynaklanır?
++ Hadis tenkid sistemine sathî bakış ve İslâmî ilimler taksimatının katı sınırlarla mütâlâası
+- Râvî sayısının azlığı ve sened kopukluğu
+- Şerh geleneğinin yokluğu ve garîb kelimelerin çokluğu
+- Mezhep taassubu ve rivâyet bolluğu
+= İddialar temelde iki sebepten kaynaklanır: hadis tenkid sisteminin sathî bir nazarla incelenmesi ve İslâmî ilimler taksimatının katı sınırlar içerisinde mütâlâa edilmesi.
+
+? 1 | Sahîh hadisin şartlarından hangisi birinci plânda iç tenkidi ilgilendirir?
++ Şazz olmaması
+- Râvîlerin adalet sahibi olması
+- Râvîlerin zabt sahibi olması
+- Senedin muttasıl olması
+= Sahîh hadisin şartlarından ilk ikisi (adalet ve zabt, ittisal) dış tenkidi; şazz ve illetli olmama şartları iç tenkidi ilgilendirir.
+
+? 1 | Sened veya metinde takdim te’hir yapılan hadise ne denir?
++ Maklûb
+- Müdrec
+- Musahhaf
+- Muzdarib
+= Takdim te’hir yapılan hadise maklûb, sonradan ilâve yapılan hadise müdrec, tahrifat yapılmış hadise musahhaf denir.
+
+? 1 | Aralarında aykırılık olan, iki tarafın râvîleri de sika olan hadislerden râvîsi tek kalanına ne denir?
++ Şazz
+- Mahfuz
+- Münker
+- Muzdarib
+= Râvîsi birden çok olana mahfuz, râvîsi tek kalana şazz denir. Mahfuz tercih edilir, şazz reddedilir. Tek kalan râvî sika değilse rivâyete münker denir.
+
+? 1 | Aralarında muhalefet olan hadislerden hiçbirini tercih imkânı olmazsa bu hadislere ne ad verilir?
++ Muzdarib
+- Münker
+- Müdrec
+- Maklûb
+= Aralarında muhalefet olan hadislerden hiçbirini tercih imkânı olmazsa böyle hadislere muzdarib hadis denir.
+
+? 1 | Hadisin farklı tariklerinin birbiriyle mukayesesine hadis ilminde ne ad verilir?
++ Muâraza veya mukâbele
+- İ’tibâr veya mutâbaa
+- Tahrîc veya tahkîk
+- Cem’ ve te’lif
+= Hadisin farklı tariklerinin birbiriyle mukayesesine muâraza veya mukâbele denir. Yaygın olarak kullanılması tabiûn döneminde başlar.
+
+? 1 | Bir muhaddisin rivâyetlerini değişik zamanlarda yeniden dinleyip önceki rivâyetlerinden farklı rivâyette bulunup bulunmadığını kontrol etmenin maksadı nedir?
++ Râvînin zabtını kontrol etmek
+- Hocanın rivâyetlerini talebelerle karşılaştırmak
+- Kitabı hafızadan kontrol etmek
+- Senedin ittisalini tesbit etmek
+= Muâraza şekillerinden biri olan bu yöntemde maksad râvînin zabtını kontrol etmektir.
+
+? 1 | İbnu’l-Kayyim’e göre “Balık yeme vücudu zayıflatır” gibi bir rivâyet hangi mevzuluk alâmetine örnektir?
++ Tabiblerin veya mutasavvıfların ifade tarzlarına benzemesi
+- Tecrübe ve müşâhedeye aykırılık
+- Kur’ân’ın sarih hükümlerine aykırılık
+- Sarîh sünnete aykırılık
+= İbnu’l-Kayyim’in saydığı alâmetlerden biri tabiblerin veya mutasavvıfların ifade tarzlarına benzemesidir; “Balık yeme vücudu zayıflatır” buna örnektir.
+
+# ---------- 2. ünite ----------
+? 2 | Tearuz nedir?
++ İki şer’î delilin muktezasının birbiriyle çelişmesi
+- Bir hadisin farklı tariklerinin karşılaştırılması
+- Eski bir hükmün yenisiyle değiştirilmesi
+- Mutlak lafzın mukayyed lafızla açıklanması
+= Tearuz, iki şer’î delilin muktezasının birbiriyle çelişmesidir.
+
+? 2 | Şer’î deliller arasında hakîkî teâruz bulunup bulunmadığı konusunda âlimlerin çoğunluğu hangi görüştedir?
++ Dinî deliller arasında gerçek çatışma yoktur, görülen çatışmalar zahiridir
+- Deliller arasında gerçek teâruz bulunabilir
+- Kat’î deliller arasında teâruz olabilir, zannîler arasında olmaz
+- Yalnız aklî deliller arasında teâruz olur
+= Üç görüş içinde âlimlerin çoğunluğu birinci görüşü, yani naklî ve aklî dinî deliller arasında gerçek çatışma olmadığını, görülen çatışmaların zahirî olduğunu benimser.
+
+? 2 | Hanefî usûlcüler tenkid kriterleriyle çatışan hadislerdeki kusura ne ad verirler?
++ İç inkıtâ (inkıtâu’l-bâtın)
+- Dış inkıtâ
+- İllet-i hafiyye
+- Şuzûz
+= Hanefîler bu kusuru seneddeki ınkıtâa benzeterek iç inkıtâ (inkıtâu’l-bâtın), seneddeki kesikliğe ise dış inkıtâ derler.
+
+? 2 | Aşağıdakilerden hangisi Hanefîlere göre hadisin dinî asıllara muarız olmasının türlerinden biri değildir?
++ Hadisin râvîsinin fakîh olmaması
+- Hadisin Kur’ân’a muarız olması
+- Hadisin ma’rûf sünnete muarız olması
+- Umûm-u belvâdaki bir hadisin şazz olarak nakledilmesi
+= Dört tür: Kur’ân’a muarız olması, ma’rûf sünnete muarız olması, umûm-u belvâda şazz olarak nakledilmesi ve sahabenin ihtilâf ettiği konuda hadisi delil olarak kullanmamış olması.
+
+? 2 | Hadisin Kur’ân’la münâsebetinin üç şeklinden hangisinde âlimler arasında ihtilâf vardır?
++ Kur’ân’da bulunmayan konularda müstakil hüküm koyması
+- Kur’ân’daki nassı desteklemesi
+- Kur’ân’da mücmel olan hususları açıklaması
+- Hiçbirinde ihtilâf yoktur
+= Sünnetin ilk iki görevi (desteklemek ve tebyîn) konusunda ihtilâf yoktur; üçüncü görevi ve teşrî gücünün kaynağı konusunda değişik görüşler vardır.
+
+? 2 | Kur’ân’a muarız görünen bir hadiste tearuz giderilemiyorsa ne yapılır?
++ Kur’ân nassı daha kuvvetli ve kat’î olduğundan hadis reddedilir
+- Hadis Kur’ân’ı nesheder
+- Tevakkuf edilir
+- Her ikisiyle birden amel edilir
+= Tearuz giderilemiyorsa Kur’ân nassı daha kuvvetli ve kat’î olduğundan hadis reddedilir. Cüveynî ise sünnetin takdim edileceği görüşündedir.
+
+? 2 | Sünneti Kur’ân’a arz ederken aşağıdakilerden hangisine dikkat edilmelidir?
++ Kur’ân’ın tek bir ayeti değil bütünü nazarı itibara alınmalıdır
+- Yalnızca hadisin senedine bakılmalıdır
+- Tedricî teşrî prensibi göz ardı edilmelidir
+- Sadece mütevâtir hadisler arz edilmelidir
+= Arzda Kur’ân’ın tek bir ayeti değil bütünü nazarı itibara alınmalı, aynısı hadis için de geçerlidir; ayrıca tedricî teşrî prensibine çok dikkat edilmelidir.
+
+? 2 | Hanefîler “bir şahid ve bir yeminle hüküm” hadisini hangi gerekçeyle kabul etmezler?
++ “Delil davacıya, yemin dâvâlıyadır” meşhur hadisine aykırı buldukları için
+- Senedinde kopukluk olduğu için
+- Kur’ân’ın sarih hükmüne aykırı olduğu için
+- Râvîsi rivâyetini inkâr ettiği için
+= Hanefîler meşhur sünnete muhalif hadisleri reddeder; bu hadisi “Delil davacıya, yemin dâvâlıyadır” meşhur hadisine aykırı bulurlar.
+
+? 2 | Hadis–icmâ çatışmasında İbn Kuteybe hadisin reddedilmesini neye dayandırır?
++ İcmâın hadisten daha kuvvetli olmasına
+- Hadisin her zaman mensuh olmasına
+- Kıyâsın hadisten önce gelmesine
+- Râvînin sika olmamasına
+= İbn Kuteybe’ye göre hak ve hakikat icmâ yoluyla rivâyetten daha kuvvetli olarak sabit olur; hadislere unutma, gaflet, şüphe, te’vîl, nesh gibi hususlar ârız olur.
+
+? 2 | Aşağıdakilerden hangisi İbn Kuteybe’nin icmâa aykırı hadislere verdiği örneklerden biridir?
++ Hz. Peygamber’in sabah ve akşam namazlarında kunut okuması
+- Garanik hadisi
+- Kayıp develerin toplanmasının yasaklanması
+- Hurma aşılama kıssası
+= Berâ’nın naklettiği sabah ve akşam namazında kunut rivâyetine rağmen fukahâ akşam namazında kunut okunmayacağında ittifak etmiştir.
+
+? 2 | Nass ile maslahat teâruz edince maslahatın tercih edileceğini söyleyen âlim kimdir?
++ Tûfî
+- Şâfiî
+- Ebû Zehra
+- Şâtıbî
+= Süleyman b. Abdu’l-Kavî et-Tûfî’nin görüşü maslahatın tercih edileceği şeklindedir; böyle bir mutlak tercih başka bir âlimden nakledilmez.
+
+? 2 | Şâfiî’ye göre maslahat-ı mürsele zannî nassa teâruz edebilir mi?
++ Hayır, çünkü delil değildir
+- Evet, her durumda tercih edilir
+- Evet, kat’î ise tercih edilir
+- Yalnızca icmâ ile desteklenirse
+= Şâfiî’ye göre maslahat-ı mürsele delil olmaz, dolayısıyla zannî nassa teâruz edemez. Mâlik ve Ahmed’e göre bu maslahatla amel edilir.
+
+? 2 | Mâlikî ve bazı Hanbelîlere göre birkaç asl ile desteklenen bir kıyâs haber-i âhâdla çatışırsa ne olur?
++ Kıyâs öne alınır, haber-i âhâd reddedilir
+- Haber-i âhâd öne alınır
+- Tevakkuf edilir
+- İkisi cem’ edilir
+= Birkaç asl ile desteklenen ve illeti birkaç nasstan çıkarılan kıyâs kat’îlik kazanmıştır; haber-i âhâd zannî olduğundan reddedilir.
+
+? 2 | Akla aykırı gelen hadis mütevâtir ise ne yapılır?
++ Te’vîl edilmesi gerekir
+- Hemen reddedilir
+- Haber-i âhâd gibi terk edilir
+- Kıyâsa arz edilir
+= Akla aykırı gelen hadis mütevâtir ise te’vîl edilmesi gerekir; âhâd ise te’vîl imkânı araştırılır, mümkün değilse terk edilir.
+
+? 2 | Aşağıdakilerden hangisi Şâtıbî’nin dinî delillerin akla aykırı olmayacağına dair delillerinden biridir?
++ Şer’î deliller akla aykırı olsaydı bu teklîf-i mâ lâ yutâk olurdu
+- İcmâ hadisten daha kuvvetlidir
+- Mütevâtir hadis sayıca çok azdır
+- Duyular yanılabilir
+= Şâtıbî’nin delillerinden biri: akıl sahibi insanı akla aykırı şeyi kabulle yükümlü tutmak teklîf-i mâ lâ yutâktır; Allah insanları böyle bir şeyle mükellef tutmaz.
+
+? 2 | “Gözümdeki hastalıktan Cibril’e şikâyetlendim, mushafa bakmamı tavsiye etti” rivâyeti hangi ölçüte göre tenkid edilmiştir?
++ Tarihî gerçeklere aykırılık
+- Akla aykırılık
+- İcmâa aykırılık
+- Kıyâsa aykırılık
+= İbnu’l-Cevzî bu rivâyeti “Hz. Peygamber devrinde mushaf mı vardı ki baksın?” diye tenkid eder; kesin bilinen tarihî gerçeklere aykırıdır.
+
+? 2 | Umûm-u belvâda tek kişinin rivâyet ettiği bir hadis hakkında Hanefîlerin vardığı sonuç nedir?
++ Rivâyet ya mensuhtur ya da uydurmadır
+- Rivâyet her durumda sahîhtir
+- Rivâyet kıyâsa tercih edilir
+- Rivâyet icmâyı nesheder
+= Hanefîlere göre herkesi ilgilendiren dinî bir hükmün yalnız bir kişiye bildirilmesi mümkün değildir; rivâyet ya nesh edilmiştir (râvînin haberi yoktur) ya da uydurmadır.
+
+? 2 | Aşağıdakilerden hangisi Hanefîlerin hadisi delil olmaktan düşüren râvî tutumlarından biri değildir?
++ Râvînin hadisi başka râvîlerle mukayese etmesi
+- Râvînin rivâyetini inkâr etmesi
+- Râvînin kendi rivâyetinin aksine fetvâ vermesi
+- Râvînin hadisle amel etmemesi
+= Dört tutum: rivâyetini inkâr, aksine amel veya fetvâ, hadisi yorumlama veya bir manayı tercih, hadisle amel etmeme (terku’l-amel bi’l-hadîs).
+
+? 2 | Metin tenkidine mezheb görüşüne aykırı hadisleri reddetmek için başvurulduğunu iddia ederek karşı çıkan âlim kimdir?
++ İbnu’l-Kayyim
+- Şevkânî
+- İbn Salâh
+- Hatîb Bağdâdî
+= Metin tenkidine şiddetle karşı çıkanlardan biri İbnu’l-Kayyim’dir; ona göre hadis sahîh olduğu ve nesh edilmediği sürece muhalefet edenlere itibar edilmeden amel farzdır.
+
+# ---------- 3. ünite ----------
+? 3 | Usul âlimlerinin hemen hepsine göre muhtelifu’l-hadîs kaç gruba ayrılır?
++ Cem’ ve te’lifi mümkün olanlar ve mümkün olmayanlar
+- Mütevâtir ve âhâd olanlar
+- Kavlî, fiilî ve takrîrî olanlar
+- Nâsih, mensuh ve muhkem olanlar
+= Usul âlimlerinin hemen hepsi ihtilâflı hadislerin cem’ ve telifi mümkün olanlar ve mümkün olmayanlar diye iki grup teşkil ettiğini kabul eder.
+
+? 3 | İhtilâfı giderme yolları aslında hangi işlemin uygulama yönlerinden ibarettir?
++ Te’vîlu muhtelifi’l-hadîs
+- Cerh ve ta’dîl
+- Tahrîcu’l-hadîs
+- Muâraza
+= Cem’i mümkün olan ve olmayan hadislerin teâruzunu gidermeyi sağlayan usuller “te’vilu muhtelifi’l-hadîs” adıyla ifade edilen te’vîl işleminin uygulama yönleridir.
+
+? 3 | Hanefîlerin ihtilâfı giderme sistemindeki sıralama hangisidir?
++ Nesh, tercih, cem’ ve te’lif, tesâkut (NTCT)
+- Cem’ ve te’lif, tercih, nesh, tevakkuf (CTNT)
+- Cem’ ve te’lif, nesh, tercih, tevakkuf (CNTT)
+- Tercih, nesh, cem’ ve te’lif, tevakkuf
+= Hanefîlerin sistemi NTCT’dir: nesh, tercih, cem’ ve te’lif, tasâkut (terk).
+
+? 3 | Hadisçilerin ihtilâfı giderme sistemindeki sıralama hangisidir?
++ Cem’ ve te’lif, nesh, tercih, tevakkuf (CNTT)
+- Cem’ ve te’lif, tercih, nesh, tevakkuf (CTNT)
+- Nesh, tercih, cem’ ve te’lif, tesâkut (NTCT)
+- Tercih, cem’ ve te’lif, nesh, tevakkuf
+= Hadisçilerin sistemi CNTT’dir: cem’ ve te’lif, nesh, tercih, tevakkuf. Cumhurunki CTNT, Hanefîlerinki NTCT’dir.
+
+? 3 | Hanefîlerin ihtilâfı giderme sistemi hangi gerekçeyle tenkit edilmiştir?
++ Cem’ imkânı varken birinci sırada nesh’ten söz etmenin doğru olmayacağı
+- Tercihi hiç kullanmadığı
+- Tevakkufu ilk sıraya koyduğu
+- Kıyâsı hadise tercih ettiği
+= Hanefî sistemi “hadisin ziyânına mani olmak” prensibine ters düşer; cem’ imkânı varken nesh’ten söz etmenin doğru olmayacağı gerekçesiyle Hanefî olan Leknevî tarafından tenkit edilmiştir.
+
+? 3 | Aşağıdakilerden hangisi cem’ ve te’lifin gerçekleşme yollarından biri değildir?
++ Tevakkuf
+- Tahsîs
+- Takyîd
+- Haml
+= Cem’ ve te’lifin üç yolu fıkıh usûlü metotlarıdır: tahsîs (tahsîsu’l-âmm), takyîd (takyîdu’l-mutlak), haml (hamlu’l-hadîs alâ teaddüdi’l-hâdise).
+
+? 3 | Besmelesiz kesilen hayvan meselesinde Hanefîlerin “Müslüman bismillah desin demesin kestiğini Allah adıyla keser” hadisiyle ayetin tahsisini kabul etmemesinin sebebi nedir?
++ Âmmın delaletini kat’î kabul etmeleri
+- Âmmın delaletini zannî kabul etmeleri
+- Hadisi mensuh saymaları
+- Ayeti müteşâbih saymaları
+= Bu ihtilaf Hanefîlerin âmmın delaletini kat’î, Şâfiîlerin ise zannî kabul etmelerinden kaynaklanır; Şâfiîler hadisle ayeti tahsis eder.
+
+? 3 | Hadisin hadisle tahsisinde hadisin kavlî, fiilî, takrîrî, mütevâtir veya âhâd olmasının neticeye etkisi nedir?
++ Tesiri yoktur, bunlar yekdiğerini tahsis eder
+- Yalnız mütevâtir âhâdı tahsis eder
+- Yalnız kavlî hadis tahsis edebilir
+- Fiilî hadis kavlîyi tahsis edemez
+= Umûmiyetle hadisin hadisle tahsisinde bu farkların neticeye tesiri yoktur; bunlar yekdiğerini tahsis eder.
+
+? 3 | «وأحل لكم ما وراء ذلكم» ayetinin hadisle tahsisi hangi konudadır?
++ Kadının halası veya teyzesi üzerine nikâh edilemeyeceği
+- Cizye verenlerle savaşılmaması
+- Zekât vermeyenlerle harb
+- Besmelesiz kesilen hayvanın eti
+= Bu ayet, kadının halası veya teyzesi üzerine nikâh edilemeyeceğini bildiren hadisle tahsis edilmiştir (Kur’an’ın hadisle tahsisi).
+
+? 3 | Hz. Ebubekir’in zekâtı namaza kıyas ederek zekât vermeyenlerle harb kararı hangi tahsis türüne örnektir?
++ Kıyas ve örf ile tahsis
+- Hadisin hadisle tahsisi
+- Hadisin Kur’an’la tahsisi
+- Kur’an’ın hadisle tahsisi
+= Hz. Ebubekir’in zekâtı namaza kıyas ederek verdiği harb kararı kıyas ve örf ile tahsise örnektir.
+
+? 3 | Usûlcülerin müttefik olduğu tahsis hangisidir?
++ Örf-i kavlînin âmmı tahsis etmesi
+- Örf-i amelînin âmmı tahsis etmesi
+- Aklın hadisi tahsis etmesi
+- Maslahatın nassı tahsis etmesi
+= Örf-i kavlînin mutlakı takyîd, âmmı tahsis ettiğinde usûlcüler müttefiktir. Örf-i amelî ile tahsisi Hanefîler ve Mâlikîlerin çoğu yerleşik olmak kaydıyla kabul eder.
+
+? 3 | “Su temizdir, hiçbir şey onu kirletmez” hadisi ile iki kulle hadisi arasındaki teâruza göre iki kulleden az suya pislik düşerse hüküm nedir?
++ Vasfı değişsin değişmesin pislenir
+- Vasfı değişmedikçe pislenmez
+- Hiçbir durumda pislenmez
+- Yalnızca tadı değişirse pislenir
+= Çözüme göre 2 kulle veya fazlası vasfı değişmedikçe kirlenmez; 2 kulleden az su pislik düşünce vasfı değişsin değişmesin pislenir; vasfı pislik sebebiyle değişen su her hâlde pislenir.
+
+? 3 | “Her hür ve köle için sadaka-i fıtr veriniz” hadisini “Müslümanlardan” kaydıyla takyid eden ve yalnız müslüman köle için fıtr gerektiğini söyleyen mezhep hangisidir?
++ Şâfiîler
+- Hanefîler
+- Mâlikîler
+- Zâhirîler
+= Şâfiîlere göre hadis “Müslümanlardan” sıfatıyla takyid edilir. Hanefîler kayıt hükmün sebebinde olduğu için takyid etmez ve tüm köleler için fıtr gerekir derler.
+
+? 3 | Müteârız hadislerin farklı vürud şartlarını ortaya koyarak bağdaştırılmasına ne ad verilir?
++ Haml
+- Takyîd
+- Tahsîs
+- Tercih
+= Haml, müteârız hadislerin farklı vürud şartlarını ortaya koyarak bağdaştırmak, yani hadisleri ait oldukları yere koymaktır.
+
+? 3 | Cem’ ve te’lifin amelî neticesi hangi kaidenin uygulamasıdır?
++ “Amel etmek etmemekten evladır.”
+- “Nâsih ile amel edilir, mensuh terk edilir.”
+- “Râcih ile amel edilir, mercûh terk edilir.”
+- “Şüphe ile yakîn zâil olmaz.”
+= Cem’ ve te’lifin amelî neticesi her hadisi kendine ait yere yerleştirip hepsinden birden istifade etmektir; bu, hadisçilerin “Amel etmek etmemekten evladır” kaidesinin uygulamasıdır.
+
+# ---------- 4. ünite ----------
+? 4 | Nesh nedir?
++ Şâri’in eski bir hükmü yenisiyle değiştirmesi
+- Mutlak lafzın mukayyed lafızla açıklanması
+- Lafzın kapsamındaki manaların kapsamdan çıkarılması
+- Müteârız hadislerden birinin meziyetini ortaya koymak
+= Nesh, Şâri’in (kanun koyucunun) eski bir hükmü yenisiyle değiştirmesidir; cem’ ve te’lifin mümkün olmadığı durumda gelir.
+
+? 4 | Tahfiften tağlize doğru yapılan nesh hangisidir?
++ Ukûbet mânâ ve maksadı taşıyan nesh
+- Ukûbet mânâ ve maksadı taşımayan nesh
+- Hadisin akıl ile neshi
+- Delâletu’l-icmâ ile nesh
+= “Yahudilerin zulmü sebebiyle helal kılınmış şeyleri haram kıldık” ayetinde olduğu gibi ukûbet mânâsı taşıyan nesh tahfiften tağlize doğrudur.
+
+? 4 | Aşağıdakilerden hangisi neshin gerçekleşme şartlarından biri değildir?
++ Neshedilen hükmün zamanla kayıtlı olması
+- Neshin hitap (emir, nehy) ile olması
+- Neshedilen hükmün şer’î hüküm olması
+- Cem’ ve te’lifin mümkün olmaması
+= Neshedilen hüküm zaman ile kayıtlı olmamalıdır. Diğer şartlar: hitapla olması, şer’î hüküm olması, nâsihin sonra gelmesi ve cem’-te’lifin mümkün olmaması.
+
+? 4 | “Ben sizi kabir ziyaretinden men etmiştim, artık ziyaret edin” hadisi neshi tanıma yollarından hangisine örnektir?
++ Tasrîhu’n-Nebî
+- Kavlu’s-Sahâbî
+- Vürûd tarihinin bilinmesi
+- Delâletu’l-icmâ
+= Bizzat Rasulullah’ın açıklaması (Tasrîhu’n-Nebî) ile nesh tanınır; kabir ziyareti hadisi buna örnektir.
+
+? 4 | Mekke fethindeki “Hacamat yapan ve yaptıranın orucu bozuldu” hadisinin neshi hangi yolla tanınmıştır?
++ Vürûd tarihlerinin bilinmesi
+- Tasrîhu’n-Nebî
+- Kavlu’s-Sahâbî
+- Delâletu’l-icmâ
+= Bu hadis, veda haccında Rasulullah’ın oruçlu iken kan aldırdığı hadisi ile neshedilmiştir; sonraki öncekini nesheder.
+
+? 4 | Dördüncü defa içki içenin öldürüleceği hadisi hangi yolla neshedilmiştir?
++ Öldürmeme konusunda oluşan icmâ ile
+- Bizzat Rasulullah’ın açıklamasıyla
+- Bir sahâbînin açık beyanıyla
+- Bir ayetin nüzulüyle
+= Ümmetin icmâ etmesi de neshi tanıma yollarındandır (Delâletu’l-icmâ); bu hadis öldürmeme konusundaki icmâ ile neshedilmiştir.
+
+? 4 | Sünnetin sünnetle neshinin dört şeklinden hangisi ihtilaflıdır?
++ Mütevâtir hadisin haber-i vâhid ile neshi
+- Mütevâtir hadisin mütevâtir hadisle neshi
+- Haber-i vâhidin haber-i vâhid ile neshi
+- Haber-i vâhidin mütevâtir hadisle neshi
+= İlk üçü ittifakla caizdir; mütevâtirin haber-i vâhidle neshi ihtilaflıdır. İbn Hazm ve bazı Zâhirîler bunu da caiz görür.
+
+? 4 | Nesihte asıl kaide nedir?
++ Neshedecek nassın neshedilenden daha kuvvetli olması
+- Neshedilen nassın daha yeni olması
+- İki nassın aynı ravi tarafından rivâyet edilmesi
+- Nassların aynı surede bulunması
+= Neshte asıl kaide nâsihin mensuhtan kuvvetli olmasıdır; bu yüzden Kur’an ayetlerinin mütevâtir sünnetle neshedilebileceği görüşü genelde kabul edilmiştir.
+
+? 4 | “Hadisin akıl ile neshi” görüşü kime nisbet edilir ve burada “nesh” daha çok hangi anlamdadır?
++ Mu’tezileden Nazzâm’a; redd manasında
+- Hanefîlere; tahsis manasında
+- Zâhirîlere; takyîd manasında
+- İbn Hazm’a; tercih manasında
+= Mu’tezileden Nazzâm’a nisbet edilen bu görüşte neshin ıstılahî manada kullanıldığını kabul etmek zordur; redd manasında kullanılmış olması daha uygundur.
+
+? 4 | Tercih neden kitap ve icmâda söz konusu değildir?
++ Âyetler birbirini ya tahsis ya nesh eder, icmâda ise teâruz mümkün değildir
+- Kitap ve icmâ zannî delillerdir
+- Kitap ve icmâda râvî bulunmaz
+- Kitap ve icmâ kıyâsla takviye edilemez
+= Tercih takviye imkânı bulunan deliller (haberler ve kıyâs) arasında uygulanır; iki âyetten birinin ötekine tercihi olmaz, âyetler birbirini tahsis veya nesh eder; icmâda teâruz mümkün değildir.
+
+? 4 | Râvînin hadisi tahammül şekli bakımından hangi sıralama doğrudur?
++ Semâ, arza; bu ikisi kitâbe, vicâde ve münâveleye tercih edilir
+- Arz, semâya; bu ikisi münâveleye tercih edilir
+- Vicâde, semâya tercih edilir
+- Münâvele, arza tercih edilir
+= Rivâyette bulûğdan sonrası öncesine; semâ yolu arz yoluna; bu ikisi yoluyla alanın kitâbe, vicâde ve münâvele yoluyla alana tercihi söz konusudur.
+
+? 4 | Metin ile ilgili tercih sebeplerine göre aşağıdakilerden hangisi doğrudur?
++ Medenî hadisler Mekkî hadislere tercih edilir
+- Mekkî hadisler Medenî hadislere tercih edilir
+- Manen rivâyet edilen lafzen rivâyet edilene tercih edilir
+- Mutlak mukayyede tercih edilir
+= Metinle ilgili tercihte lafzen rivâyet manen rivâyete, Medenî Mekkî’ye, hâs âmma, hakikat mecaza, mukayyed mutlaka tercih edilir.
+
+? 4 | Hâricî sebeplerle tercihe hangi durumda başvurulur?
++ İsnad, metin ve delalette denk olan hadisler için
+- Cem’ ve te’lif mümkün olduğunda
+- Hadislerden biri mensuh olduğunda
+- Hadislerden biri mevzu olduğunda
+= Hâricî sebeplerle tercihe isnad, metin ve delalette denk olan hadisler için başvurulur; Kur’an, sünnet, kıyas ve ümmetin ameline muvafık olan tercih edilir.
+
+? 4 | Tevakkuf nedir ve pratikte durumu nasıldır?
++ Müteârız hadislerin hiçbiriyle amel etmeyip tercih delili çıkana kadar beklemek; pratikte hiç yoktur
+- Nâsih ile amel edip mensuhu terk etmek; pratikte yaygındır
+- Râcih ile amel edip mercûhu terk etmek; yalnız teoride vardır
+- İki hadisi birlikte uygulamak; pratikte çok azdır
+= Tevakkuf (tahyir, tesâkut) müteârız hadislerin hiçbiriyle amel etmeyip beklemektir. Sadece teoride vardır; pratikte hiç yoktur, çünkü bu aşamaya gelmeden nesh ve tercih ile iş bitirilir.
+
+# ---------- 5. ünite ----------
+? 5 | Garanik hadisi neden reddedilmiştir?
++ Putları inkâr eden ayetlere ters olduğu için
+- Senedi kopuk olduğu için
+- İcmâa aykırı olduğu için
+- Tarihî gerçeklere aykırı olduğu için
+= “Lat ve Uzza’ya ve Menat’a ne dersiniz?…” ayetine ve putları inkâr eden birçok ayete ters olduğu için reddedilmiştir; ayetler putları ayıplarken öven sözler söylenemez.
+
+? 5 | “Kadınlarla istişare edin, söylediklerine muhalefet edin” rivâyeti hangi ayete ters olduğu için reddedilmiştir?
++ Anne-babanın danışarak ve anlaşarak çocuklarını sütten kesmesine dair ayete
+- Kız çocuğunun hangi suçtan gömüldüğünün sorulacağı ayete
+- Siyah iplik beyaz iplikten ayrılıncaya kadar yiyip içme ayetine
+- Gücünüzün yettiği kadar kuvvet hazırlayın ayetine
+= “Ana-baba aralarında danışarak ve anlaşarak çocuklarını sütten kesmek isterlerse ikisine de sorumluluk yoktur” ayetine ters olduğu için reddedilmiştir.
+
+? 5 | Yeryüzünde yetişen her bitkide zekât meselesinde yenilen şeylerin hepsinde zekâtı farz kabul edenler kimlerdir?
++ İbn Arabî ve Ebû Hanîfe
+- Şâfiî ve Ahmed b. Hanbel
+- Ebû Yûsuf ve İmam Muhammed
+- Nevevî ve İbn Hacer
+= Fakihler bunu yenilebilen, kurutulabilen, ölçülebilen ve saklanabilen şeylerle sınırlar; Mâlikî olan İbn Arabî ve Ebû Hanîfe yenilen şeylerin hepsinde zekâtı farz kabul eder.
+
+? 5 | “Benim babam da senin baban da cehennemdedir” rivâyeti nasıl değerlendirilmiştir?
++ Babalar fetret ehli olduğu için kurtulmuştur; amca (Ebû Tâlib) kastedilmiş olabilir
+- Rivâyet uydurmadır ve tamamen reddedilir
+- Rivâyet zahirî manasıyla kabul edilir
+- Rivâyet ayetle neshedilmiştir
+= Sahih görüşe göre babalar fetret ehli olarak kurtulmuştur; Kur’an’da amcanın baba olarak ifade edilmesinden dolayı amca kastedilmiş olabilir. Nevevî: Rasulullah adamı teselli etmiştir.
+
+? 5 | Mu’tezile’nin Kur’an’la çeliştiğini söylediği şefaat hadisine verilen cevap nedir?
++ Kur’an’da yasaklanan şefaat putların şefaatidir; şefaat Allah’ın izniyle ve tevhid ehli içindir
+- Şefaat hadisi mevzudur
+- Şefaat yalnız peygamberler içindir
+- Şefaat dünyada gerçekleşir
+= Kur’an’da yasaklanan şefaat müşriklerin putlarının şefaatidir. Kur’an şefaati iki şartla ortaya koyar: Allah’ın izninden sonra olması ve tevhid ehli için olması.
+
+? 5 | Mu’tezile’nin sahih hadisi reddederek ölçüyü kaçırdığı iddia hangisidir?
++ Günahkâr müslümanların cehennemden sonra cennete giremeyeceği
+- Kabir azabının olmadığı
+- Meleklerin görülebileceği
+- Kader inancının bulunmadığı
+= Mu’tezile’nin yaptığı gibi sahih hadisi reddetmek (günahkâr müslümanların cehennemden sonra cennete giremeyeceğini iddia etmek) ölçüyü kaçırmaktır.
+
+# ---------- 6. ünite ----------
+? 6 | Aynı konudaki hadisleri birlikte değerlendirmenin gerekçesi nedir?
++ Tek bir hadisin zahiriyle yetinmek çok defa hataya düşürür
+- Mütevâtir hadis sayısını artırmak
+- Senedleri birleştirmek
+- Hadis kitaplarını sınıflamak
+= Sünnet aynı konudaki hadisler bir araya toplanınca daha doğru anlaşılır; bir konudaki diğer hadislere bakmadan tek bir hadisin zahiriyle yetinmek çok defa hataya düşürür.
+
+? 6 | “Elbisesini uzatan kişi” hadisindeki uzatma neyle takyid edilmelidir?
++ Kibirlilikle
+- Namaz vaktiyle
+- Elbisenin rengiyle
+- Kadınlarla
+= Bazı hadislerde Rasulullah kibirle elbisesini uzatanları kastettiğini belirtmiştir; Nevevî ve İbn Hacer de bu görüştedir. Kasıtsız uzatma tenzihen mekruhtur.
+
+? 6 | Kasıtsız elbise uzatmanın hükmü hakkında hangisi daha uygun görülmüştür?
++ Tenzihen mekruh olması
+- Haram olması
+- Farz olması
+- Tahrîmen mekruh olması
+= Kibir olmaksızın kasıtsız uzatmanın tenzihen mekruh olması daha uygundur.
+
+? 6 | “Bu aletin sokulduğu eve Allah mutlaka zillet sokar” hadisinde yasaklanan nedir?
++ Ziraatle meşgul olup farz olan (cihat gibi) görevi terk etmek
+- Pulluk (mihras) aletinin kendisi
+- Ağaç dikmek
+- Hayvan beslemek
+= Hadis, ekip dikmeyi sadaka sayan hadise terstir; aslında yasaklanan mihras aleti değil, ziraatle meşgul olup farz görevi terk etmektir. Başka görüşe göre yasak düşmana yakın olan içindir.
+
+? 6 | Hadisler birlikte değerlendirildiğinde birbirleriyle nasıl bir ilişki içinde olabilir?
++ Bazısı bazısını destekler, açıklar veya sınırlandırabilir
+- Hepsi birbirini nesheder
+- Yalnızca birbirini tekrar eder
+- Birbirleriyle hiçbir ilişkisi olmaz
+= Hadisler birlikte değerlendirilirse bazısı bazısını destekler, çelişir, açıklar veya sınırlandırabilir.
+
+# ---------- 7. ünite ----------
+? 7 | “Sizler dünya işlerinizi daha iyi bilirsiniz” hadisi hangi olayla ilgilidir?
++ Hurma aşılama kıssası
+- Hendek kazılması
+- Hayber’in taksimi
+- Kayıp develer meselesi
+= Rasulullah zanna dayanan bir görüşüne işaret edip aşılama yaptırmamış, sahabe kötü sonuç alınca bu hadisi söylemiştir.
+
+? 7 | “Ben müşrikler arasında oturan her müslümandan uzağım” hadisi hangi manadadır?
++ Öldürüldüğü zaman kanlarından beriyim
+- Onlarla hiç konuşmayın
+- Onların namazı kabul değildir
+- Onlar müslüman sayılmaz
+= Hadis, müşrikler arasında bulunduğu için farkedilmeyip öldürülen müslümanlar üzerine söylenmiştir; “öldürüldüğü zaman kanlarından beriyim” manasındadır.
+
+? 7 | Kadının ancak kocası veya mahremiyle yolculuk yapabileceği yasağının gerekçesi nedir?
++ Issız çöllerde deve ve katırla yapılan yolculukta zarar ve dedikodu endişesi
+- Kadının mükellef olmaması
+- Yolculuğun haram olması
+- Kadının mal sahibi olamaması
+= Gerekçe yolculuğun deve, katır gibi vasıtalarla ıssız çöllerde yapılması ve kadına zarar gelmesi ya da kötü dedikoduların yayılması endişesidir.
+
+? 7 | “İmamlar Kureyş’tendir” hadisindeki Kureyşli olma şartı neye dayanır?
++ Kureyş’teki asabiyet ve üstünlüğe
+- Kureyş’in Mekke’de yaşamasına
+- Kureyş’in ziraatle uğraşmasına
+- Kureyş’in sayıca az olmasına
+= Kureyşli olma şartı onlarda bulunan asabiyet ve üstünlük sebebiyledir; ayrıca ticaretle uğraştıkları için yönetici vasfı vardı.
+
+? 7 | Hz. Ömer Irak arazisini fetheden müslümanlar arasında neden paylaştırmamıştır?
++ Müslümanların maddi durumu artık iyi olduğu için
+- Arazi az olduğu için
+- Fetih barışla olduğu için
+- Rasulullah bunu yasakladığı için
+= Rasulullah Hayber’i fetheden sahabiler arasında paylaştırmış, Hz. Ömer ise müslümanların maddi durumu artık iyi olduğu için Irak arazisini paylaştırmamıştır.
+
+? 7 | Kayıp develer konusunda Hz. Osman ne emretmiştir?
++ Toplatılıp ilan edilmesini, sahibi çıkmazsa satılmasını
+- Kendi hâline bırakılmasını
+- Beytülmal’dan bakılmasını
+- Bulanın sahiplenmesini
+= Hz. Osman kayıp develer çoğalınca toplatılıp ilan edilmesini, sahibi çıkmazsa satılmasını ve sahibi çıkarsa parasının iade edilmesini emretti; Hz. Ali döneminde Beytülmal’dan bakıldı.
+
+? 7 | Ribevî mallar hadisindeki ölçek ve tartının örfe bağlı olduğunu söyleyen kimdir?
++ Ebû Yûsuf
+- Ebû Hanîfe
+- İmam Şâfiî
+- İbn Hacer
+= Ebû Yûsuf ölçek ve tartının örfe bağlı bir husus olduğunu söyler; Ebû Hanîfe’ye göre bu mallarda ebediyyen ölçü ve tartı geçerlidir.
+
+? 7 | Zekâtta gümüş için 200 dirhem, altın için 20 miskal nisab belirlenmesi hakkında ne söylenmiştir?
++ Rasulullah tek bir nisab kastetmiştir; o zaman bir dinar on dirhemdi
+- İki ayrı nisab ebediyyen geçerlidir
+- Yalnız gümüş nisabı geçerlidir
+- Nisab örfe bağlı değildir
+= Rasulullah iki nisab değil tek bir nisab kastetmiştir; o zaman bir dinar on dirhemdi. Gümüşün değerinin aşırı düşmesi arada büyük uçurum meydana getirmiştir.
+
+? 7 | Diyet ödemesi Hz. Ömer döneminde kime yüklenmiştir?
++ Divana
+- Katilin kendisine
+- Beytülmal’e
+- Maktulün akrabalarına
+= Rasulullah döneminde kişiye bakan en yakın erkek akrabalar (âkile) olduğu için ödeme onlara yüklenmişti; Hz. Ömer döneminde divana yüklenmiştir.
+
+? 7 | Hadislerde değişken araç ile sabit amacın karıştırılmaması ilkesine göre misvak hadisinde kastedilen nedir?
++ Dişleri temizlemek; asrımızda diş fırçası ve macun misvağın yerine geçebilir
+- Yalnızca misvak ağacının kullanılması
+- Misvakın yalnız namazdan önce kullanılması
+- Arap yarımadasındaki ağaçların korunması
+= Kastedilen misvakın kendisi değildir; misvak Arap yarımadasında diş temizleme için en kolay ulaşılabilen araçtı. Asrımızda diş fırçası ve macun yerine geçebilir.
+
+? 7 | Ru’yet-i hilâl hadisinde amaç ve araç nedir?
++ Amaç Ramazanın tamamını oruçlu geçirmek, araç hilâlin gözetlenmesidir
+- Amaç hilâli gözle görmek, araç oruçtur
+- Amaç bayramı erken yapmak, araç astronomidir
+- Amaç takvim yapmak, araç hesap bilmektir
+= Amaç Ramazan ayının tamamını oruçlu geçirmek, araç hilâlin gözetlenmesidir; asrımızda vesile astronomi ilmi olmalıdır.
+
+? 7 | Sünnete harfiyyen sarılmanın sünnetin ruhuna aykırı düşebileceğine verilen örnek hangisidir?
++ Fıtr sadakasının nakit olarak verilmesine şiddetle karşı çıkmak
+- Kayıp develerin toplatılması
+- Hayber arazisinin taksimi
+- Hurmaların aşılanması
+= Ebû Hanîfe’nin fıtr sadakasının nakit bedelinin verilmesi görüşüne, Rasulullah’ın belirlediği gıdalara dayanarak şiddetle karşı çıkanlar buna örnektir.
+
+# ---------- 8. ünite ----------
+? 8 | “Bana en çabuk kavuşacak olanınız kolu en uzun olanınızdır” hadisinde kastedilen nedir?
++ Hayırda ve iyilikte kolu uzun olan
+- Fiziken kolu en uzun olan
+- En uzun yaşayacak olan
+- En çok yolculuk yapan
+= Hanımlar lafzı gerçek manada anladı, Hz. Âişe ölçmeye başladı; oysa hayırda kolu uzun olan kastedilmişti. İlk vefat eden, elleriyle çalışıp hayırda bulunan Zeynep bint Cahş’tır.
+
+? 8 | Siyah iplik ile beyaz iplik ayetini hakiki manasında anlayıp yastığının altına iki ip koyan sahâbî kimdir?
++ Adiy b. Hâtim
+- Abdullah İbn Abbas
+- Abdullah b. Mes’ûd
+- Berâ
+= Adiy b. Hâtim ayeti hakiki manada anlamış; Rasulullah “Bu ancak gecenin siyahlığının gündüzün beyazlığından ayrılmasıdır” buyurmuştur.
+
+? 8 | “Yürüyerek gelirse koşarak gelirim” hadis-i kudsîsinde yürüme ve koşma neyden kinayedir?
++ Allah’ın kendisine itaat edene sevap vermekte hızlı davranmasından
+- Mekânda yer değiştirmekten
+- Kıyamet gününün hızından
+- Meleklerin inişinden
+= Allah burada kim kendisine itaat ederse ona sevap vermekte hızlı davranacağını ifade ediyor; yürüme ve koşmayı bundan kinaye ediyor.
+
+? 8 | “Ölümün cennet ile cehennem arasına konulup kesilmesi” hadisi nasıl açıklanmıştır?
++ Ölümün artık gelmeyeceğini anlatmak için mecazî bir ifade kullanılmış olabilir
+- Ölüm somut bir hayvana dönüşür
+- Hadis uydurmadır
+- Ölüm yalnız cehennemliklere gelir
+= Ölüm mânâlardan bir mânâ ve arazlardan bir arazdır, soyuttur; burada ölümün artık gelmeyeceğini anlatmak için mecazî ifade kullanılmış olabilir.
+
+? 8 | “Demirden bir iğne ile dürtüklenmek helal olmayan bir kadına dokunmaktan hayırlıdır” hadisindeki “dokunma” (lems) neyden kinayedir?
++ Cinsî birleşmeden
+- Tokalaşmadan
+- Bakmaktan
+- Konuşmaktan
+= İbn Abbas’ın söylediği gibi lems kelimesi Kur’an’daki el-lems ve el-mülâmese ile aynı anlamda olup cinsî birleşmeden kinayedir; hadis mücerret tokalaşmanın haram olduğuna delalet etmez.
+
+? 8 | Mecaz kapısının kapanması, yani nassın aslî ve harfî manasında anlaşılması çağdaş kültürle yetişenler için ne sonuç doğurur?
++ Onlara sünneti, hatta İslâm’ı anlamaktan yüz çevirtir
+- Onları sünnete daha çok bağlar
+- Tercüme hatalarını önler
+- Mecazî yorumlardaki aşırılığı engeller
+= Mecaz kapısının kapanması çağdaş kültürle yetişen kimselere sünneti anlamaktan hatta İslâm’ı anlamaktan yüz çevirtmektir.
+
+? 8 | İbn Hazm’a göre “Nil ve Fırat cennettendir” hadisinde nehirler neden cennete izafe edilmiştir?
++ Bereketli oldukları için
+- Kaynakları cennette olduğu için
+- Peygamberler kıyısında yaşadığı için
+- Kıyamette cennete taşınacakları için
+= İbn Hazm: akıl sahibi bu nehirlerin kaynağının yerden olduğunu bilir; bereketli oldukları için cennete izafe edilmiştir, amaç faziletlerini belirtmektir.
+
+? 8 | Sidre ağacı hadisini yalnız Harem bölgesindeki ağaçla sınırlamak hakkında ne söylenmiştir?
++ Büyük bir hatadır; Ebû Dâvûd gölgelik ağaçların zulmen kesilmesi diye açıklar
+- Doğru yorumdur
+- Hadis mevzu olduğu için önemsizdir
+- Hadis yalnız Medine’yi kapsar
+= Sidre ağacını yalnız Harem bölgesiyle sınırlamak büyük hatadır; Ebû Dâvûd yolcuların ve hayvanların gölgelendiği ağaçların boş yere zulmen kesilmesi diye açıklar.
+
+? 8 | Aşağıdakilerden hangisi reddedilen mecazî (bâtınî) yorumlardan biridir?
++ “Sahurda bereket vardır” hadisindeki sahuru istiğfar olarak yorumlamak
+- Humma hastalığının çok ateşli olduğunu söylemek
+- Kolu uzun olanı hayırda kolu uzun diye anlamak
+- Siyah ve beyaz ipliği gece ve gündüz diye anlamak
+= İbarede ve metnin akışında delil olmadan yapılan bâtınî yorumlar reddedilir; sahuru istiğfar diye yorumlamak körü körüne bir zorlamadır.
+
+? 8 | Deccal hadislerinin batı medeniyeti olarak yorumlanması neden reddedilir?
++ Deccalin tevatür derecesindeki hadislerde sabit vasıflarına ters düştüğü için
+- Deccal hadisleri mevzu olduğu için
+- Batı medeniyeti kör olmadığı için
+- Hadis mecaz içermediği için
+= Bu yorum, diğer hadislerde deccal hakkında sabit olan girip-çıkma, propaganda, bozgunculuk ve tehdit gibi vasıflara ters düşer; bu konuda tevatür derecesinde hadis vardır.
+
+? 8 | Kur’an, hadis ve lafızdaki bütün mecazı reddeden âlim kimdir?
++ İbn Teymiyye
+- İbn Hazm
+- İbn Hacer
+- İmam Nevevî
+= Notta belirtildiği üzere İbn Teymiyye Kur’an, hadis ve lafızdaki bütün mecazı kabul etmemektedir.
+
+# ---------- 9. ünite ----------
+? 9 | Aşağıdakilerden hangisi sünnetin üzerinde durduğu gaybî konulardan biri değildir?
++ Hurma aşılama
+- Kabir sorgusu
+- Mizan
+- Sırat
+= Sünnet melekler, cinler, şeytanlar, arş, kürsî, levh-i mahfuz, kabir sorgusu, berzah, kıyamet alametleri, şefaat, mizan, hesap, sırat, cennet ve cehennem gibi gaybî konulara yer vermiştir.
+
+? 9 | Cennette süvarinin gölgesinde yüz sene gittiği ağaç hadisi karşısında takınılacak tavır nedir?
++ Dünya ile âhiret kanunlarının bir olmadığını düşünüp “iman ettik, tasdik ettik” demek
+- Hadisi akla aykırı bulup reddetmek
+- Yüz seneyi kesin olarak dünya senesi diye hesaplamak
+- Hadisi mecaz sayıp yok saymak
+= Hadis Buhârî ve Müslim’in ittifak ettiği bir hadistir; dünya ile Allah katındaki zaman oranını ancak Allah bilir; içten gelerek “iman ettik, tasdik ettik” denir.
+
+? 9 | Başarılı bir davetçinin cehennemdeki kâfirin dişi gibi hadisler karşısındaki tavrı nasıl olmalıdır?
++ Dünya ve âhirete fayda sağlamayacak ve problem doğuracak bilgilerle meşgul olmaz
+- Bu hadisleri her vaazda ayrıntılı anlatır
+- Hadisin hakikatini ve nasıl olduğunu araştırır
+- Hadisi akla aykırı sayıp reddeder
+= Başarılı davetçi bu tür bilgilerle meşgul olmaz; nassın getirdiğine iman edilir, hakikati ve nasıl olduğu sorulmaz, çünkü akıl bunları çoğu zaman almaktan aciz kalır.
+
+# ---------- 10. ünite ----------
+? 10 | Hadis tercümesi neden çok önemlidir?
++ Tercüme mânen hadis rivâyeti mesabesindedir; yanlışı Resûl-i Ekrem’e ait olmayan bir sözün O’na nispetine yol açar
+- Tercümeler yalnız akademik çalışmalar içindir
+- Tercüme senedin sıhhatini belirler
+- Tercüme hadisin hükmünü değiştirir
+= Hadis tercümeleri hadisleri öğrenmenin ilk adımıdır; mânen hadis rivâyeti mesabesinde olan tercümenin yanlış olması Resûl-i Ekrem’e ait olmayan bir sözün O’na nispetine yol açar.
+
+? 10 | İncelenen hadis tercümelerinde tespit edilen hata oranı nedir?
++ 35 hadiste bir
+- 10 hadiste bir
+- 100 hadiste bir
+- 70 hadiste bir
+= Yaklaşık yetmiş bin hadis tercümesi içinden yaklaşık iki bin tercüme hatası tespit edilmiştir; hata oranı 35 hadiste birdir.
+
+? 10 | İncelemeye göre hangi çeviriler daha başarılıdır?
++ Hadis akademisyenlerinin yaptığı çeviriler
+- En eski çeviriler
+- En hızlı yapılan çeviriler
+- Bütün çeviriler aynı seviyededir
+= Tercüme edilmiş tüm hadis kitaplarının aynı seviyede olduğunu söylemek mümkün değildir; hadis akademisyenlerinin yaptığı çevirilerin daha başarılı olduğu görülmüştür.
+
+? 10 | Kelime ve ifadelerin mânaları için başvurulması tavsiye edilen garîbu’l-hadîs eseri hangisidir?
++ İbnü’l-Esîr’in en-Nihâye fî ğarîbi’l-hadîs’i
+- İbnu’l-Kayyim’in İ’lâmu’l-Muvakkı’în’i
+- Hâkim’in Müstedrek’i
+- Şâfiî’nin Risâle’si
+= Kelime ve ifadelerin mânaları için İbnü’l-Esîr’in en-Nihâye fî ğarîbi’l-hadîs’ine ve basit ta’lik çalışmalarına müracaat edilmesi tavsiye edilir.
+
+? 10 | Aşağıdakilerden hangisi doğru tercüme için önerilen dört metoddan biri değildir?
++ Hadisi en eski tercümeden aynen kopyalamak
+- Bilinmeyen kelime için garîbu’l-hadîs kaynaklarına müracaat etmek
+- Hadisin farklı tariklerini mukayese etmek
+- Hadisin geçtiği bâbın başlığıyla uyumuna dikkat etmek
+= Dört metod: garîbu’l-hadîs kaynakları, farklı tariklerin mukayesesi, bâb başlığıyla uyum, ihtiyaç halinde hadis şerhleri.
+
+? 10 | Türkçede doğru tercüme için mukayese kaynağı olarak örnek gösterilen tercüme hangisidir?
++ Mehmet Sofuoğlu’nun Buhârî tercümesi
+- A. Davudoğlu’nun Müslim tercümesi
+- Komisyonun Ebû Dâvûd tercümesi
+- sunnah.com’daki İngilizce tercüme
+= Türkçede, hatalı bazı çeviriler içermesine rağmen Mehmet Sofuoğlu’nun Buhârî tercümesi gibi kaynaklarla mukayese yapılarak ilk planda fikir sahibi olunabilir.
+
+# ---------- 11. ünite ----------
+? 11 | Bütün bir kitabı baştan sona çevirmenin ciddi risklerine işaret eden kimdir?
++ Tayyib Okiç
+- Lord Woodhouslee
+- Mehmet Sofuoğlu
+- Abdullah b. el-Mübarek
+= Merhum Tayyib Okiç’in işaret ettiği üzere bütün bir kitabı yeterli şerh veya izah yapmadan baştan sona çevirmenin ciddi riskleri vardır.
+
+? 11 | Hadislerde geçen garip kelimeler için nereye başvurulmalıdır?
++ Garibü’l-hadis türündeki hadis sözlüklerine
+- Normal Arapça sözlüklere
+- Yalnızca Türkçe sözlüklere
+- İngilizce tercümelere
+= Garip kelimeler için normal Arapça sözlüklere değil, mutlaka Garibü’l-hadis türündeki hadis sözlüklerine, hatta el-Halîl b. Ahmed’in Kitâbü’l-Ayn’ı gibi en eski eserlere başvurulmalıdır.
+
+? 11 | «الدين النصيحة» hadisindeki “en-nasiha” nasıl çevrilmelidir?
++ İçten-özden bağlılık ve samimiyet
+- Öğüt verme
+- Doğru söyleme
+- Uyarı ve korkutma
+= “En-nasiha” kavramının “nasihat” diye çevrilmesi yaygın bir yanılgıdır; Hz. Peygamber’in dilinde “içten-özden bağlılık ve samimiyet” diye çevrilmelidir.
+
+? 11 | Borcunu geciktirenin “ırz”ının helal olması ifadesindeki “ırz” ne anlama gelir?
++ Borçlunun onur ve haysiyeti
+- Borçlunun malı
+- Borçlunun ailesi
+- Borçlunun canı
+= Abdullah b. el-Mübarek’in açıklamasına göre bu, alacaklının borçluya ağır ifadelerle sataşmasına yol vermektir; ırz ile borçlunun onur ve haysiyeti kastedilir.
+
+? 11 | «ما من داء إلا في الحبة السوداء شفاء إلا السام» hadisi için hangi çeviri daha sade ve anlaşılır bulunmuştur?
++ “Çörek otunda ölüm dışında her derde şifa vardır.”
+- “Hiçbir dert yoktur ki, çörek otunda ona şifa bulunmasın, yalnız ölüm müstesna!”
+- “Siyah tohumda dertten başka şifa yoktur.”
+- “Ölüm dahil her derdin şifası çörek otundadır.”
+= Tekid ve istisna kalıplarını “… yoktur ki, şöyle olmasın” şeklinde çevirmek anlamayı zorlaştırır; “Çörek otunda ölüm dışında her derde şifa vardır” daha kısa ve açıktır.
+
+? 11 | «وبطنه معصوب بحجر» ifadesi Hüzeyl lügatinde neyden kinaye bir deyimdir?
++ Aşırı açlıktan
+- Yaralanmaktan
+- Yorgunluktan
+- Hastalıktan
+= Bu ifade Hüzeyl Kabilesi’nin lügatinde bir deyimdir ve aşırı açlıktan kinayedir; deyimler harfî çevrilmemeli, dilimizdeki karşılığı verilmelidir.
+
+? 11 | Çeviride mütercimin metinde olmayan bir açıklama vermesi gerekirse nasıl yapmalıdır?
++ Parantez ya da dipnot düşerek
+- Açıklamayı metnin içine katarak
+- Açıklamayı hiç yapmayarak
+- Arapça metni değiştirerek
+= Metinde olmayan bir mana veya yorum çeviriye katılmamalı; açıklama verilecekse parantez ya da dipnotla verilmelidir, çünkü Arapça bilmeyen okuyucu asıl metinle yorumu ayırt edemez.
+
+? 11 | Pergel örneğine göre günümüz müterciminin görevi nedir?
++ Bir ayak metinde, öbür ayak okurda olacak şekilde anlamı okuyucunun zihnine ulaştırmak
+- Pergelin bir ayağını metne sabitleyip metnin etrafında dönmek
+- Yalnız lafzı yansıtmak
+- Metni kendi yorumuyla değiştirmek
+= Pergelin bir ayağı metnin üzerinde, öbür ayağı okuyucunun zihnine kadar açılmalıdır; mütercim metin ile okuyucu arasında anlamı ileten bir iletkendir.
+
+? 11 | Lord Woodhouslee’nin tercüme için koyduğu üç prensipten biri hangisidir?
++ Bir tercüme telif kadar kolay okunabilmelidir
+- Tercüme kelimesi kelimesine yapılmalıdır
+- Tercüme okura değil yazara yönelmelidir
+- Tercümede üslûp önemli değildir
+= Üç prensip: aslındaki fikirleri tam ve eksiksiz vermek, üslûp ve tarzın aslınınki ile aynı vasıfta olması, telif kadar kolay okunabilmek.
+
+? 11 | Eşdeğerci yaklaşımın özelliği hangisidir?
++ Yazara sadıktır, kaynak metne yöneliktir
+- Okura sadıktır, erek metne yöneliktir
+- Çevirmen daha görünürdür
+- Irmaklardan geçmek için köprüler kurar
+= Eşdeğerci yaklaşım yazara sadıktır, çevirmen görünmez, kaynak metne yöneliktir; işlevselci yaklaşım okura sadık, erek metne yönelik olup köprüler kurar.
+
+? 11 | İşlevselci yaklaşıma yöneltilen eleştiri ve buna verilen cevap nedir?
++ Kaynak metni tahrif edebileceği eleştirilir; oysa savunucuları yanlış çeviriyi onaylamaz, çevirmene ağır sorumluluk yükler
+- Okuru ihmal ettiği eleştirilir; oysa okura sadıktır
+- Fazla lafzî olduğu eleştirilir; oysa serbesttir
+- Çevirmeni görünmez kıldığı eleştirilir; oysa aktiftir
+= İşlevselci yaklaşım kaynak metni tahrif edebileceği gerekçesiyle eleştirilmiştir; bu gerekçe doğru değildir, savunucularından hiçbiri yanlış çeviriyi onaylamaz.

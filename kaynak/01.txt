@@ -1,0 +1,128 @@
+# Hadiste Metin Tenkidi: Kavram ve Tarih Metoduyla Mukayese
+> Metin tenkidi kavramı, tarihçinin dış ve iç tenkidi ile hadisçinin isnad ve metin tenkidi arasındaki fark, iki ilmin tenkid merhaleleri, metinle ilgili sıhhat şartları, muâraza sistemi ve mevzuluk alâmetleri.
+
+## Kavram Olarak Metin Tenkidi
+¶ Metin Tenkidi kavramının hadis ilminde bir ıstılah olarak kullanılması son dönemlerde ortaya çıkmıştır.
+¶ Hadis metinlerinin tenkidi, düşünce ve uygulama olarak müslümanların yabancısı değildir. Fakat bu olguyu bu kavramla / ıstılahla ifade etmemişler, farklı terimler kullanmışlardır. Muâraza, ihtilâf, teâruz, işkâl vs. gibi klasik kavramlar metin tenkidi ameliyesine tam tamına tetabuk etmese de referans teşkil ederler. Metin tenkidi deyimi hadis ilmi ve şarkiyatçıların ve modern tarihçilerin terminolojisinden geçmiştir.
+¶ Tarih ilminde metin tenkidi sadece tarihî belgenin tenkidine münhasır değildir. Tarihçilerin dış tenkid dediği şey tam olarak isnâd tenkidine, iç tenkid dedikleri şey de tam olarak metin tenkidine tekabül etmez. Dolayısıyla tarihçinin metin tenkidi ile kastettiği, hadisçinin metin tenkidi ile kastettiğinden farklıdır. Konunun açıklığa kavuşması için tarihçilerin tenkid terminolojisini ve yöntemlerini incelemek zarurîdir.
+### Modern tarihçilikte iki tenkid metodu
+¶ Tarihî olayları gerçeğe uygun şekilde tesbit için modern tarihçilikte iki çeşit tenkid metodu kullanılmaktadır.
+: Dış tenkid (en-nakdu’l-hâricî, critique externe) = Yani kaynak kritiği. Kaynak malzemenin orijinal mi yoksa sahte mi olduğunu tesbit için yapılan işlemlerdir.
+: İç tenkid (en-nakdu’l-bâtınî, critique interne) = Yani muhtevânın tenkidi. İç tenkid de ikiye ayrılır: olumlu (pozitif) ve olumsuz (negatif) tenkid.
+- a) **Olumlu (îcâbî, pozitif) tenkid.** Târihî kaynağı anlamak ve tahlil etmek için yapılan işlemlerdir.
+- b) **Olumsuz (selbî, negatif) tenkid.** Bu tenkid de iki merhalede yapılır:
+- ı) Müellifin veya haberi nakledenin tenkidi: Yani dürüstlüğünün tesbiti.
+- ıı) Haberi bize aktaranın aklî dengesinin ve duyu organlarının sağlam olup olmadığının, olayı tam ve hatasız müşâhede etmesine imkân sağlayacak çevre şartlarının bulunup bulunmadığının tesbiti gerekmektedir.
+¶ Kısaca tarihçi, yargılama esnasında bütün delilleri ve karineleri titiz bir şekilde inceleyen ve değerlendiren bir hâkim gibi olmalıdır. Buraya kadar anlatılanlarda görüldüğü üzere, hadisteki isnâd ve rical tenkidi negatif iç tenkid’e tekabül etmektedir. Dolayısıyla tarihteki dış tenkidi hadisteki isnâd tenkidiyle tarihteki iç tenkidi hadisteki metnin tenkidiyle özdeşleştirmek doğru değildir.
+| Tarihçinin tenkidi | Neyi inceler? | Hadisteki karşılığı
+| **Dış tenkid** (kaynak kritiği) | Kaynak malzeme orijinal mi, sahte mi? | Tam olarak isnâd tenkidi değildir
+| **Olumlu iç tenkid** | Kaynağı anlamak ve tahlil etmek | —
+| **Olumsuz iç tenkid** | Nakledenin dürüstlüğü; aklî dengesi, duyuları ve çevre şartları | Hadisteki isnâd ve rical tenkidi buna tekabül eder
+!! Tarihteki dış tenkidi hadisteki isnâd tenkidiyle, tarihteki iç tenkidi hadisteki metnin tenkidiyle özdeşleştirmek doğru değildir.
+* Metin tenkidi ıstılahı hadis ilminde son dönemlerde ortaya çıkmıştır; klasik dönemde muâraza, ihtilâf, teâruz, işkâl gibi terimler kullanılmıştır.
+* Tarihçilikte iki tenkid: dış tenkid (kaynak kritiği) ve iç tenkid (muhtevânın tenkidi; olumlu ve olumsuz).
+* Hadisteki isnâd ve rical tenkidi, tarihteki negatif iç tenkide tekabül eder.
+
+## Hadislerde Metin Tenkidi Yapılmadığı İddiaları
+¶ Bazı müsteşrikler ve müslüman müellifler, hadis ilminde sadece cerh-ta’dîl yönünden sened tenkidi yapıldığı, metin tenkidine önem verilmediği iddiasını ileri sürmektedirler.
+- **Caetani**, hadisçilerin metin hakkında her türlü tenkidden müctenib (uzak) davrandıklarını söyler.
+- **İbn Haldun** (808/1405) da müslümanların tenkidci zihniyetten uzaklaştıkları için hataya düştüklerinden, günümüzden yedi asır önce şikâyette bulunmaktadır.
+- Bazı son devir müslüman müellifler de aynı iddiayı ileri sürmektedirler. Mesela **Zakir Kâdirî Ugan** bunlardandır.
+* Hadisçilerin metin tenkidi yapmadığını ileri sürenler: Caetani, İbn Haldun (şikâyet), Zakir Kâdirî Ugan.
+
+## Tarihin Tenkid Metodu ile Hadisin Tenkid Metodunun Mukayesesi
+¶ Modern tarih tenkidciliği ile hadis tenkidciliği kendi içlerinde müstakil birer sistemdirler.
+¶ Hadis ilmi islâm tarihinin ilk yıllarından itibaren kendi tenkid sistemini kurup olgunlaştırdığından, tenkid süzgecinden geçirilmiş malzeme ile birlikte, tenkid için gerekli bilgi ve verileri de günümüze ulaştırmıştır. Tarih ilminin durumu ise böyle değildir. Tenkidcilik için gerekli verilerden mahrumdur. Bu yüzden tarihçinin genellikle metin tenkidinden başka yapabileceği bir şey yoktur. Bunların çoğu da kesin bilgilere dayanmaktan ziyade, ictihâdî ve istidlâlî tenkidler olacaktır.
+¶ Şimdi her iki ilmin tenkid merhalelerini ayrı ayrı karşılaştıralım:
+### 1. Kaynakların Toplanması
+¶ Tarihçilikte ilk plânda bütün kaynakların derlenmesi gelir. Bu genel prensip olmakla birlikte, tarihçilerde bir kaynağın mümkün olduğu ölçüde değişik bütün varyantlarını toplama tatbikatına yaygın bir şekilde rastlamıyoruz. Hadisçilerde ise bir hadisin bütün varyantlarını toplama geleneği çok yaygındır. Hadis kitaplarının çoğunun kaybolmasına rağmen, bir hadisin değişik hadis kitaplarında çok miktarda varyantlarına rastlamamız bunun en açık delilidir.
+### 2. Kaynağın Sıhhatinin Tesbiti
+¶ Tarihçi ve hadisçinin yapacağı ikinci iş, eldeki malzemenin sıhhatini tesbit etmektir. Hadisçiler bu konuda daha titiz ölçüler koymuşlardır. Haberi, nakledenler zincirindeki kişiler tek tek güvenilir ve hafızası sağlam, sened kesintisiz olmadıkça kabul etmezler.
+¶ Tarih ilminde bu tür tenkidlerden geçmiş hazır malzeme bulmak çok zordur.
+### 3. Kaynağın Anlaşılması
+¶ Hadisçiler metinlerde geçen ğarib (nâdir kullanılan) kelimeler, lâfızların gramer ve edebî yönden tahlilleri, isimlerin okunuş incelikleri vs. gibi müstakil ilim dalları tesis edip bu alanlarda kütüphaneler dolusu eserler yazmışlardır. Ayrıca şerh geleneği ile bu klasik malûmatı kolay kullanılır şekle sokarak nesilden nesile aktarmışlardır.
+¶ Tarihçinin ise böyle tahlil edilmiş ve çözülmüş, yazıldığı devrin anlayışına göre yorumlanmış vesika metinleri elde etme şansı hemen hemen yok gibidir.
+### 4. Menfî Metin Tenkidi
+¶ Hadisçiler sadece kaynağın sıhhatini tesbitle kalmamışlar, bugünkü iç tenkid metotlarını, gerektiği yerlerde en mükemmel şekilde kullanmışlardır. Tarihçinin metin tenkidine önem vermesi ise, belgenin mevsûkiyetini tesbit için yeterli malûmat bulamadığındandır.
+| Merhale | Tarihçi | Hadisçi
+| **1. Kaynakların toplanması** | Bütün kaynaklar derlenir; bir kaynağın bütün varyantlarını toplamaya yaygın olarak rastlanmaz | Bir hadisin bütün varyantlarını toplama geleneği çok yaygındır
+| **2. Sıhhatin tesbiti** | Bu tür tenkidlerden geçmiş hazır malzeme bulmak çok zordur | Râviler tek tek güvenilir ve hafızası sağlam, sened kesintisiz olmadıkça kabul edilmez
+| **3. Kaynağın anlaşılması** | Tahlil edilmiş, yorumlanmış vesika elde etme şansı yok gibidir | Garib kelimeler, gramer, isimlerin okunuşu için müstakil ilimler; şerh geleneği
+| **4. Menfî metin tenkidi** | Belgenin mevsûkiyetini tesbit için yeterli malûmat bulamadığından metin tenkidine önem verir | İç tenkid metotlarını gerektiği yerlerde en mükemmel şekilde kullanmışlardır
+* Hadis ilmi tenkid süzgecinden geçmiş malzemeyle birlikte tenkid için gerekli verileri de ulaştırmıştır; tarih ilmi bu verilerden mahrumdur.
+* Tenkid merhaleleri: 1. kaynakların toplanması · 2. sıhhatin tesbiti · 3. kaynağın anlaşılması · 4. menfî metin tenkidi.
+* Tarihçinin metin tenkidine önem vermesi, belgenin mevsûkiyetini tesbit için yeterli malûmat bulamamasındandır.
+
+## Hadiste Metin Tenkidi Tatbikatı
+¶ Hadisçilerin metin tenkidine önem vermedikleri iddiaları temelde iki sebepten kaynaklanmaktadır:
+1. Hadis tenkid sisteminin sathî bir nazarla incelenmesi
+2. İslâmî ilimler taksimatının katı sınırlar içerisinde mütâlâa edilmesi
+* Metin tenkidi yapılmadığı iddiasının iki sebebi: hadis tenkid sistemine sathî bakış ve İslâmî ilimler taksimatını katı sınırlarla mütâlâa etmek.
+
+## Hadisin Metniyle İlgili Sıhhat Şartları
+¶ Bir hadisin sahîh olabilmesi için dört şart aranır:
+1. Râvîlerin adalet ve zabt sahibi olması
+2. Senedin muttasıl olması
+3. Şazz olmaması, yani sika râvîlerin rivâyetlerine muhalif olmaması
+4. İlletli olmaması
+¶ Hadis ilk bakışta kusursuz gibi görünürken, sadece hadis mütehassıslarının anlayabileceği gizli kusurlar taşıyabilir. Böyle hadislere muallel (illetli) denir. Bu illetler senedde de olabilir, metinde de. Aynı şekilde şazzlık da hem sened hem metin için söz konusudur. Şu hâlde sahîh hadisin şartlarından ilk ikisi, birinci plânda dış tenkidi ilgilendirirken, son ikisi hadisin şazz ve illetli olmaması kaydıyla iç tenkidi ilgilendirmektedir.
+: Muallel (illetli) hadis = İlk bakışta kusursuz gibi görünürken, sadece hadis mütehassıslarının anlayabileceği gizli kusurlar taşıyan hadis. Bu illetler senedde de olabilir, metinde de.
+| Sahîh hadisin şartı | Birinci plânda ilgilendirdiği tenkid
+| 1. Râvîlerin adalet ve zabt sahibi olması | Dış tenkid
+| 2. Senedin muttasıl olması | Dış tenkid
+| 3. Şazz olmaması | İç tenkid
+| 4. İlletli olmaması | İç tenkid
+* Sahîh hadisin dört şartı: râvîlerin adalet ve zabtı, senedin ittisali, şazz olmaması, illetli olmaması.
+* İlk iki şart birinci plânda dış tenkidi; şazz ve illetli olmama şartları iç tenkidi ilgilendirir.
+
+## Metin Yönünden Hadis Taksimatı
+¶ Hadisçiler hadis çeşitlerinin taksimatını yaparlarken, sened ve metni ayrı ayrı nazarı itibara almışlardır. Hadis çeşitleri metin veya seneddeki bazı özellik ve farklardan ortaya çıkmıştır. Bu taksimatta metin esas alındığında şu hadisler yer alır: Mütevâtir, maklûb, müdrec, musahhaf, nâsih, mensûh, müteşâbih, şazz, mahfuz, münker, muzdarib, muallel...
+: Mütevâtir hadis = Yalan üzerinde birleşmeleri aklen mümkün olmayacak sayıda râvî tarafından nakledilen hadislerdir.
+: Maklûb = Sened veya metinde takdim te’hir yapılan hadis.
+: Müdrec = Sonradan ilâveler yapılmış hadis.
+: Musahhaf = Üzerinde tahrifat yapılmış hadis.
+¶ Bu üç terimde (maklûb, müdrec, musahhaf) cerh ve ta’dîl kriterleri değil, sened veya metin üzerinde yapılan değişiklikler ve bunların tesbiti söz konusudur. Hadisin farklı tariklerinin mukayesesi ile tesbit edilen bu değişikliklerin tesbiti, hadisin orijinal metnini ortaya koymayı hedefleyen bir metin tenkidi ameliyesidir. Sadece bu konularda yazılan eserler dahi muhaddislerin metin tenkidine önem vermedikleri iddiasını redde kâfidir.
+: Müteşâbih hadis = Zahirî manasına hamledildiğinde islâm’ın genel esaslarıyla çeliştiği için te’vîl edilen hadislerdir.
+### Şazz, Münker, Mahfuz ve Muzdarib
+¶ Aralarında aykırılık olan hadislerden, her iki tarafın râvîleri de sika olmakla birlikte bir tarafın râvîsi birden çok, karşı taraftaki hadisin râvîsi tek ise; râvîsi birden çok olana mahfuz, râvîsi tek kalan hadise şazz denir. Bu durumda mahfuz hadis tercih edilip, şazz hadis reddedilir. Tek kalan râvî sika değilse, bu râvînin rivâyetine münker denir ve münker rivâyetin reddedileceği açıktır. Aralarında muhalefet olan hadislerden hiçbirini tercih imkânı olmazsa, böyle hadislere muzdarib hadis denir.
+: Mahfuz = Aralarında aykırılık olan ve iki tarafın râvîleri de sika olan hadislerden râvîsi birden çok olanı. Tercih edilir.
+: Şazz = Aralarında aykırılık olan ve iki tarafın râvîleri de sika olan hadislerden râvîsi tek kalanı. Reddedilir.
+: Münker = Tek kalan râvî sika değilse bu râvînin rivâyeti. Reddedileceği açıktır.
+: Muzdarib = Aralarında muhalefet olan hadislerden hiçbirini tercih imkânı olmayan hadis.
+| Durum | Adı | Hükmü
+| İki taraf da sika; râvîsi birden çok olan | **Mahfuz** | Tercih edilir
+| İki taraf da sika; râvîsi tek kalan | **Şazz** | Reddedilir
+| Tek kalan râvî sika değil | **Münker** | Reddedileceği açıktır
+| Hiçbirini tercih imkânı yok | **Muzdarib** | —
+* Maklûb: takdim te’hir · müdrec: sonradan ilâve · musahhaf: tahrifat. Bu üçünde cerh-ta’dîl değil, metindeki değişikliğin tesbiti söz konusudur.
+* Müteşâbih: zahirî manası İslâm’ın genel esaslarıyla çeliştiği için te’vîl edilen hadis.
+* Sika râviler arasında: çok râvîli mahfuz (tercih), tek râvîli şazz (red); tek râvî sika değilse münker; tercih imkânı yoksa muzdarib.
+
+## Muâraza Sistemi
+: Muâraza (mukâbele) = Hadisin farklı tariklerinin birbiriyle mukayesesine hadis ilminde muâraza veya mukâbele ismi verilir.
+¶ Hz. Âişe gibi bazı münekkid sahâbilerin de, nakledilen herhangi bir hadisi diğer hadislerle veya Hz. Peygamber’in tatbikatlarıyla mukayese ettikleri bilinmektedir. Fakat yaygın olarak kullanılması tabiûn döneminde başlar.
+¶ Muâraza işlemi değişik şekillerde yapılmıştır:
+1. Sahâbilerin veya râvîlerin rivâyetlerini birbirleriyle mukayese etmek.
+2. Bir muhaddisin veya râvînin rivâyetlerini değişik zamanlarda yeniden dinlemek suretiyle, önceki rivâyetlerinden farklı olarak rivâyette bulunup bulunmadığını kontrol etmek. Bundan maksad râvînin zabtını kontrol etmektir.
+3. Bir hadis şeyhinin müteaddid talebelerinin rivâyetlerini mukayese ederek yapılan kontrol: Bundan gaye, hem hocanın rivâyetlerini kontrol, hem de talebelerden hata yapan varsa bunu tesbit etmektir.
+4. Bir muhaddisin veya râvînin hadislerini başkalarının rivâyetleriyle mukayese etmek.
+5. Ders esnasında hocaya hadislerinin başkaları tarafından nakledilen farklı rivâyetlerini sorarak bu farklılık konusunda hocanın bilgisini almak.
+6. Kitabın hafızadan veya kitabın kitaptan kontrolü.
+* Muâraza (mukâbele): hadisin farklı tariklerini birbiriyle mukayese etmek; Hz. Âişe gibi münekkid sahâbîlerde görülür, yaygınlaşması tabiûn döneminde.
+* Muârazanın altı şekli: sahâbî/râvî rivâyetlerini karşılaştırma, râviyi değişik zamanlarda yeniden dinleme (zabt kontrolü), şeyhin talebelerini karşılaştırma, başkalarının rivâyetleriyle karşılaştırma, hocaya farklı rivâyetleri sorma, kitabın hafızadan ya da kitaptan kontrolü.
+
+## Hadislerin Mevzuluk Alâmetleri
+¶ Hadisçiler, hadis metinlerindeki bazı karinelere bakarak mevzu olduklarına hükmedilebileceğini ifade etmişlerdir. Mesela **İbn Salâh** (643/1245) “Hadisin mevzu olduğu râvî ve mervîdeki (hadis metnindeki) birtakım karinelerle bilinebilir. Birçok uzun hadis vardır ki, lafızlarında ve manalarındaki bozukluklar mevzu olduklarına delâlet eder” der.
+¶ **İbnu’l-Kayyim**, aşağıdaki özellikleri taşıyan hadislerin mevzu olacağını belirtmiştir:
+1. Rasûlullah’ın (s) söylemesi mümkün olmayan mantıksız ifadeler taşıması: “Kim ‘lâ ilahe illallah’ derse, Allah bu kelimeden 70 bin dili olan bir kuş yaratır...” şeklindeki rivâyet gibi.
+2. Rivâyetin tecrübe ve müşâhedeye aykırılığı: “Patlıcan ne için yenirse ona fayda verir.” gibi.
+3. İfadelerinin çirkin veya gülünç olması
+4. Sarîh sünnete aykırılığı
+5. Rasûlullah’ın (s) pek çok kişinin huzurunda yapmış olduğu bir şeyin bir kişi tarafından nakledilmesi
+6. Hadisin, bizatihi bâtıl olması
+7. Bir peygamber kelâmına benzememesi.
+8. Tabiblerin veya mutasavvıfların ifade tarzlarına benzemesi: “Balık yeme vücudu zayıflatır.” gibi.
+9. Kur’ân’ın sarih hükümlerine aykırı olması.
+10. Hadisin manasında veya lafzında bozukluk olması.
+* İbn Salâh: hadisin mevzu olduğu râvî ve mervîdeki (metindeki) karinelerle bilinebilir.
+* İbnu’l-Kayyim’e göre mevzuluk alâmetlerinden bazıları: mantıksız ifade, tecrübe ve müşâhedeye aykırılık, çirkin/gülünç ifade, sarîh sünnete ve Kur’ân’a aykırılık, peygamber kelâmına benzememe, tabib ve mutasavvıf üslûbu.
